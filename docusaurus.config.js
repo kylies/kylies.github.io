@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Kymira',
   tagline: 'Dinosaurs are cool',
-  url: 'https://kymira.ca',
-  baseUrl: '/',
+  url: 'https://kylies.github.io',
+  baseUrl: '/kylies.github.io/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -20,7 +20,6 @@ const config = {
   projectName: 'kylies.github.io', // Usually your repo name.
   deploymentBranch: 'deployment', // The name of the deployment branch.
   trailingSlash: false,
-  CURRENT_BRANCH: 'main',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
