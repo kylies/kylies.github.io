@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkymira=self.webpackChunkkymira||[]).push([[703],{2672:a=>{a.exports=JSON.parse('{"label":"21draw","permalink":"/blog/tags/21-draw","allTagsPath":"/blog/tags","count":12,"unlisted":false}')}}]);
