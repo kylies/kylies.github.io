@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkymira=self.webpackChunkkymira||[]).push([[4125],{5098:a=>{a.exports=JSON.parse('{"label":"altar stone","permalink":"/blog/tags/altar-stone","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
