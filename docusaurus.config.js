@@ -99,17 +99,13 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'Writing',
-                to: '/writing.php',
-              },
-              {
                 label: 'RSS Feed',
-                to: '/blog/rss.xml',
+                href: 'https://www.kymira.ca/blog/rss.xml',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kymira, Inc. Built with Docusaurus.`,
       },
 
     }),
