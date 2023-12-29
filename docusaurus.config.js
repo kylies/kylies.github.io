@@ -102,6 +102,10 @@ const config = {
                 label: 'Writing',
                 to: '/writing.php',
               },
+              {
+                label: 'RSS Feed',
+                to: '/blog/rss.xml',
+              },
             ],
           },
         ],
