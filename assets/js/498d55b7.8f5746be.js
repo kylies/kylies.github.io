@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkymira=self.webpackChunkkymira||[]).push([[2666],{8170:a=>{a.exports=JSON.parse('{"label":"games","permalink":"/blog/tags/games","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
