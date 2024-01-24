@@ -10,7 +10,7 @@ import useBaseUrl from "@docusaurus/useBaseUrl"; // gives link after concating w
 const FeatureList = [
   {
     title: 'Art Blog',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/greysquirrel.svg').default,
     description: (
       <>
         I recently made a return to practice art. Documenting my experience
@@ -20,7 +20,7 @@ const FeatureList = [
   },
   {
     title: 'D&D Campaigns',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/squirrel1.svg').default,
     description: (
       <>
         Resources for my players and some homebrew content from
@@ -30,7 +30,7 @@ const FeatureList = [
   },
   {
     title: 'Writing Portfolio',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/crow.svg').default,
     description: (
       <>
         A collection of writing projects.
