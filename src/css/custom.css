@@ -34,3 +34,9 @@ webring-css {
   max-width: 300px;
   margin: 1rem auto;
 }
+
+.about {
+  border: 0px;
+  width: 5000;
+  text-align: center;
+}
