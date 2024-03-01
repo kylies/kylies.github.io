@@ -67,7 +67,6 @@ const config = {
             label: 'D&D Campaigns',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {href: 'https://kymira.ca/writing.php', label: 'Writing Portfolio', position: 'left'},
         ],
       },
       footer: {
