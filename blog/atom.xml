@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2024-03-09T00:00:00.000Z</updated>
+    <updated>2024-03-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NaNoRenO - Week 2]]></title>
+        <id>https://kymira.ca/blog/nanoreno2</id>
+        <link href="https://kymira.ca/blog/nanoreno2"/>
+        <updated>2024-03-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Week 2 progress overview]]></summary>
+        <content type="html"><![CDATA[<p>Week 2 has been a rather slow one. The time change hit me really hard so I felt a little ill the first few days just from my sleep getting messed with. Then my other projects and volunteer work took up a fair bit of space on other days. And today I’m off to get a tattoo which likely won’t leave me in a “go make art” kind of mood after either. So we’re in challenging times!</p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="backgrounds">Backgrounds<a href="https://kymira.ca/blog/nanoreno2#backgrounds" class="hash-link" aria-label="Direct link to Backgrounds" title="Direct link to Backgrounds">​</a></h2>
+<p>While I only did two backgrounds this week I am rather happy with them. The first was this big storm scene. I did some research into painting storm clouds and then also into waves (which I often find difficult). The lightning looks rather unnatural due to being from a lightning brush but I kind of like how much it stands out as it is the focus of the pieces.</p>
+<p><img loading="lazy" alt="Top of a lighthouse looking out at rough waves. A large bolt of lightning moves between storm clouds." src="https://kymira.ca/assets/images/sl-storm-bg-0cd4ae14d8b8a855e5fe4fbb0d883b14.jpg" width="1920" height="1080" class="img_wQsy"></p>
+<p>The second background has a lot of simple cheats for doing woodsy backdrops but it takes a lot of time to fill all the layers this kind of piece needs. So I spent two evenings chipping away at this one. But I feel like the shading does pull things together and convey depth in the scene. I could probably make it even stronger by doing more obvious lighting but I was starting to feel like I needed to move on… to resting on the couch and watching tv.</p>
+<p><img loading="lazy" alt="Stag on a path in the woods." src="https://kymira.ca/assets/images/sl-forest-bg-ab1c6ec7c42d36def3ca5b04b7cee573.jpg" width="1920" height="1080" class="img_wQsy"></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="website-update">Website update<a href="https://kymira.ca/blog/nanoreno2#website-update" class="hash-link" aria-label="Direct link to Website update" title="Direct link to Website update">​</a></h2>
+<p>This is such a small website change that I suspect no one would notice unless I point it out. But I started using my own favicon to replace the default Docusaurus one (even though I do love the Docusaurus dinosaur). It’s now this guy, which was an attempt at making a 16x16px squirrel for a possible GameBoy game but I think it looks a little more dog-like? But at least some sort of creature-like but I like that it might not be obvious.</p>
+<p><img loading="lazy" alt="Pixel favicon of a grey 4 legged creature." src="data:image/png;base64,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" width="16" height="16" class="img_wQsy"></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="conclusion">Conclusion<a href="https://kymira.ca/blog/nanoreno2#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>This coming week I’m going to try to start working on writing. I’m a little uncertain about this as I’m pulled to do most of my writing in Google Docs as that’s where most of my work lives but due to the formatting of things it will probably be easiest to work in the text editor that I use to open the Ren’py code files.</p>
+<p>I find myself already missing my weekly art practice as it was so much easier to only to commit to things for 1 week at a time.</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="art" term="art"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NaNoRenO - Week 1]]></title>
         <id>https://kymira.ca/blog/nanoreno1</id>
@@ -863,71 +887,6 @@
 <p>I also struggled with the colour balance a bit more here. I wanted the sun to be rising behind the mountains which made for minimal light hitting the side we could actually see. And some of the mountains felt like they started to disappear, which I guess makes sense if the light is so bright behind them, but I ended up darkening up a lot of features so that the lines between layers of distance still made sense.</p>
 <h2 class="anchor anchorWithStickyNavbar_FNw8" id="final-review">Final review<a href="https://kymira.ca/blog/landscapes#final-review" class="hash-link" aria-label="Direct link to Final review" title="Direct link to Final review">​</a></h2>
 <p>Overall I found this course had the perfect balance of lesson + homework. It had some great foundational takeaways and you could instantly apply what was being taught. I struggled a little bit with the program being Photoshop in the course, but nearly all the features also exist in Clip Studio so it was just a matter of figuring out the right tool or button to accomplish the task. The course managed to really break down how to approach landscapes and now I no longer feel intimidated by them. Will definitely draw more in the future.</p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="21draw" term="21draw"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixed Media Monsters]]></title>
-        <id>https://kymira.ca/blog/mixed-media-monsters</id>
-        <link href="https://kymira.ca/blog/mixed-media-monsters"/>
-        <updated>2023-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mixed media course on 21 Draw launched a little over a month ago now. It’s their first mixed media course which was enough to make me want to give it a try. And it focused on strange creatures so it had a lot going for it in my eyes. It ended up being one of the more detailed courses I’ve taken so far.]]></summary>
-        <content type="html"><![CDATA[<p>The mixed media course on 21 Draw launched a little over a month ago now. It’s their first mixed media course which was enough to make me want to give it a try. And it focused on strange creatures so it had a lot going for it in my eyes. It ended up being one of the more detailed courses I’ve taken so far.</p>
-<p>The course is hosted by <a href="https://www.evaboneva.com/" target="_blank" rel="noopener noreferrer">Eva Toorenent</a>, an artist with a very unique approach to mixing watercolours with digital colouring. I’ve never done any serious watercolour practice before so I was excited at the possibility of learning a new medium.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="inspiration">Inspiration<a href="https://kymira.ca/blog/mixed-media-monsters#inspiration" class="hash-link" aria-label="Direct link to Inspiration" title="Direct link to Inspiration">​</a></h2>
-<p>The first assignment of the course was 2 questions. I find these things rather cheesy and would usually skip them, but as I said in my previous blog post, doing these courses is my attempt to slow down and do the work.</p>
-<p><strong>Question 1: What gets you excited/happy? What can you talk about for hours? (5 sentences)</strong></p>
-<p>This is a kind of ironic one because I recently told my girlfriend “I don’t feel joy” and I kind of mean it but in a way that I just don’t get super excited about things. I can feel joy or happiness in the moment, I look forward to things in the future, but I rarely feel really <em>excited</em> about it.</p>
-<p>The biggest one is probably playing D&amp;D. It’s a solid combo of creativity, fast thinking and social time. It’s probably also one of the few things I could talk about for hours.</p>
-<p>I have a lot of practice talking about myself thanks to over 100 hours of therapy but I can’t say that that’s a topic that I’m excited about. I also get very excited to eat take-out but couldn’t talk about that for hours unless we’re looking for recommendations.</p>
-<p>It’s funny because I do love to read, watch tv, play video games, and just consume media in general but I don’t go out of my way to talk about it for more than a few minutes. I’ve always been a big Solo Enjoyer.</p>
-<p><strong>Question 2: What do you do to get inspired? (5 things)</strong></p>
-<ul>
-<li>Read blogs / adventures written by other DMs (D&amp;D)</li>
-<li>Stare out the window (in hopes of seeing animals)</li>
-<li>Listen to podcasts</li>
-<li>Look at my previous projects</li>
-<li>Talk about ideas with other people</li>
-</ul>
-<p><strong>Question 3: 3 artists that inspire your work</strong>
-I quickly knew this wasn’t a question I was prepared to answer. Which made me wonder if maybe it’s a reason why I feel all over the place with style. I don’t have any artists I follow really closely or ones I’ve done a deep dive on their methods. But I do have a Twitter list with 100 artists whose art I like. I can’t say they all inspire my art. So it took a long time to find some answers to this:</p>
-<ol>
-<li><a href="https://twitter.com/frandaredoodles" target="_blank" rel="noopener noreferrer">Fran Dare</a></li>
-</ol>
-<p>Fran used to run #drowgust over on Twitter every year, it was one of the first art month challenges that I managed to complete. They draw an endless amount of drow (and so was I a few years ago) and I really loved their greyscale approach to traditional pieces. They are probably a big reason why I own so many grey markers.</p>
-<ol start="2">
-<li><a href="https://www.youtube.com/@Drawfee" target="_blank" rel="noopener noreferrer">Drawfee team</a></li>
-</ol>
-<p>Drawfee is a show that’s been around online for ages but I only started watching it last year. They are digital art focused, which is often how I work. They mostly draw characters or silly scenes, which is basically where I want to get comfortable with my drawings. But since they do speedraws every now and then you can watch their process, hear about how they troubleshoot an image and see them push their own artistic boundaries. Watching their episodes every week is definitely one of the big reasons why I made this year an art focused year.</p>
-<ol start="3">
-<li>???</li>
-</ol>
-<p>Honestly couldn’t come up with anyone else. Back in the days of DeviantArt and blogs it was much easier to follow artists and learn about their process. I’m not a huge fan of historical artists so I’m not off reading about the progression of the Old Masters. A decent take away from this question is that I probably want to find some time to do research on artists, see who has good YouTube content, see if anyone is blogging about their work. Learn more about other people's approaches to find new directions to take my own practice.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="inspiration-and-reference-material">Inspiration and reference material<a href="https://kymira.ca/blog/mixed-media-monsters#inspiration-and-reference-material" class="hash-link" aria-label="Direct link to Inspiration and reference material" title="Direct link to Inspiration and reference material">​</a></h2>
-<p>Like most of the courses this one tasks you with creating a moodboard and even a playlist. Since the mood boards were focused on one for real animals and one for monsters I spent some time building these up with images I like. I didn’t bother to make a playlist as I find this very time consuming and not super helpful to my own process.</p>
-<p>It was around this point that I realised how many different assignments there were going to be in this course. There was a blob challenge, which I did. But she says don’t even bother to do this unless you know you are then going to work on a larger piece after. And in my case, I almost never have that much time on my hands to spend 20 minutes doing a blob challenge. Followed by a requested <strong>five</strong> pages of sketches to get ideas down. Then on top of that, choosing 3-5 and giving those characters a story related phrase to say.</p>
-<p>I understand that this is a course very closely following a particular artist's approach to their work but at this point the course was losing focus for me. Wasn’t jiving with the process. I wanted to get to the technical takeaways. I know this comes a lot from my own impatience, but it’s also clear that these are approaches for people who can spend 2-5 hours doing creative projects. I don’t have that kind of time so I need to find my own approach.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="warm-up">Warm-up<a href="https://kymira.ca/blog/mixed-media-monsters#warm-up" class="hash-link" aria-label="Direct link to Warm-up" title="Direct link to Warm-up">​</a></h2>
-<p>I did the blob challenge twice. The first time when I had limited time and the second time on a rare quiet morning. I still really do enjoy this challenge, even though I often feel head empty when I first see the shapes. I'm usually pretty pleased with one of them by the end of it.</p>
-<p><img loading="lazy" alt="Draw a creature in the blog exercise" src="https://kymira.ca/assets/images/Blob-exercise-0d9f98a72d749c0506d9ea6360bda430.jpg" width="2000" height="1589" class="img_wQsy"></p>
-<p>Then I went to my Pinterest boards and started sketching. At first I would take one idea from each monster while scrolling. Other times I would attempt to reacted a whole creature if it felt like a good challenge. Then I stared to take single pieces and try to build up something larger just using my own ideas. Then I just drew some jellyfish.</p>
-<p><img loading="lazy" alt="Some of my practice sketches" src="https://kymira.ca/assets/images/mm-sketches-59e14192d886918c4d959a73ceeddf56.jpg" width="2500" height="1409" class="img_wQsy"></p>
-<p>I chose the moth guy to be the piece of this course. Simple enough that I felt confident I could recreate it in a new sketch. But before that I had to drop 150$ on watercolour supplies. Just had too.</p>
-<p>I had tried using the Aquarelle Watercolour Pencils I already owned but found I still struggled with understanding the right way to use these. I probably could have looked up some tutorials online but other then a new sketchbook I hadn't bought any new art materials since started these classes 6 months ago. Felt like a reasonable time to put some money into the hobby, especially if it was going to help motivate me in a course.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="final-project">Final project<a href="https://kymira.ca/blog/mixed-media-monsters#final-project" class="hash-link" aria-label="Direct link to Final project" title="Direct link to Final project">​</a></h2>
-<p>Moth guy, who I started to call Mothmon because I felt he had Digimon design energy, got researched and then painted. Snapped a photo and then brought the painting into Procreate.</p>
-<img src="https://kymira.ca/assets/images/Mothmon-paints-356c34b1679ee72cee650d2b7a43b3e6.png" width="400">
-<p>It's here that Eva's mix media technique really starts to shine. She's all about doing small adjustments and touch ups or additions that blend in with the existing piece. With the goal of making everything look like it could still be a traditional art piece. And choosing when to push past that line with some stronger digital techniques.</p>
-<p>This is a very slow process, and I worked very zoomed in on the screen to try to keep the touchups subtle. But once I zoomed out and did a before and after comparison I started to feel pretty happy about how everything was coming together.</p>
-<img src="https://kymira.ca/assets/images/Mothmon-swap-9c40e47247a7d79038a8294bb56bd6b0.gif" width="400">
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="post-course-extracurriculars">Post course extracurriculars<a href="https://kymira.ca/blog/mixed-media-monsters#post-course-extracurriculars" class="hash-link" aria-label="Direct link to Post course extracurriculars" title="Direct link to Post course extracurriculars">​</a></h2>
-<p>I put a few hours into touching up Mothmon before decided to call it quits on the piece. The most time I've put into a work for a while. Since I was still riding the excitement of a new art supply purchase I returned to the new watercolours the next weekend to keep practicing how to use them.</p>
-<p>Maybe it was because this course was still fresh in my mind, but I stumbled across an illustrator who I found wildly inspiring just after finishing the Mothmon piece. <a href="https://www.instagram.com/josephine__draws/?hl=en" target="_blank" rel="noopener noreferrer">Josephine__Draws</a> on Instagram. They do gorgeous monochrome pieces, mostly focused on animals, bones, and shells. They work with very strong lines while mixing in watercolour elements. The kind of stuff that makes me want to pick up a pencil and draw whenever I see it.</p>
-<p>They sadly don't have much of an online presence beyond their Instagram page so I'm going to have to survive on their short looping videos.</p>]]></content>
         <author>
             <name>Kylie</name>
             <uri>https://github.com/kylies</uri>
