@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2024-03-16T00:00:00.000Z</updated>
+    <updated>2024-03-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[March 2024 wrap-up]]></title>
+        <id>https://kymira.ca/blog/march-wrap-up</id>
+        <link href="https://kymira.ca/blog/march-wrap-up"/>
+        <updated>2024-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Final Renpy progress and other works]]></summary>
+        <content type="html"><![CDATA[<p>My approach to March was to put my Weekly Art Practice on hold while participating in NaNoRenO in an attempt to really push my art skills into focusing on scenes and backgrounds. I felt like I started off pretty strong on this mission but at this point in the month I know it’s not gonna happen.</p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="nanoreno">NaNoRenO<a href="https://kymira.ca/blog/march-wrap-up#nanoreno" class="hash-link" aria-label="Direct link to NaNoRenO" title="Direct link to NaNoRenO">​</a></h2>
+<p>While I spat out over 8 different backgrounds in 2 weeks, when I went to switch into writing mode I wasn’t really feeling the project any more. I have most of the ideas fleshed out but I don’t love it. I also don’t get the same creative hit from writing as I do from working on visual art.</p>
+<p>I did enjoy troubleshooting the Ren’py setup though. I was able to get randomised scene selection working with modatory scenes in between. If I were to do the project again I would probably try to team up with a writer instead of trying to tackle it all on my own. For this project my girlfriend says she’s tempted to take a shot at doing the writing so maybe it will turn into a game in the end.</p>
+<p>One thing I learned about taking on a month-long project was that it was a great way to trigger my procrastination instincts. I finished 2 whole games this month, one of which I had been putting off for ages. The Return of Obra Dinn (which only took 2 days) and Tears of the Kingdom, which it turns out I was only about 15 hours from the end when I put it down months ago. So now I know that if I want to finish some other things all I need to do is give myself a big project to avoid.</p>
+<p>I did do one last piece for the project last week. The only character who makes an appearance, a fisherman who stops by the lighthouse to give the main character supplies.</p>
+<p><img loading="lazy" alt="A fisherman wearing blue-grey overalls, a beige sweater and a green knit hat." src="https://kymira.ca/assets/images/sl-fisherman-fea86689b7dda0cc0c11ee866c546c67.png" width="837" height="1360" class="img_wQsy"></p>
+<p>The vibe for the game that I wanted to aim for was everything seems to be fine, this is like learning what a day in the life of a lighthouse keeper is. But with a pretty quick reveal that something isn’t right. Minor hints of this were going to be added to the background pieces but I think there’s only one visible now. This led to the choice to keep the kind of dead, beady eyes my fisherman sketch had in the final product. I wanted him to also look a little off.</p>
+<p>All in all the first two weeks were a great crash course in doing completed scenes. But I quickly started to miss my weekly art practice. Having clear goals every day really helps with focus and a sense of accomplishment. The variety and change up every week helps too, so it felt almost odd to focus on a single project for a whole month.</p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="a-different-kind-of-scene">A different kind of scene<a href="https://kymira.ca/blog/march-wrap-up#a-different-kind-of-scene" class="hash-link" aria-label="Direct link to A different kind of scene" title="Direct link to A different kind of scene">​</a></h2>
+<p>Since I kind of “ran out” of pieces to work on for the Ren'py project but didn’t want to resume weekly art practice yet I started a new, very large piece. It’s not large in pixels but it does feel large in ambition. This is what I have so far:</p>
+<p><img loading="lazy" alt="A 3 story pink stone building. Two balconies above a shop front that hasn’t been drawn in yet." src="https://kymira.ca/assets/images/dragon-flowers-wip-67e4267b2e6026bb69fbc0bb4b100fe9.jpg" width="1057" height="2000" class="img_wQsy"></p>
+<p>My Ren’py work did make me more comfortable with scenes and trying out new styles. I wanted to work on something similar but with references that would help a scene be recognizable. A challenge to make a piece that could still resemble the references. So this is a representation of Dragon Flowers, a famous Montreal flower shop. Or at least it’s old location. The store has had a rough few years.</p>
+<p>I started with the upper balconies, trying to focus on smaller segments to not feel too overwhelmed. Dragon Flowers always has a lot of stuff outside the shop, and I honestly find it rather chaotic. But it’s what makes it an interesting challenge. My goal will be to work on it when I still feel like drawing after doing my daily WAP goals.</p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="conclusion">Conclusion<a href="https://kymira.ca/blog/march-wrap-up#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>While I’m not ending the month with a completed game as I had planned, the amount of time I spent in Clip Studio, trying out new brushes, doing research into lighting and scenes did lead to a lot of learning. I actually even enjoyed working on all the scenes. I do still wish I could find a consistent style (I’m constantly agonising over what kind of brush I should use for inking, how big should it be???). But overall I don’t think the pieces I did this month vary too wildly from one another.</p>
+<p>Next month I’m going to get back into regular practice and blogging.</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="art" term="art"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NaNoRenO - Week 2]]></title>
         <id>https://kymira.ca/blog/nanoreno2</id>
@@ -854,39 +883,6 @@
 <h2 class="anchor anchorWithStickyNavbar_FNw8" id="conclusion">Conclusion<a href="https://kymira.ca/blog/learning-light#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
 <p>Before this course I didn’t think about light too much. I always have a mental map of where light is coming from when shading a character and thought was enough. And sure it was fine for rather flat character work, but going through all the steps to add even baseline lighting to these scenes has reinforced how much heavy lifting lighting does to create a scene and vibe. I feel less afraid to tackle a whole illustration now, and maybe take a few more daring approaches to lighting characters in the future.</p>
 <p><img loading="lazy" alt="All 4 light studies." src="https://kymira.ca/assets/images/Lighting-studies-d2f864afb8a5348525e6633403d09a44.jpg" width="9921" height="2480" class="img_wQsy"></p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="21draw" term="21draw"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning landscapes]]></title>
-        <id>https://kymira.ca/blog/landscapes</id>
-        <link href="https://kymira.ca/blog/landscapes"/>
-        <updated>2023-08-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While this is one of the most popular courses on 21 Draw I didn’t prioritise it. My interests had always been more around character design and creatures. But after branching out in a few other courses, I thought it would be time to keep trying to step out of my comfort zone.]]></summary>
-        <content type="html"><![CDATA[<p>While this is one of the most popular courses on 21 Draw I didn’t prioritise it. My interests had always been more around character design and creatures. But after branching out in a few other courses, I thought it would be time to keep trying to step out of my comfort zone.</p>
-<p>This course is taught by <a href="https://www.youtube.com/channel/UCI2LeV6oDbGd8LJ8iUneSZA" target="_blank" rel="noopener noreferrer">Philip Sue</a> and it looks like he has a lot of step by step process videos on his YouTube which likely cover a lot of the things covered in this course.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="greyscales">Greyscales<a href="https://kymira.ca/blog/landscapes#greyscales" class="hash-link" aria-label="Direct link to Greyscales" title="Direct link to Greyscales">​</a></h2>
-<p>Just like in a lot of the other courses I’ve taken so far, this one started out with silhouettes. It was a pretty free form first exercise, work with the 5 tones to compose a background, midground, and foreground. The assignment pushed you to make five different pieces which was a good stretch and quickly where I started to diverge a little too much from the guidelines.</p>
-<p><img loading="lazy" alt="Figuring out compositions with greyscale work" src="https://kymira.ca/assets/images/Landscape-thumbnails-02ac4464f666db17b5e172ef3abd4961.jpg" width="1408" height="939" class="img_wQsy"></p>
-<p>My first few landscapes felt reasonable, but then I started to get ideas for D&amp;D game locations. These started off problematic as I was too “zoomed in” to follow lots of the advice that was being provided for landscapes. They could probably work as general illustrations but there wasn’t enough distance between the features to really follow the next steps. Which is what pushed me to continue with only 2 pieces instead of 3 like the course suggested.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="colours">Colours<a href="https://kymira.ca/blog/landscapes#colours" class="hash-link" aria-label="Direct link to Colours" title="Direct link to Colours">​</a></h2>
-<p>THe courses provided some palettes to try out but I didn’t want to screenshot the video and then pull the colours into Clip Studio so I looked up some other palettes on Pinterest. These weren’t as curated so it was actually more time confusing and not super rewarding. The orange, desert-y one was from the instructor while my green ring ended up being mostly eye balled. But I was at least happy to have 2 very different colourscapes to work with.</p>
-<p><img loading="lazy" alt="Laying down base colours over the grey thumbnails" src="https://kymira.ca/assets/images/Landscapes-lighting-v1-efd02817f14d460ea0b04f57dba4aaba.jpg" width="1408" height="1033" class="img_wQsy"></p>
-<p>There was a step for experimenting with colours and lighting, and I would have loved to have access to Procreate's Gradient Maps for that, but in Clip I played around with colours layers and some manual re-painting. I had always thought I had a pretty good natural grasp of lighting but on trying to get more creative with it in these scenes I started to question that. Good thing there’s a whole class on lighting that I can still take.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="detailing">Detailing<a href="https://kymira.ca/blog/landscapes#detailing" class="hash-link" aria-label="Direct link to Detailing" title="Direct link to Detailing">​</a></h2>
-<p>After composition and colours comes making the thumbnail huge and getting into the details.</p>
-<p>The first one, my desert, thankfully doesn’t have many details going on. Touched up the lighting, added some extra rocks and made a very simple stream. I probably spent just as much time looking for nice cloud brushes. It definitely took a while to get used to the movements of painting and erasing over and over again to try to create the right shapes in the mountains, and I still don’t feel like I nailed that, but I feel like I’m getting closer at least. I re-painted a few of them a few times, trying out different brushes and techniques. Most of them ended up smoothing things out too much and losing the rock-like texture of large sweeping strokes. Which feels like the largest challenge of painting like this, you kind of want to work minimally as more strokes or colours ends up washing out the sharp lines and features.</p>
-<p><img loading="lazy" alt="Final version of my desert" src="https://kymira.ca/assets/images/Desert-landscape-3567c2c3d6fb15aeae01f2098ddd4436.jpg" width="4286" height="2997" class="img_wQsy"></p>
-<p>I’m pretty happy with how this came out in the end. There are definitely areas I can see improvements for already, but it feels “big” which is what I wanted to learn to do in this course.</p>
-<p>For my green pieces I felt like I had fallen into my “too zoomed in” habit here a bit too. I ended up spending a lot of time on detailing the big stone ring, and adding plant textures with plant brushes. All the while I should have been working further out to a point of not seeing any of these details.</p>
-<p><img loading="lazy" alt="Final version of my forest ring" src="https://kymira.ca/assets/images/Ring-landscape-70cd300ec10f30ba7e7d3ea289897bb0.jpg" width="4562" height="2983" class="img_wQsy"></p>
-<p>I also struggled with the colour balance a bit more here. I wanted the sun to be rising behind the mountains which made for minimal light hitting the side we could actually see. And some of the mountains felt like they started to disappear, which I guess makes sense if the light is so bright behind them, but I ended up darkening up a lot of features so that the lines between layers of distance still made sense.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="final-review">Final review<a href="https://kymira.ca/blog/landscapes#final-review" class="hash-link" aria-label="Direct link to Final review" title="Direct link to Final review">​</a></h2>
-<p>Overall I found this course had the perfect balance of lesson + homework. It had some great foundational takeaways and you could instantly apply what was being taught. I struggled a little bit with the program being Photoshop in the course, but nearly all the features also exist in Clip Studio so it was just a matter of figuring out the right tool or button to accomplish the task. The course managed to really break down how to approach landscapes and now I no longer feel intimidated by them. Will definitely draw more in the future.</p>]]></content>
         <author>
             <name>Kylie</name>
             <uri>https://github.com/kylies</uri>
