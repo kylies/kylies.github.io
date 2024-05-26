@@ -76,6 +76,10 @@ const config = {
             title: 'Pages',
             items: [
               {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
                 label: 'D&D Campaigns',
                 to: '/docs/intro',
               },
@@ -88,14 +92,18 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/lautir',
               },
+              {
+                label: 'BluSky',
+                href: 'https://bsky.app/profile/kymira.bsky.social',
+              },
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Altar Stone',
+                href: 'https://www.youtube.com/channel/UCuDQ7ixvCci_cvZ9f9jznVA',
               },
               {
                 label: 'RSS Feed',

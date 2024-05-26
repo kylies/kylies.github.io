@@ -29,11 +29,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Writing Portfolio',
-    Svg: require('@site/static/img/crow.svg').default,
+    title: 'Altar Stone',
+    Svg: require('@site/static/img/altarstone-svg.svg').default,
     description: (
       <>
-        A collection of writing projects.
+        An art and music collaboration project focused on making background music for D&D campaigns.
       </>
     ),
   },
