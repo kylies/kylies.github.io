@@ -60,13 +60,15 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {href: 'https://www.youtube.com/channel/UCuDQ7ixvCci_cvZ9f9jznVA', label: 'Altar Stone', position: 'left'},
+          {to: '/about', label: 'About me', position: 'left'},
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'D&D Campaigns',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          }
         ],
       },
       footer: {
