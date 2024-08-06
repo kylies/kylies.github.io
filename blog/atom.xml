@@ -2,11 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2024-07-29T00:00:00.000Z</updated>
+    <updated>2024-08-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Weekly Art Practice - Week 24]]></title>
+        <id>https://kymira.ca/blog/wap-24</id>
+        <link href="https://kymira.ca/blog/wap-24"/>
+        <updated>2024-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Week]]></summary>
+        <content type="html"><![CDATA[<p>This week was a return to creatures, with the common house sparrow as our subject. I also attended an animation course last weekend so I’ll share some stuff from that, and I’ve been working on a new Altar Stone video which was more technically demanding than art demanding for the last few weeks.</p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-1---drawing-from-imagination">Day 1 - Drawing from imagination<a href="https://kymira.ca/blog/wap-24#day-1---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 1 - Drawing from imagination" title="Direct link to Day 1 - Drawing from imagination">​</a></h2>
+<p>While I chose sparrows to continue on the most common animals in Montreal, it turns out I can only imagine them as basic small birds when not using a reference.</p>
+<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-24.1-2f6c44cb7769c0827248e8513ff5b918.jpg" width="2838" height="1960" class="img_wQsy"></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-2---figure-sketching">Day 2 - Figure sketching<a href="https://kymira.ca/blog/wap-24#day-2---figure-sketching" class="hash-link" aria-label="Direct link to Day 2 - Figure sketching" title="Direct link to Day 2 - Figure sketching">​</a></h2>
+<p>With a reference they still kind of look like a basic small bird, but then the colouration patterns really become important for identification. I ended up focusing on male sparrows as they have a really distinctive black chest marking.</p>
+<p><img loading="lazy" alt="Quick hand sketches using references" src="https://kymira.ca/assets/images/wap-24.2-579dc59f1574ea076f497525a2c7ba28.jpg" width="2652" height="1954" class="img_wQsy"></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-3---reference-studies">Day 3 - Reference studies<a href="https://kymira.ca/blog/wap-24#day-3---reference-studies" class="hash-link" aria-label="Direct link to Day 3 - Reference studies" title="Direct link to Day 3 - Reference studies">​</a></h2>
+<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-24.3.1-490c6d1391d9b5591beb75f1c046b9e4.jpg" width="3000" height="2000" class="img_wQsy"></p>
+<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-24.3.2-80780b6a985758c540713177f898cbef.jpg" width="3000" height="2000" class="img_wQsy"></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-4---style-studies">Day 4 - Style studies<a href="https://kymira.ca/blog/wap-24#day-4---style-studies" class="hash-link" aria-label="Direct link to Day 4 - Style studies" title="Direct link to Day 4 - Style studies">​</a></h2>
+<p>Tried out a variety of styles. But I think I like the classic more detailed sparrow the most.</p>
+<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-24.4.1-fe9632df6f6cd24f57e562e480d2bea4.jpg" width="3000" height="2000" class="img_wQsy"></p>
+<p>Reference: <a href="https://www.artstation.com/biabiabia8" target="_blank" rel="noopener noreferrer">Stickers by @biateleur</a></p>
+<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-24.4.2-d09677904487b966610afdd0b8828f0a.jpg" width="3000" height="2000" class="img_wQsy"></p>
+<p>Reference: <a href="https://www.vectorstock.com/royalty-free-vector/bird-drawing-vector-548810" target="_blank" rel="noopener noreferrer">From VectorStock</a></p>
+<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-24.4.3-36ead8a566616e11223d55166f5240df.jpg" width="3000" height="1334" class="img_wQsy"></p>
+<p>Reference: <a href="https://sinitza.gallery.ru/watch?ph=jNT-enOpv#feature=topscroll" target="_blank" rel="noopener noreferrer">By Shozo Ozaki.</a></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-5---drawing-from-imagination">Day 5 - Drawing from imagination<a href="https://kymira.ca/blog/wap-24#day-5---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 5 - Drawing from imagination" title="Direct link to Day 5 - Drawing from imagination">​</a></h2>
+<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-24.5-d0f03a298eff786ec9ea5171b18ace80.jpg" width="3000" height="1285" class="img_wQsy"></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="learning-godot-for-altar-stone">Learning Godot for Altar Stone<a href="https://kymira.ca/blog/wap-24#learning-godot-for-altar-stone" class="hash-link" aria-label="Direct link to Learning Godot for Altar Stone" title="Direct link to Learning Godot for Altar Stone">​</a></h2>
+<p>After hearing the most recent Altar Stone track I got hooked on the idea of pixel art for the video. I’m not great at pixel aren’t and I don’t love it. Watching people making tiny pixel changes and getting a whole new character feels like magic to me. So I got the idea to look for open source assets instead of making my own.</p>
+<p>I also had a few ideas for the basic animation but while ideating on how I would approach it, it became clear that this would be something easier to do in a game engine than in an animation program. I had poked at Godot a few months ago out of curiosity at the 4.0 launch and the new Brackey video tutorial. So I understood some of the basic steps I knew I’d have to do.</p>
+<p>It turned out to be harder than I hoped to find good free assets. There are plenty out there but when you already have an idea in your head it’s hard to accept the limited options. But I eventually chose a tileset, a cute bat for decorations, and some characters who don’t look too ridiculous in the setting.</p>
+<p>And then I made the “level” aka the walking course.</p>
+<p><img loading="lazy" alt="Screenshot of a pixel art platformer in Godot" src="https://kymira.ca/assets/images/cave-level-8c0bd77e3d58fccb1f3c8e7b2e34704d.png" width="1314" height="846" class="img_wQsy"></p>
+<p>I got the basics of moving the character around, controlling the camera and working with collision layers. Then needed my wife’s help for follower logic code to execute the idea I had of “adventurer party walking”. Final product coming soon to the <a href="https://www.youtube.com/@altarstone" target="_blank" rel="noopener noreferrer">Altar Stone YouTube channel!</a></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="animation-class-with-spencer-wan">Animation class with Spencer Wan<a href="https://kymira.ca/blog/wap-24#animation-class-with-spencer-wan" class="hash-link" aria-label="Direct link to Animation class with Spencer Wan" title="Direct link to Animation class with Spencer Wan">​</a></h2>
+<p>A few months ago I signed up to a <a href="https://x.com/spencerwan" target="_blank" rel="noopener noreferrer">Spencer Wan</a> animation course focused on visual effects. Since effects, instead of full on character animations, is what I have been focusing on in my Alter Stone videos, I thought this course sounded like the perfect fit.</p>
+<p>It ended up being 30C+ the day of the course. That’s in the apartment even. So it was the most comfortable 4.5 hours to spend at a computer. But even just the first hour of the program felt enlightening. I did my notes in Clip Studio and then tried to follow the animations steps in SquidToon but the course moved pretty quickly due to time constraints (it was an ambitious agenda!) and only managed to complete the first lightning step by step:</p>
+<img src="https://kymira.ca/assets/images/lightning-spencer-582fcd99f98c9ba9fb1c456a018149bd.gif" width="500">
+<h3 class="anchor anchorWithStickyNavbar_FNw8" id="general-notes">General notes<a href="https://kymira.ca/blog/wap-24#general-notes" class="hash-link" aria-label="Direct link to General notes" title="Direct link to General notes">​</a></h3>
+<p>Overall it was really great and I find myself trying to find Spencer’s catalogue of work and video to see what else I can learn as he was great at breaking down concepts and approaches to very doable chunks.</p>
+<p><img loading="lazy" alt="Animation class notes p1." src="https://kymira.ca/assets/images/Spencer-p1-981f5e690f751101e9c6da36550b512e.jpg" width="3000" height="2000" class="img_wQsy"></p>
+<p><img loading="lazy" alt="Animation class notes p2." src="https://kymira.ca/assets/images/Spencer-p2-d17136bf591d078e1d0d233aea4e770a.jpg" width="3000" height="2000" class="img_wQsy"></p>
+<h2 class="anchor anchorWithStickyNavbar_FNw8" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-24#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>It was a big week for projects. I have a head full of animation ideas now and want to jump into some more big pieces to put them to use. Might get one more week of art in before I got on vacation for a week. It feels nice as I feel like I'm having ideas for projects at a rate I can no longer keep up with. Nice to have the creative sparks and energy firing at the same time.</p>
+<p>Pinterest board <a href="https://www.pinterest.ca/maeanu3639/wap-sparrow/" target="_blank" rel="noopener noreferrer">of sparrows.</a></p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="art" term="art"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Art Practice - Week 22 & 23]]></title>
         <id>https://kymira.ca/blog/wap-22-23</id>
@@ -28,7 +78,7 @@
 <p>On day two I went through my phone and used old selfies as reference. I haven’t taken many selfies in the last few years, it’s a habit I’m gotten out of. Partially out of a desire to have fewer photos of myself online and just wanting to take photos of cats and squirrels instead.</p>
 <p><img loading="lazy" src="https://kymira.ca/assets/images/wap-22.3-3103a2ff3e14628ec632c0aba9297219.jpg" width="3072" height="2139" class="img_wQsy"></p>
 <h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-4--5---myself---sketch-progress">Day 4 &amp; 5 - Myself - Sketch progress<a href="https://kymira.ca/blog/wap-22-23#day-4--5---myself---sketch-progress" class="hash-link" aria-label="Direct link to Day 4 &amp; 5 - Myself - Sketch progress" title="Direct link to Day 4 &amp; 5 - Myself - Sketch progress">​</a></h2>
-<p>I took another stab at sketching myself after my girlfriend voted for bowl cut with bangs as the most Me looking, look. One of the hardest things about trying to cartoonify myself is that I don’t have a central feature to focus on. Hair is a big identifier for a cartoon and mine changes pretty drastically over 6 months, so even when I do have an avatar I like (Thanks Catarina (@radiantlethe) for previous avatars!) it’s outdated extremely quickly. These days I have 2-3 pairs of glasses that I swap between and are all pretty different. And my face is very… average. Which I mean more in like, my forehead size is very average, not distinguishable, same thing about my nose. My lips are a little different due to surgery but that’s not enough to make a face look like me. Square chin is maybe the strongest face shape feature that can be leaned on.</p>
+<p>I took another stab at sketching myself after my girlfriend voted for bowl cut with bangs as the most Me looking, look. One of the hardest things about trying to cartoonify myself is that I don’t have a central feature to focus on. Hair is a big identifier for a cartoon and mine changes pretty drastically over 6 months, so even when I do have an avatar I like (Thanks Catarina <a href="https://bsky.app/profile/radiantlethe.bsky.social" target="_blank" rel="noopener noreferrer">@radiantlethe</a> for previous avatars!) it’s outdated extremely quickly. These days I have 2-3 pairs of glasses that I swap between and are all pretty different. And my face is very… average. Which I mean more in like, my forehead size is very average, not distinguishable, same thing about my nose. My lips are a little different due to surgery but that’s not enough to make a face look like me. Square chin is maybe the strongest face shape feature that can be leaned on.</p>
 <p><img loading="lazy" src="https://kymira.ca/assets/images/wap-22.4-de7f57dd7e4ad242dd07a4b1c7bc6d80.jpg" width="3069" height="1295" class="img_wQsy"></p>
 <p>And then I took it digital. It’s shocking how quickly sketches go from looking okay to looking ridiculous.</p>
 <p><img loading="lazy" src="https://kymira.ca/assets/images/wap-22.5-f68f3563013b270edab7902dd5369ba4.jpg" width="1435" height="1716" class="img_wQsy"></p>
@@ -745,52 +795,6 @@
 <p>This was a fun week but it was also very time consuming. For most of the piece I put in 2-3 hours every day into working on something. Which is more time than I had planned to devote to art practice every week. But it also felt good to work on things outside my comfort zone again.</p>
 <p>Next week is going to be a slightly complimentary exercise, but on a much smaller scope. I want to try to just draw a bunch of trees.</p>
 <p><a href="https://www.pinterest.ca/maeanu3639/wap-lighthouse/" target="_blank" rel="noopener noreferrer">Lighthouses &amp; landscapes Pinterest board.</a></p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Art Practice - Week 7]]></title>
-        <id>https://kymira.ca/blog/wap-7</id>
-        <link href="https://kymira.ca/blog/wap-7"/>
-        <updated>2024-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Week 7 - Rabbits]]></summary>
-        <content type="html"><![CDATA[<p>This week we’re back in my comfort zone; drawing creatures.</p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-1---drawing-from-imagination">Day 1 - Drawing from imagination<a href="https://kymira.ca/blog/wap-7#day-1---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 1 - Drawing from imagination" title="Direct link to Day 1 - Drawing from imagination">​</a></h2>
-<p>Day 1 felt decently smooth. Rabbit’s aren’t the most complicated creatures and I feel like I see them in images on a regular basis (unlike pangolins).</p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.1-c127680f4fa0b5ae2cdd8b6f8748e26c.jpg" width="3063" height="1785" class="img_wQsy"></p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-2---figure-sketching">Day 2 - Figure sketching<a href="https://kymira.ca/blog/wap-7#day-2---figure-sketching" class="hash-link" aria-label="Direct link to Day 2 - Figure sketching" title="Direct link to Day 2 - Figure sketching">​</a></h2>
-<p>I feel like I keep giving myself more and more time for the day 2 practice but I really need to start forcing myself to limit how much time I spend on each sketch. It’s just nice to stare at cute bunnies.</p>
-<p><img loading="lazy" alt="Rabbit sketches using references in a sketchbook." src="https://kymira.ca/assets/images/wap-7.2-3e97b2b73011d131d30ba62540ebc1de.jpg" width="3072" height="1874" class="img_wQsy"></p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-3---reference-studies">Day 3 - Reference studies<a href="https://kymira.ca/blog/wap-7#day-3---reference-studies" class="hash-link" aria-label="Direct link to Day 3 - Reference studies" title="Direct link to Day 3 - Reference studies">​</a></h2>
-<p>Day 3 spent analysing the inner bean shape of rabbits, smaller chest area, larger hide quarters and face slightly similar to a squirrel but like a soft sided triangle. A decent amount of squirrel similarities really. But rounder.</p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.3.1-a771df2a5683dbf990f7488f4f5bda47.jpg" width="1552" height="1600" class="img_wQsy"></p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.3.2-d4b00a26979a5a427a4412dbe192c0fc.jpg" width="1463" height="1600" class="img_wQsy"></p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.3.3-aa5da013ed8ca1ab874e2db8b7dcea72.jpg" width="1725" height="1600" class="img_wQsy"></p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-4---style-studies">Day 4 - Style studies<a href="https://kymira.ca/blog/wap-7#day-4---style-studies" class="hash-link" aria-label="Direct link to Day 4 - Style studies" title="Direct link to Day 4 - Style studies">​</a></h2>
-<p>My favourite day! There is so much rabbit art out there. And so much from Japan and Korean with such cute simple styles. Overall I worry that the styles I chose were a little too simple as Pinterest was pretty full of this kind of thing.</p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.4.2-f3dbc6a4b189038b6ce7c367e69087dd.jpg" width="2400" height="1600" class="img_wQsy"></p>
-<p>I found one batch that has a more Disney-type look to it. More details, more kind of human expressions on them. But with some really fun proportion play with feet and ears.</p>
-<p>Reference: <a href="http://heffysdoodles.tumblr.com/post/81610281883/some-warmup-buns-with-a-special-guest-some-may" target="_blank" rel="noopener noreferrer">By Andrew Wamboldt</a></p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.4.1-25540d3e99f9a02dcd9b313ddb4fdd11.jpg" width="2400" height="1600" class="img_wQsy"></p>
-<p>These little guys are very good and I was intrigued by the broken line art style. Where you leave gaps in the lineart to convey the fuzzy or fluffiness. I never try this myself as I worry I don’t have the knowledge to know when to break it up and when not too but after staring at these I don’t think there’s a solid rule to it. So maybe something I can incorporate into other creature drawings.</p>
-<p>Reference: <a href="https://twitter.com/yura_inaho" target="_blank" rel="noopener noreferrer">@yura_inaho on Twitter</a></p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.4.4-a63f1071ad69e4db34cf3b865cb27d6d.jpg" width="2400" height="1600" class="img_wQsy"></p>
-<p>These guys were probably my favourites for their mix of simplicity and identifying characteristics. 12 different types of buns, most of them being visually unique. A big thing for rabbits seems to be mixing up the line work to show different fur types, from the very shaggy to the shorter haired guys.</p>
-<p>Refernce: <a href="https://twitter.com/taiga15/status/1254577826574987271" target="_blank" rel="noopener noreferrer">@taiga15 on Twitter</a></p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.4.3-d739f47281d64182e333336637c362e4.jpg" width="2400" height="1600" class="img_wQsy"></p>
-<p>The simplest style of all. Very minimal detail, but still very much rabbits based on their small limbs.</p>
-<p>Reference: <a href="https://www.tumblr.com/snowysaur/173810765212/bunnies" target="_blank" rel="noopener noreferrer">Snowysaur on Tumblr</a></p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="day-5---drawing-from-imagination">Day 5 - Drawing from imagination<a href="https://kymira.ca/blog/wap-7#day-5---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 5 - Drawing from imagination" title="Direct link to Day 5 - Drawing from imagination">​</a></h2>
-<p>I put a non drawing day between day 4 and 5 this week. I’m still not sure if this is better for absorbing lessons or not. I did feel a little creatively stuck when I started, thinking directly of the images I had sketched just days before. While rabbits are nice to look at and all, I felt like I had limited pose material to choose from. I think what I really need to start pushing myself to do is to change my perspective on creatures, move the camera up and down, and have more angles. Just to keep things interesting and see if I understand the shapes from all sides.</p>
-<p><img loading="lazy" src="https://kymira.ca/assets/images/wap-7.5-0885019383970c5874091900851eca6a.jpg" width="2400" height="1600" class="img_wQsy"></p>
-<h2 class="anchor anchorWithStickyNavbar_FNw8" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-7#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>While I appreciated returning to a nice easy creature week, I don’t feel as confident about my takeaways due to rabbits being mostly fur. They are another creature that I feel like I should take some time looking at skeletal references to understand what’s going on under all the fluff. Instead of just drawing shapes that imply a rabbit underneath.</p>
-<p>I’m making some edits to my subjects for the next few weeks as I’m considering participating in <a href="https://itch.io/jam/nanoreno-2024" target="_blank" rel="noopener noreferrer">NaNoRenO</a>. A yearly game jam where you try to make a visual novel in the software Ren’py within the month of March. I had already started brainstorming a text based game a few weeks before a friend mentioned the game jam to me. And now it feels like kind of perfect timing. Creatively if not great life timing.</p>
-<p>You are allowed to create any art assets before March 1st but I know my landscape skills are rusty from last year's lesson on them, so next week I’ll try to do a week of landscape / coastal vistas while trying to figure out an art style that will work for very quick asset creation in March.</p>
-<p><a href="https://www.pinterest.ca/maeanu3639/wap-rabbit/" target="_blank" rel="noopener noreferrer">Pinterest board of rabbits.</a></p>]]></content>
         <author>
             <name>Kylie</name>
             <uri>https://github.com/kylies</uri>

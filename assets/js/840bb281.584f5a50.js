@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkymira=self.webpackChunkkymira||[]).push([[4715],{36383:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/art/page/4","page":4,"postsPerPage":10,"totalPages":5,"totalCount":42,"previousPage":"/blog/tags/art/page/3","nextPage":"/blog/tags/art/page/5","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
