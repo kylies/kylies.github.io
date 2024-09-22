@@ -4,10 +4,50 @@
         <title>Kymira Blog</title>
         <link>https://kymira.ca/blog</link>
         <description>Kymira Blog</description>
-        <lastBuildDate>Tue, 17 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Altar Stone - Item Set 1]]></title>
+            <link>https://kymira.ca/blog/as-items1</link>
+            <guid>https://kymira.ca/blog/as-items1</guid>
+            <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The 3 first items published with Altar Stone videos]]></description>
+            <content:encoded><![CDATA[<p>The most recent addition we’ve made to our Altar Stone videos is adding a homebrewed, on theme, item to the end of the video. This has been a fun creative challenge and our first attempt at bundling more “worth” into the video projects. These are the first 3 we've shared.</p>
+<p>We are basing the items off of 5e (2014) for now. Might be fun to revisit the mechanics if we personally branch out to other systems in this golden age of new TTRPG releases.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="abyssal-harp">Abyssal Harp<a href="https://kymira.ca/blog/as-items1#abyssal-harp" class="hash-link" aria-label="Direct link to Abyssal Harp" title="Direct link to Abyssal Harp">​</a></h2>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/AS-harp-c418140d157b961a258fa6a86fe2afa5.png" width="1920" height="1080" class="img_ev3q"></p>
+<p><em>Wondrous item, instrument, very rare (requires attunement by a bard),</em>
+<em>5lbs</em></p>
+<p>An instrument of the submerged Eighth College, this harp takes the form of a series of interconnected tubes mounted on a frame of coral. When moved through water in a precise and fluid motion, the harp creates sound vibrations and subtle changes in water pressure that are perceived as ethereal music by the listener.</p>
+<p>While you are fully immersed in water and holding this harp, the current adds its voice to yours when you cast spells. You gain a +1 bonus to the saving throw DC of your bard spells and a +1 bonus to Constitution saving throws made to maintain concentration on a spell.</p>
+<p>While you are holding this harp, you can cast <em>prestidigitation</em> as an action. Illusions created with this spell take on a watery character: visual illusions shimmer and waver, while auditory illusions are deep and sonorous. Once per day, as an action, you can use the harp to cast <em>create or destroy water</em> as a 5th level spell. This property recharges at dawn, whether or not the sun is visible at your current depth.</p>
+<p>The harp can only be played underwater. The vibrations and pressure changes it generates are imperceptible in air or empty space. When affixed to an underwater surface in an area with strong currents, the harp will seemingly play itself as water flows through it, allowing the ocean to speak with a gentler voice and for the patient listener to hear the musings of its queen.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rod-of-reanimation">Rod of Reanimation<a href="https://kymira.ca/blog/as-items1#rod-of-reanimation" class="hash-link" aria-label="Direct link to Rod of Reanimation" title="Direct link to Rod of Reanimation">​</a></h2>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/AS-rod-90d6b4070aa010859e76c40523245f8a.jpg" width="1920" height="1080" class="img_ev3q"></p>
+<p><em>Wondrous item, rod, very rare (requires attunement by a wizard, warlock, or sorcerer),</em>
+<em>10lbs</em></p>
+<p>This rod of crystal and steel is topped with a transparent sphere, inside which arc and sputter streams of blue and purple lightning. Adventurers are advised not to spend undue time considering the origin of the fluid that circulates within the handle.</p>
+<p>The rod has 3 charges. While you hold it, you can use an action and consume a charge to cast one of the following spells from it: <em>animate dead</em> or <em>lightning bolt</em>. As charges are consumed, the fluid within the handle depletes proportionately. The charges (and the fluid) return at dawn.</p>
+<p>Creatures reanimated by the Rod have the property <em>Came Back Wrong</em>. At the beginning of the creature’s turn, roll a ten-sided die.</p>
+<table><thead><tr><th style="text-align:left">Roll</th><th style="text-align:left">Condition</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">The creature cannot act this turn. If the creature was capable of speech in life, it begs for death from the nearest creature. Otherwise, it howls in wordless agony.</td></tr><tr><td style="text-align:left">2-3</td><td style="text-align:left">The creature goes into a wild rage, screaming and attacking the nearest creature with all its strength. It makes a melee attack roll with an additional +2 to hit and a 1d6 bonus to damage.</td></tr><tr><td style="text-align:left">4-10</td><td style="text-align:left">The creature behaves normally this turn.</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="glass-of-sands">Glass of Sands<a href="https://kymira.ca/blog/as-items1#glass-of-sands" class="hash-link" aria-label="Direct link to Glass of Sands" title="Direct link to Glass of Sands">​</a></h2>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/AS-hourglass-3da755a556fececffe6c232611ac19d4.png" width="1920" height="1080" class="img_ev3q"></p>
+<p><em>Wondrous item, legendary,</em>
+<em>5lbs</em></p>
+<p>Within the hourglass, discovered in the outstretched hand of a withered corpse, the sands swirl without cease as if scattered by eternal sirocco. When you pick it up, you feel as though you can hear the wind inside, the susurrus of a thousand thousand imprisoned in dust.</p>
+<p>Once a week, as an action, you may cast any one spell of 8th level or less on your class’s spell list by turning the glass upside down and reciting the incantation inscribed along its edges. While the sand is flowing, time is paused for the user as the hourglass draws power from within the core of their soul to assemble the energies necessary for the spell. Consult the table below to determine how much your character ages as a result of using this feature.</p>
+<table><thead><tr><th style="text-align:left">Spell level</th><th style="text-align:left">Duration</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:left">1 month</td></tr><tr><td style="text-align:left">2</td><td style="text-align:left">2 months</td></tr><tr><td style="text-align:left">3</td><td style="text-align:left">3 months</td></tr><tr><td style="text-align:left">4</td><td style="text-align:left">5 months</td></tr><tr><td style="text-align:left">5</td><td style="text-align:left">8 months</td></tr><tr><td style="text-align:left">6</td><td style="text-align:left">1 year</td></tr><tr><td style="text-align:left">7</td><td style="text-align:left">2 years</td></tr><tr><td style="text-align:left">8</td><td style="text-align:left">3 years</td></tr></tbody></table>
+<p>While time is paused, the hourglass’s holder cannot act, and only the sand within the hourglass moves. The rest of the world is held in suspension. The subjective duration of the time freeze for both the user and those in the vicinity is left to the GM.</p>
+<p>If the hourglass is shattered, the soul-dust within is freed, and each fleck will spend the remainder of its existence attempting to locate and re-incorporate with the soul that shed it.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/as-items1#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Next week is back to regular WAP posting. I may have chosen an anatomy challenge that’s too complicated but we’ll see if it can be done without learning the anatomy of horses…</p>
+<p>I ended up downloading Resprite on the iPad so I’ve been poking around at pixel art a bit. Hoping to try out animating in a few weeks when I look up a tutorial on how to properly use the app. But also a bunch of my Clippy points were going to expire so I went on a big Clip Studio Paint spending spree and now have a bunch of new brushes I want to experiment with. And Swordtember is still going on!!</p>]]></content:encoded>
+            <category>art</category>
+            <category>dnd</category>
+            <category>homebrew</category>
+        </item>
         <item>
             <title><![CDATA[Weekly Art Practice - Week 28]]></title>
             <link>https://kymira.ca/blog/wap-28</link>
@@ -706,44 +746,6 @@ Gimaldinov. I found this version of the tutorial while putting the blog post tog
 <p>I’m probably going to go back to animals for a bit to re-find my groove with these weekly practices. Then every few weeks I’m going to try to focus on human anatomy and movement since I know it’s such a key area if I want to get comfortable drawing characters again.</p>
 <p>This week I also found a YouTube video explaining a blind study method for art that got my attention because it’s similar to how I would study for school. It’s a practice that you should put at least an hour aside to do so I’m going to try to find time to do it at least once next week between whatever animal I end up choosing.</p>
 <p><a href="https://www.pinterest.ca/maeanu3639/wap-books/" target="_blank" rel="noopener noreferrer">Books Pinterest board.</a></p>]]></content:encoded>
-            <category>art</category>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Art Practice - Week 10]]></title>
-            <link>https://kymira.ca/blog/wap-10</link>
-            <guid>https://kymira.ca/blog/wap-10</guid>
-            <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Week 10 - Sword swing]]></description>
-            <content:encoded><![CDATA[<p>WAP is back.</p>
-<p>It was hard to get back into this practice style after a month away. I kind of forgot the physical steps of it and had to remind myself of what the days were for. Maybe it didn’t help that my returning subject was a more difficult one: Swinging swords.</p>
-<p>I had wanted to do something a little more dynamic pose wise. But it one where anatomy is so important that without a really good grasp of the photo body references, doing style studies feels extra challenging as I’m not 100% sure what’s correct.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---drawing-from-imagination">Day 1 - Drawing from imagination<a href="https://kymira.ca/blog/wap-10#day-1---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 1 - Drawing from imagination" title="Direct link to Day 1 - Drawing from imagination">​</a></h2>
-<p>Feeling rusty that’s for sure. Dynamic poses without a reference are up there on the difficulty scale so there are just so many bad proportions here. I was feeling pretty done with it after just doing 3 half bodies but I think pushing myself to fill the page helped a lot to go beyond my comfort zone.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-10.1-267c2a2c1c0613af6a34ecfa7004f392.jpg" width="3020" height="1882" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---figure-sketching">Day 2 - Figure sketching<a href="https://kymira.ca/blog/wap-10#day-2---figure-sketching" class="hash-link" aria-label="Direct link to Day 2 - Figure sketching" title="Direct link to Day 2 - Figure sketching">​</a></h2>
-<p>I ended up doing way more pages of day 2 than usual. I have wanted to up the speed in which these speed studies are done and I found that action poses take up a fair bit of room on the page.</p>
-<p><img decoding="async" loading="lazy" alt="Quick sketches using references" src="https://kymira.ca/assets/images/wap-10.2.1-979dcab046c8ed50531973335d59ca86.jpg" width="3040" height="1870" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="Quick sketches using references" src="https://kymira.ca/assets/images/wap-10.2.2-86b448e29dd6fdf85871192af5c54ea4.jpg" width="3072" height="1977" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="Quick sketches using references" src="https://kymira.ca/assets/images/wap-10.2.3-27e93393d99a481d589a2ed99d3e278e.jpg" width="3042" height="1895" class="img_ev3q"></p>
-<p>It was harder than I thought it would be to find photographs of sword fighting action. Lots of fencing, some historical style with samurai swords, but not too much else. Found one or two shots of actors learning some choreography, but definitely expected more LARP-like content. But I also was trying to focus on what looked professional so that the people in the photos had proper form. But given I don’t know what proper form looks like it’s not something I should realistically be trying to judge.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---reference-studies">Day 3 - Reference studies<a href="https://kymira.ca/blog/wap-10#day-3---reference-studies" class="hash-link" aria-label="Direct link to Day 3 - Reference studies" title="Direct link to Day 3 - Reference studies">​</a></h2>
-<p>While working on these I started to consider a good practice approach to be choosing one pose and trying to draw it from multiple angles. Just to pursue trying to understand the pose and not just ignoring anything that the limbs or the weapon hide from view. I didn’t end up doing that because I wanted to try out a variety of poses. But if I revisit the subject I might give it a shot.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-10.3-c07502b268a47ff6bdd89ae3478f23cb.jpg" width="2732" height="2048" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---style-studies">Day 4 - Style studies<a href="https://kymira.ca/blog/wap-10#day-4---style-studies" class="hash-link" aria-label="Direct link to Day 4 - Style studies" title="Direct link to Day 4 - Style studies">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-10.4.1-bb213c8b2eef577e0ff3417ab2d3cb46.jpg" width="2732" height="2048" class="img_ev3q"></p>
-<p>Reference: Link which I believe is from one of the original Legend of Zelda guide books.</p>
-<p>Reference: <a href="https://twitter.com/kaysd999/status/896068014071611393" target="_blank" rel="noopener noreferrer">By kaysd999 on Twitter</a></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-10.4.2-f285697b73bb243f363240bb35f2103f.jpg" width="2732" height="2048" class="img_ev3q"></p>
-<p>Reference: Screenshot from the anime, Solo Leveling</p>
-<p>Reference: <a href="https://www.deviantart.com/neighborstudios/art/Random-swings-474037356" target="_blank" rel="noopener noreferrer">Random Swings by NEIGHBORSTUDIOS on DeviantArt</a></p>
-<p>I didn’t feel like I had any really solid discoveries or moments of enlightenment from working from this style studies. A lot comes back to having a good grasp of anatomy and understanding how the body moves. I didn’t notice that one of the arms in the Solo Leveling reference was pretty messed up which then made me question the pose overall. But given that it’s a screenshot it’s not like it’s an image that was meant to be overly scrutinised. What seems more important is being able to “sell” the movement.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---drawing-from-imagination">Day 5 - Drawing from imagination<a href="https://kymira.ca/blog/wap-10#day-5---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 5 - Drawing from imagination" title="Direct link to Day 5 - Drawing from imagination">​</a></h2>
-<p>I possibly made the mistake of waiting 3 days to do the final test day. Felt like the knowledge had already left my head.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-10.5-881472a3e437668b218bc48eedfeecc2.jpg" width="2732" height="2048" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-10#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>I can’t say I loved this week. It was difficult and nothing was really coming out as I hoped. It’s been a while since I’ve done a full body pose and it shows. Really thinking that what I should be doing is spending a week every month on figure drawing just to get confident in human bodies again.</p>
-<p>If I can find some good references I’d like to try again as weapon poses are very much what I’d like to be doing with D&amp;D art but it feels like there are lots of pieces to master before pulling off dynamic poses.</p>
-<p><a href="https://www.pinterest.ca/3bf3339d7af2759ce0c142f671fac3/wap-sword-swing/" target="_blank" rel="noopener noreferrer">Sword swinging Pinterest board.</a></p>]]></content:encoded>
             <category>art</category>
         </item>
     </channel>
