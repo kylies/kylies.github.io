@@ -4,10 +4,45 @@
         <title>Kymira Blog</title>
         <link>https://kymira.ca/blog</link>
         <description>Kymira Blog</description>
-        <lastBuildDate>Sat, 19 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Weekly Art Practice - Week 32]]></title>
+            <link>https://kymira.ca/blog/wap-32</link>
+            <guid>https://kymira.ca/blog/wap-32</guid>
+            <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Week 32 - Pokemon Ability Forms]]></description>
+            <content:encoded><![CDATA[<p>This week is another shift in the weekly format. So along with the regular subject studies, and anatomy studies, I want to try to work in a “finished piece” once a month (even if there are only 2 left…). For me a finished piece mostly just means fully rendered to a degree where I’m happy to share it on socials. These will mostly be chosen from current internet art trends or challenges as I like to know my theme going into the week.</p>
+<p>The theme for this week is the Pokemon Ability Forms exercise. All Pokemon have an ability, this is usually between two abilities with some Pokemon getting a 3rd hidden ability. Abilities will provide Pokemon with an extra, often passive, mechanic during combat. For example: Pikachu most often has the ability Static, which means that when an opposing Pokemon makes physical contact with that Pikachu, there is a 1 in 3 chance the opposing Pokemon is paralyzed by the static.</p>
+<p>The idea behind this challenge is what if a Pokemon’s ability changed the way the Pokemon physically appeared. So a Pikachu with the ability Static might have static electricity jumping all over its fur. I heard of the exercise from a recent <a href="https://www.youtube.com/watch?v=XAskhVaGu4Y" target="_blank" rel="noopener noreferrer">Drawfee episode</a> and did some research to try to find the originator of the exercise and I’ve come to believe it was started by <a href="https://www.tumblr.com/n0rtist" target="_blank" rel="noopener noreferrer">n0rtist</a> with this <a href="https://n0rtist.tumblr.com/post/752603925067268096/what-if-abilities-changed-the-appearance-of-a" target="_blank" rel="noopener noreferrer">Tumblr post</a> (Sounds like it may have been a Tweet first but Twitter is impossible to use now).</p>
+<p>I like it as a challenge because it’s a design challenge with an existing character. So not a full head to toe design but working off of basically one word and a one sentence description to make changes with.</p>
+<p>But anyway this is a lot of preamble for a blog post, let’s get into it.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---research--sketches">Day 1 - Research &amp; Sketches<a href="https://kymira.ca/blog/wap-32#day-1---research--sketches" class="hash-link" aria-label="Direct link to Day 1 - Research &amp; Sketches" title="Direct link to Day 1 - Research &amp; Sketches">​</a></h2>
+<p>I spent a decent amount of time scrolling a list of all Pokemon and reading their abilities. I wanted one that had 2 basic ones and a hidden ability to have 3 characters to draw. I went with Omastar because I have a soft spot for him after his role in the original Twitch Plays Pokemon and I wanted to keep drawing ocean creatures. He also has 3 abilities that I was able to imagine some solid visual elements right from the get go.</p>
+<p>After doing the research phase I did some quick first idea sketches:</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-32.1-76eb6cbec447e0732ad618db52b96490.jpg" width="4074" height="1275" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---digital-sketches">Day 2 - Digital sketches<a href="https://kymira.ca/blog/wap-32#day-2---digital-sketches" class="hash-link" aria-label="Direct link to Day 2 - Digital sketches" title="Direct link to Day 2 - Digital sketches">​</a></h2>
+<p>Instead of bringing my hand sketches into a digital format I re-did them in CSP to spend a little more time thinking about poses and design.</p>
+<p><img decoding="async" loading="lazy" alt="Sketches in red digital pencil of 3 omastars" src="https://kymira.ca/assets/images/wap-32.2-7480f891e495fac899390b34747c90a7.jpg" width="2800" height="2967" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---swift-swim">Day 3 - Swift Swim<a href="https://kymira.ca/blog/wap-32#day-3---swift-swim" class="hash-link" aria-label="Direct link to Day 3 - Swift Swim" title="Direct link to Day 3 - Swift Swim">​</a></h2>
+<p>For Swift Swim I wanted longer tentacles for swimming but also a slightly more aerodynamic shell for faster movement in water.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-32.3-293848094ed93b91b45eca88902493f7.jpg" width="2323" height="2261" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---shell-armor">Day 4 - Shell Armor<a href="https://kymira.ca/blog/wap-32#day-4---shell-armor" class="hash-link" aria-label="Direct link to Day 4 - Shell Armor" title="Direct link to Day 4 - Shell Armor">​</a></h2>
+<p>I was torn between how big to go with Shell Armor, some of my earlier sketches definitely had more of the body covered but it ended up looking to diaper-like to me. I’m pretty happy with the helmet look though.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-32.4-c08e36ef61b0869ba6fcb1a3b08a5edb.jpg" width="2190" height="2109" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---weak-armor">Day 5 - Weak Armor<a href="https://kymira.ca/blog/wap-32#day-5---weak-armor" class="hash-link" aria-label="Direct link to Day 5 - Weak Armor" title="Direct link to Day 5 - Weak Armor">​</a></h2>
+<p>Weak Armor was probably the hardest design wise. How I conceptualised it was that on hit, the weak armor would break off and this makes the Pokemon faster as it’s carrying around less weight. Possibly even has some cool regenerate ability but I wasn’t sure how to visually represent that. So I just went with some big pieces being knocked off but still ready to fight.</p>
+<p>This one is pink because that's the Omastar shiny variant.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-32.5-533d3c584e318faa698d57a22661ea44.jpg" width="2500" height="2500" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-32#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Once completed I put them all on a page with some experimental design so it wasn’t just a plain white background.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/omastar-abilityforms-827336f5598fe4f38f90c7a086d0bd78.jpg" width="2800" height="3508" class="img_ev3q"></p>
+<p>I really enjoyed this project. I don’t do design stuff often so it was a nice creative stretch. Dividing it into 1 character per day was also a nice breakdown as they each only took 1-2 hours depending on how confident I was in the sketch and after I figured out the painting method I wanted to use. It’s probably not noticeable but I did a light, textured white paint over the base colours to tone down the colours a bit. Original Pokemon artwork was in water colours so a lot of Pokemon art tries to emulate that and I liked the slightly softer look it gave this.</p>
+<p>I used a web app to get the Omastar name in that font: <a href="https://pokemon-fonts-generator.netlify.app/" target="_blank" rel="noopener noreferrer">Pokemon Fonts Generator</a></p>]]></content:encoded>
+            <category>art</category>
+        </item>
         <item>
             <title><![CDATA[Weekly Art Practice - Week 31]]></title>
             <link>https://kymira.ca/blog/wap-31</link>
@@ -682,44 +717,6 @@ Gimaldinov. I found this version of the tutorial while putting the blog post tog
 <p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-15.5-a247e8e4c4339db9b7a361a6104fb1e3.jpg" width="3054" height="1877" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-15#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
 <p><a href="https://www.pinterest.ca/maeanu3639/wap-penguin/" target="_blank" rel="noopener noreferrer">Pinterest Penguin board</a></p>]]></content:encoded>
-            <category>art</category>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Art Practice - Week 14]]></title>
-            <link>https://kymira.ca/blog/wap-14</link>
-            <guid>https://kymira.ca/blog/wap-14</guid>
-            <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Week 14 - Hawks]]></description>
-            <content:encoded><![CDATA[<p>Some of my upcoming animal week themes are based on photos of artwork from my childhood that my mom has been sending me. This week comes from this ink hawk I did when I was 14. Started to get into calligraphy pens and ink in general. Honestly, this is something I don’t cringe at and I think I would struggle to recreate today.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-14.0-6ff0e1953b62ca2260e7d80a39557d5d.jpg" width="1200" height="1600" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---drawing-from-imagination">Day 1 - Drawing from imagination<a href="https://kymira.ca/blog/wap-14#day-1---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 1 - Drawing from imagination" title="Direct link to Day 1 - Drawing from imagination">​</a></h2>
-<p>I spent a lot of time drawing birds when I was young, especially birds of prey. They were a big favourite of mine.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-14.1-cbf82bd01a21d25b85dd1b892077cf7d.png" width="3024" height="1805" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---figure-sketching">Day 2 - Figure sketching<a href="https://kymira.ca/blog/wap-14#day-2---figure-sketching" class="hash-link" aria-label="Direct link to Day 2 - Figure sketching" title="Direct link to Day 2 - Figure sketching">​</a></h2>
-<p>It felt easy enough to get into draw hawks again with a reference. Nearly all my references are red-tailed hawks due to the algorithm.</p>
-<p><img decoding="async" loading="lazy" alt="Quick hand sketches using references" src="https://kymira.ca/assets/images/wap-14.2-8d19779149cb196fd2c9a0221a713a22.jpg" width="3072" height="1890" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---reference-studies">Day 3 - Reference studies<a href="https://kymira.ca/blog/wap-14#day-3---reference-studies" class="hash-link" aria-label="Direct link to Day 3 - Reference studies" title="Direct link to Day 3 - Reference studies">​</a></h2>
-<p>I think I’ve been rushing my reference studies the last few weeks. I have been feeling very pressed for time, or at least time where I have creative energy. After that blind study video I’m thinking I should prioritise writing down a list of my main takeaways after doing the studies. As I find I’m ending up on day 5 and don’t have a foundation to work up from.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-14.3.1-f823e43f417d2e3714d28c5da605db9d.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-14.3.2-a930f1ae6b251e46ed0d2d86677d677c.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---style-studies">Day 4 - Style studies<a href="https://kymira.ca/blog/wap-14#day-4---style-studies" class="hash-link" aria-label="Direct link to Day 4 - Style studies" title="Direct link to Day 4 - Style studies">​</a></h2>
-<p>There are a fair bit of stylized hawks out there but I did have a hard time finding some that I really liked. This first one feels like a pretty forward flat cartoon style.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-14.4.1-ee16813d52cc71299479106117242bb9.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>Reference: <a href="https://www.pinterest.ca/pin/972073900804728033/" target="_blank" rel="noopener noreferrer">Another one I can only find on Pinterest.</a></p>
-<p>This piece got my attention pretty quickly. It’s way more stylized than anything I do but I like it a lot. The strong empty circles for eyes, the use of pure black in a lot of locations and the many many lines to imply feathers.</p>
-<p>Artists, please all put your name in the piece itself so I can find you through the terrible Pinterest pipeline.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-14.4.2-3802be43dc8f7e2755372e26079e133f.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>Reference: <a href="https://www.tumblr.com/evanlovejoy/172831384141/red-tailed-hawk-study-in-colour" target="_blank" rel="noopener noreferrer">By Evan Lovejoy on Tumble</a></p>
-<p>I put these two together as both are explorations of doing a characterised face for a hawk. These were fun to analyse and see what really comes into play to convey emotion on a face that in reality doesn’t really move much.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-14.4.3-e34225d401f256ff8d28671c6fcba3b1.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>Reference: Getting pretty annoyed at how hard it is to hunt down original versions of Pinterest images. <a href="https://www.pinterest.ca/pin/236087205452227214/" target="_blank" rel="noopener noreferrer">This is the only source on a reverse image search.</a></p>
-<p>Reference: This comes from a Chinese book that has this auto-translated title <a href="https://www.xuewailx.com/comic/shourendemiaohuifangfacongzhenshixishourendaochouxiangxishouren/read-6.html" target="_blank" rel="noopener noreferrer">"How to Draw Orcs - From Realistic Orcs to Abstract Orcs-" Comic Introduction.</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---drawing-from-imagination">Day 5 - Drawing from imagination<a href="https://kymira.ca/blog/wap-14#day-5---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 5 - Drawing from imagination" title="Direct link to Day 5 - Drawing from imagination">​</a></h2>
-<p>I was possibly over confident going into this day 5. I felt pretty comfortable with hawks. However I’ve been rushing through the last weeks and I’m unhappy with the product. I’d really like to spend more time on pieces instead of trying to get something out in 20 minutes.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-14.5-4fe28c81d74da7044462f5f706b04022.jpg" width="2801" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-14#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>I was happy to spend some time looking at hawks. When I started this week I was going to spend some time pointing out the differences between hawks and falcons but Pinterest is so unreliable that I’m even questioning what I know. Maybe if I do falcons for a future week.</p>
-<p>I am starting to re-think my practice approach as I feel like I haven’t been doing it in a very focused way. Feeling more like I’m just forcing myself through the steps and not being conscious of takeaways from each day.</p>]]></content:encoded>
             <category>art</category>
         </item>
     </channel>
