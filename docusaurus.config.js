@@ -57,7 +57,7 @@ const config = {
         title: 'Kymira',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/large-logo.png',
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
@@ -85,6 +85,10 @@ const config = {
                 label: 'D&D Campaigns',
                 to: '/docs/intro',
               },
+              {
+                label: 'About',
+                to: '/about',
+              },
             ],
           },
           {
@@ -97,6 +101,10 @@ const config = {
               {
                 label: 'BluSky',
                 href: 'https://bsky.app/profile/kymira.bsky.social',
+              },
+              {
+                label: 'Cara',
+                href: 'https://cara.app/kymira',
               },
             ],
           },
