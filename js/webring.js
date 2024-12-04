@@ -1,1 +1,85 @@
-const DATA_FOR_WEBRING="https://raw.githubusercontent.com/kylies/webring/main/users.json",template=document.createElement("template");template.innerHTML='\n<style>\n.webring {\n  border: 5px solid #222;\n  border-top-color: #666;\n  border-left-color: #666;\n  background-color: #87c281;\n\n  display: grid;\n  grid-template-columns: 1fr 4fr 1fr;\n  grid-gap: 1rem;\n\n  text-align: center;\n\n  font: 100% system-ui, sans-serif;\n}\n.icon {\n  font-size: 40px;\n}\n</style>\n\n<div class="webring">\n  <div class="icon"><</div>\n  <div id="copy">\n\n  </div>\n  <div class="icon">></div>\n</div>';class WebRing extends HTMLElement{connectedCallback(){this.attachShadow({mode:"open"}),this.shadowRoot.appendChild(template.content.cloneNode(!0));const n=this.getAttribute("site");fetch(DATA_FOR_WEBRING).then((n=>n.json())).then((e=>{const t=e.findIndex((e=>e.url===n)),o=e[t];let i=t-1;-1===i&&(i=e.length-1);let s=t+1;s>e.length&&(s=0);const r=this.getRandomInt(0,e.length-1),a=`\n          <h1 style="font-size:1em">LINE Friends Webring</h1>\n          <p>\n            This <a href="${o.url}">${o.name}</a> site is owned by ${o.owner}\n          </p>\n          <p>Navigate to other sites in the webring by using the buttons below.</p>\n\n          <p>\n            <a href="${e[i].url}">[Prev]</a>\n            <a href="${e[s].url}">[Next]</a>\n            <a href="${e[r].url}">[Random]</a>\n          </p>\n        `;this.shadowRoot.querySelector("#copy").insertAdjacentHTML("afterbegin",a)}))}getRandomInt(n,e){return n=Math.ceil(n),e=Math.floor(e),Math.floor(Math.random()*(e-n+1))+n}}window.customElements.define("webring-css",WebRing);
+const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/kylies/webring/main/users.json`;
+
+const template = document.createElement("template");
+template.innerHTML = `
+<style>
+.webring {
+  border: 5px solid #222;
+  border-top-color: #666;
+  border-left-color: #666;
+  background-color: #87c281;
+
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-gap: 1rem;
+
+  text-align: center;
+
+  font: 100% system-ui, sans-serif;
+}
+.icon {
+  font-size: 40px;
+}
+</style>
+
+<div class="webring">
+  <div class="icon"><</div>
+  <div id="copy">
+
+  </div>
+  <div class="icon">></div>
+</div>`;
+
+class WebRing extends HTMLElement {
+  connectedCallback() {
+    this.attachShadow({ mode: "open" });
+    this.shadowRoot.appendChild(template.content.cloneNode(true));
+
+    // e.g. https://css-tricks.com
+    const thisSite = this.getAttribute("site");
+
+    fetch(DATA_FOR_WEBRING)
+      .then((response) => response.json())
+      .then((sites) => {
+        // Find the current site in the data
+        const matchedSiteIndex = sites.findIndex(
+          (site) => site.url === thisSite
+        );
+        const matchedSite = sites[matchedSiteIndex];
+
+        let prevSiteIndex = matchedSiteIndex - 1;
+        if (prevSiteIndex === -1) prevSiteIndex = sites.length - 1;
+
+        let nextSiteIndex = matchedSiteIndex + 1;
+        if (nextSiteIndex > sites.length) nextSiteIndex = 0;
+
+        const randomSiteIndex = this.getRandomInt(0, sites.length - 1);
+
+        const cp = `
+          <h1 style="font-size:1em">LINE Friends Webring</h1>
+          <p>
+            This <a href="${matchedSite.url}">${matchedSite.name}</a> site is owned by ${matchedSite.owner}
+          </p>
+          <p>Navigate to other sites in the webring by using the buttons below.</p>
+
+          <p>
+            <a href="${sites[prevSiteIndex].url}">[Prev]</a>
+            <a href="${sites[nextSiteIndex].url}">[Next]</a>
+            <a href="${sites[randomSiteIndex].url}">[Random]</a>
+          </p>
+        `;
+
+        this.shadowRoot
+          .querySelector("#copy")
+          .insertAdjacentHTML("afterbegin", cp);
+      });
+  }
+
+  getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+}
+
+window.customElements.define("webring-css", WebRing);
