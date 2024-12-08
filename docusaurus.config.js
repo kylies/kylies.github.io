@@ -8,7 +8,7 @@ const darkTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Kymira',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'A fantastic idea or figment of the imagination.',
   url: 'https://kymira.ca',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -94,10 +94,6 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/lautir',
-              },
               {
                 label: 'BluSky',
                 href: 'https://bsky.app/profile/kymira.bsky.social',
