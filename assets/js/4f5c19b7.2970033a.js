@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkymira=self.webpackChunkkymira||[]).push([[3550],{40988:a=>{a.exports=JSON.parse('{"tag":{"label":"books","permalink":"/blog/tags/books","allTagsPath":"/blog/tags","count":2,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/books","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
