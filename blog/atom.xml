@@ -2,11 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2024-12-30T00:00:00.000Z</updated>
+    <updated>2025-01-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Devlog - SWAK Week 1]]></title>
+        <id>https://kymira.ca/blog/swak-1</id>
+        <link href="https://kymira.ca/blog/swak-1"/>
+        <updated>2025-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New year new projects, starting with the Sealed With a Kiss game jam. My wife and I started work on the project bright and early on January first. With just a few days of vacation left I wanted to get as many assets done as I could before returning to work on Monday. Which has led to creating more art in a few days than any period last year.]]></summary>
+        <content type="html"><![CDATA[<p>New year new projects, starting with the <a href="https://itch.io/jam/swakjam-2025" target="_blank" rel="noopener noreferrer">Sealed With a Kiss game jam</a>. My wife and I started work on the project bright and early on January first. With just a few days of vacation left I wanted to get as many assets done as I could before returning to work on Monday. Which has led to creating more art in a few days than any period last year.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/asset_tracking-842fa416ab5722a9e8be004a7fc5696c.png" width="1230" height="406" class="img_ev3q"></p>
+<p>The speed won’t last though. I got through most of the character art but now I’m mostly left with backgrounds and I probably won’t be able to get through more than one of those every few days. So far 5-8 hours seems like the average time they requires. But we’ll see how the next week goes, for now, it’s recap time.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="asset-creation">Asset creation<a href="https://kymira.ca/blog/swak-1#asset-creation" class="hash-link" aria-label="Direct link to Asset creation" title="Direct link to Asset creation">​</a></h2>
+<p>We had the basics of our game flow and story figured out before we started so I was able to get a pretty solid list of “to-do” work ready before day one. Characters were the priority as they take more than just drawing time but also programming time. So if I could get the characters done quickly it would give my wife more time to work with them in Ren’py.</p>
+<p>I was able to get basic sketches down for each of the 4 main characters on day one which felt like an accomplishment and was already faster than I had planned for.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/character_sketches-07804267e8c9a5ff1c866a1f8d9a05d2.png" width="1607" height="691" class="img_ev3q"></p>
+<p>Aside from characters and backgrounds we also had some smaller assets that were needed. A wand for our energy mechanic, a large book for light novel scenes. It’s unlikely that we’ve reached the end of assets and new ones will continue to arise over the next few weeks. The asset tracker Total has already increased since I took that screenshot...</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="characters">Characters<a href="https://kymira.ca/blog/swak-1#characters" class="hash-link" aria-label="Direct link to Characters" title="Direct link to Characters">​</a></h2>
+<p>After the first sketches I let the characters sit for a day before returning to them. Art Director Wife wanted our main character to look a little more "student struggling" so I spent time revisiting her. Other characters had smaller fixes up I worked on during second passes. 7 days in and I think we have most of the final details for our cast.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/character_flats-bac79168f3041e09ce377b4460d33f31.png" width="1610" height="696" class="img_ev3q"></p>
+<p>Their designs are a mix of D&amp;D inspo meets Montreal in the 80s. I spent a fair bit of time scrolling through 80s fashion and trying to find a unique look for each of them. But then I remembered we set the story in December so everyone needs a jacket layer for being outside :| The scope just keeps growing.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="backgrounds">Backgrounds<a href="https://kymira.ca/blog/swak-1#backgrounds" class="hash-link" aria-label="Direct link to Backgrounds" title="Direct link to Backgrounds">​</a></h2>
+<p>I haven’t done too much work on backgrounds yet but I have made the promising discovery of the default Pointillism brush in CSP. We had envisioned a slightly more abstract or impressionistic backgrounds and I wasn’t sure how to approach this. I spent a decent amount of time just testing brushes to find something pleasing to work with and look at. It’s worked for the one background that has a lot of plants and snow, now I’ll just hope it can hold up in backgrounds that have more buildings.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ao_day-819a6c377ba9cf8382836a9c138b5c96.png" width="1281" height="722" class="img_ev3q"></p>
+<p>Indoor scenes will be another whole thing. I don’t think pointillism will work as well there so I expect a decent amount of trial and error. So far I only have this computer background which still needs a fair bit of work but I wanted to get it in early since it’s a big part of the game.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/computer_background-22481a10e68c6dfe174a7a26f3eade09.png" width="1924" height="1082" class="img_ev3q"></p>
+<p>An additional added goal to backgrounds is having a day and night version of each scene. Ren’py has some shaders which can be applied to backgrounds and images on top of backgrounds which give a lot of options. But for outdoor scenes I’m going to try to do 2 versions of each:</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ao_park_both-04ca40e0f3824ec7f9fdda1e074d619f.png" width="3840" height="1080" class="img_ev3q"></p>
+<p>Also, a huge shout out to the Clip Studio Asset store. Everyone sharing assets is saving me hours of work, just some great stuff in there.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-game-so-far">The game so far<a href="https://kymira.ca/blog/swak-1#the-game-so-far" class="hash-link" aria-label="Direct link to The game so far" title="Direct link to The game so far">​</a></h2>
+<p>While I’ve been fully focused on art assets my wife has been tackling everything else about the game. Launch screen, writing, sound effects, menus, energy mechanic, multiple text areas, music, assigning assets. Basically just everything.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/launch_screen-aa934a9db9f0cc4a691a37a942142e3a.png" width="2690" height="1496" class="img_ev3q"></p>
+<p>As of today, the 8th, we’re almost done with day 1 of gameplay/story. This means written scenes and mechanics. There are still some missing key backgrounds, like our main character's room. We have some placeholder graphics in there currently for those. Once we have day 1 story all in place we’ll start sharing the game with some folks and try to get some feedback in hopes of actioning it before we get too far into day 2!</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/day-1-activities-ca8d49e4832cc3c23f2be7ddfa3dfd37.png" width="2648" height="1490" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="art" term="art"/>
+        <category label="games" term="games"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WAP Up]]></title>
         <id>https://kymira.ca/blog/wap-up</id>
@@ -752,41 +790,5 @@ Gimaldinov. I found this version of the tutorial while putting the blog post tog
         </author>
         <category label="art" term="art"/>
         <category label="altar-stone" term="altar-stone"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Art Practice - Week 26]]></title>
-        <id>https://kymira.ca/blog/wap-26</id>
-        <link href="https://kymira.ca/blog/wap-26"/>
-        <updated>2024-08-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Week 26 - Griffins]]></summary>
-        <content type="html"><![CDATA[<p>This week is another fictional creature week. Started off pretty rough but came up with a good practice approach for a creature that doesn’t exist.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---drawing-from-imagination">Day 1 - Drawing from imagination<a href="https://kymira.ca/blog/wap-26#day-1---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 1 - Drawing from imagination" title="Direct link to Day 1 - Drawing from imagination">​</a></h2>
-<p>Day 1 was rough. I’m not really sure if I should put more time into the day one task as it doesn’t feel like I’m set up to learn anything yet. But it makes the jump in progress also feel a little fake as I know I can do better than what I draw on day 1 sometimes.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-26.1-47c7bc0517e1d781b5e536f4baa943d7.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---figure-sketching">Day 2 - Figure sketching<a href="https://kymira.ca/blog/wap-26#day-2---figure-sketching" class="hash-link" aria-label="Direct link to Day 2 - Figure sketching" title="Direct link to Day 2 - Figure sketching">​</a></h2>
-<p>Day 2 was good, used some of my favourite images I had found as reference for some quick sketches. I love the little cat-peregrine.</p>
-<p><img decoding="async" loading="lazy" alt="Quick hand sketches using references" src="https://kymira.ca/assets/images/wap-26.2-f4b207b74b9204f4995b1fcfe971a3a9.jpg" width="3072" height="2132" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---reference-studies">Day 3 - Reference studies<a href="https://kymira.ca/blog/wap-26#day-3---reference-studies" class="hash-link" aria-label="Direct link to Day 3 - Reference studies" title="Direct link to Day 3 - Reference studies">​</a></h2>
-<p>Reference studies went okay, went with some more traditional griffins. A mediaeval emblem type and a simple modern adaptation.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-26.3.1-d19033d3ceea2f6368d914621314532c.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>Reference: <a href="https://about-mythical-creatures.weebly.com/griffin.html" target="_blank" rel="noopener noreferrer">Someone’s cute old-web site about mythical creatures.</a></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-26.3.2-b13d911c3d990ae4447c449922ead9fb.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>Reference: <a href="https://cole_chetti.artstation.com/projects/rRJXZ5" target="_blank" rel="noopener noreferrer">Griffin by Cole Marchetti</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---style-studies">Day 4 - Style studies<a href="https://kymira.ca/blog/wap-26#day-4---style-studies" class="hash-link" aria-label="Direct link to Day 4 - Style studies" title="Direct link to Day 4 - Style studies">​</a></h2>
-<p>Instead of style studies for day 4 I return to the practice of “drawing from life” by choosing one bird reference and one lion reference. The exercise being I need to merge them together myself but would have realistic portions for each half.</p>
-<p>This was my favourite day as it felt like the “right” approach. I wish I had thought of it sooner and I would have just done different combos every day cause I like seeing different bird types of griffins.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-26.4-063d7036fa99672c041963a03431e416.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---drawing-from-imagination">Day 5 - Drawing from imagination<a href="https://kymira.ca/blog/wap-26#day-5---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 5 - Drawing from imagination" title="Direct link to Day 5 - Drawing from imagination">​</a></h2>
-<p>Drawing from imagination felt a little rough. I wanted to try a more dramatic flying pose but that ended up being a bit more perspective work than I was prepared to do. For the second one I wanted to try to capture cute cat + bird but without a reference for either it feels messy.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-26.5-0623abc563147e05bca2d669795a39ac.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-26#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>I’d like to spend another week with griffins as they’re one of my favourite mythological creatures. Maybe I’ll return to them later this year. But next up is some travel time so I’m going to take a week or two off of focused practice and just doodle for the next week or so.</p>
-<p>Pinterest board <a href="https://ca.pinterest.com/maeanu3639/wap-griffin/" target="_blank" rel="noopener noreferrer">of griffins.</a></p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="wap" term="wap"/>
     </entry>
 </feed>
