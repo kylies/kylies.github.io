@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2025-01-14T00:00:00.000Z</updated>
+    <updated>2025-01-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Devlog - SWAK Week 3]]></title>
+        <id>https://kymira.ca/blog/swak-3</id>
+        <link href="https://kymira.ca/blog/swak-3"/>
+        <updated>2025-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s time for the week 3 summary. That’s 21 days of working on our game non-stop. Neither of us has taken a full day off since we started, doing probably 7-10 hours of work a day each (well, a little less for me on the days I go to my paying job). We’re still progressing at a nice pace but with more than half the month gone the to-do list feels a little scarier with each passing day.]]></summary>
+        <content type="html"><![CDATA[<p>It’s time for the week 3 summary. That’s 21 days of working on our game non-stop. Neither of us has taken a full day off since we started, doing probably 7-10 hours of work a day each (well, a little less for me on the days I go to my paying job). We’re still progressing at a nice pace but with more than half the month gone the to-do list feels a little scarier with each passing day.</p>
+<p>The assets list increases a little every week. Last week there were 77 needed assets, this week ending at 82. Some of those are ‘nice-to-haves’ which I’m going to start tracking as stretch goals so they don’t contribute to the overall number necessary for launch.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/week3-assets-d1d625c1169c65f2f8d83ab25bb71c0f.png" width="766" height="272" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="backgrounds">Backgrounds<a href="https://kymira.ca/blog/swak-3#backgrounds" class="hash-link" aria-label="Direct link to Backgrounds" title="Direct link to Backgrounds">​</a></h2>
+<p>I was able to finish 2 huge bedrooms in the last 10 days. They were so intense for me that I felt so much relief when I opened a new canvas and could just bask in the emptiness of it. Managed a smaller, more abstract background for Day 2 in just a day, which felt nice and productive. After that I started to work on “end scenes” for the game. Visual novels often end on a unique art scene so we wanted some of those. Like the “reward” for finishing the game.</p>
+<p>I was able to finish up one of the ending images pretty quickly and it’s one of the cutest things I’ve ever drawn. I want to post it online real bad but it’s basically a spoiler that I want people to first see in game. So in game it will stay for a few months.</p>
+<p>This background doesn’t have any spoilers so check out this good wall. The door even opens! I was able to get this done pretty quickly as well thanks to some wood panelling assets and a wallpaper material from the Clip Store. It’s simple but I feel like it really sells the scene in engine.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/apt-hallway-60dd18c47ae85da352c215b090616311.png" width="1920" height="1080" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="assets">Assets<a href="https://kymira.ca/blog/swak-3#assets" class="hash-link" aria-label="Direct link to Assets" title="Direct link to Assets">​</a></h2>
+<p>Since I spent so much time populating a nerd room I ended up drawing a lot of Stuff to fill the room. Tried to give it a fair bit of character. This is my collection of Little Guys for Cass’s room.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/little-guys-swak-e1e808f2a5bf1399fcd960304a3e5180.jpg" width="573" height="410" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="making-a-montreal-like">Making a Montreal-like<a href="https://kymira.ca/blog/swak-3#making-a-montreal-like" class="hash-link" aria-label="Direct link to Making a Montreal-like" title="Direct link to Making a Montreal-like">​</a></h2>
+<p>The city in our game isn’t Montreal, but it’s got parts of Montreal with twists. It made sense to us to set the game in a city like Montreal since it’s where we live and we knew we could look around and find references easily. There are some clear Montreal landmarks that I used as reference for a few backgrounds so far.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/parc_vs_park-207490cd3ff50ae2b011d03bf4e350b9.jpg" width="3100" height="1080" class="img_ev3q"></p>
+<p>This photo is my main inspiration for the park background. The statue changed into the amethyst obelisk and the cross on the mountain replaced by our magical school.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/outside-apartments-5a7e39ec887d61db18a27467d767b3a9.png" width="2648" height="1494" class="img_ev3q"></p>
+<p>The apartment front is based off of an apartment building where a friend lives.</p>
+<p>The school in the game is called Crowstone and I used <a href="https://en.wikipedia.org/wiki/Ravenscrag,_Montreal" target="_blank" rel="noopener noreferrer">Montreal’s Ravenscrag manor</a> as inspiration. This manor turned psychiatric hospital (with an honestly very dark history that the Wiki page weirdly doesn’t mention) is a building near Mont Royal park but in the game I put it right on top of the hill to loom over the city. Making it visible in a few different backgrounds.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ravenscrag-45977179a8df9a6a46f4e9f4fd2c843a.png" width="1454" height="832" class="img_ev3q"></p>
+<p>The street scene is also very Montreal, I would have loved to include the classic spiral staircases but I would have hated doing those in perspective. Also debated having a French stop sign but we decided against it since we don’t have any French in the game. And it is meant to be more of a fantasy world than the real world.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/street-day-89b3797c1dff066b134bb3b77cadb007.png" width="1280" height="724" class="img_ev3q"></p>
+<p>There are a few other iconic Montreal features like churches everywhere, constant construction, random art installation, and great parks that I’d like to include in future backgrounds. Given the strong D&amp;D influence in our game world, churches would probably become temples to different gods, construction might be magic that works on its own. But each background takes me at least 2-4 days so we’ve really tried to limit our location in this first part of the game so these things won’t come up in the next version. But I’ll definitely be using more image inspiration like with the statue and hill photo reference because I’ve really enjoyed incorporating my everyday world into a fantasy story world.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="next-steps">Next steps<a href="https://kymira.ca/blog/swak-3#next-steps" class="hash-link" aria-label="Direct link to Next steps" title="Direct link to Next steps">​</a></h2>
+<p>I’m trying to wrap up the last art assets in the next 7 days so that we have a comfortable few days to implement everything and make sure it works before submitting the game to the jam. I’m feeling pretty confident about getting through the last needed art pieces but there’s still a lot of writing and other implementations to get done too.</p>
+<p>Something I’m noticing for myself is that by spending so much time in the Creative Zone I find myself coming up with new ideas constantly. Not just art ideas but my other hobbies too. I want to do some video editing and make a trailer for the game. I have an idea for a level 1 intro adventure in D&amp;D. I want to work on my volunteer projects. I want to do art for the D&amp;D campaign I’m already running. And I recognize this feeling from my years doing NaNoWriMo. Part of it is longing for the thrill of a new project after being so intensely focused on a single one. Part of it is just that creative activity feeds creative energy. I’d love to say that I hope to carry this energy into February but there’s a solid chance I’ll crash and not want to touch my tablet for a while. I’ve started to get some back pain over the last few days so I’d like to give myself some rest time. So resting is my main plan for February 2nd, that and getting back into physio exercises.</p>
+<p>You can still play Day 1 on our <a href="https://sophiefromhowls.itch.io/love-in-the-time-of-spellphage-01" target="_blank" rel="noopener noreferrer">Itch.io page</a> for another week or so. We did a minor update after its first release to add a few more art assets and cat content. The current game will get replaced when we release Day 2 next week!</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="art" term="art"/>
+        <category label="games" term="games"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devlog - SWAK Week 2]]></title>
         <id>https://kymira.ca/blog/swak-2</id>
@@ -737,52 +776,6 @@ Reference: <a href="https://www.casterman.com/Bande-dessinee/Catalogue/le-gout-d
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-28#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
 <p>Running a bit behind on art due to having a very busy week last week. Gonna focus on some other art projects and blog posts and resume WAP exercises next week.</p>
 <p>Pinterest board <a href="https://ca.pinterest.com/maeanu3639/wap-raccoon/" target="_blank" rel="noopener noreferrer">of raccoons.</a></p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="wap" term="wap"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Art Practice - Week 27]]></title>
-        <id>https://kymira.ca/blog/wap-27</id>
-        <link href="https://kymira.ca/blog/wap-27"/>
-        <updated>2024-09-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Week 27 - Material studies]]></summary>
-        <content type="html"><![CDATA[<p>This week's study theme was inspired from the <a href="https://kymira.ca/blog/owc">One Week Character challenge</a> I did a few months ago. The instructure spent a decent amount of time talking about material painting and using it to livin up your character's look. I struggled with the focus on metal as I didn’t feel like I had enough time in the 1 day devoted to materials to really learn, and instead just ended up trying to fake it. But after that I added Material Studies to my list of upcoming WAPs, and now we finally got there.</p>
-<p>I started by gathering up material step-by-step guides I could find on Pinterest. The most common ones are gold and metal, but the metadata on these things isn’t great so it was hard to keep searching for more, broader themes. Out of the ones I found I choose 5 that feel like decent beginner materials, by which I probably mean most common. I also choose ones that had the most understandable guides, preferring ones that also had text that explained the steps.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---wood">Day 1 - Wood<a href="https://kymira.ca/blog/wap-27#day-1---wood" class="hash-link" aria-label="Direct link to Day 1 - Wood" title="Direct link to Day 1 - Wood">​</a></h2>
-<p>I find wood rather intimidating to paint, I suspect others do too as it’s very easy to find a brush to do the effect. It’s my go-to move for Altar Stone videos or other backgrounds where I need to do a large piece of wood because the idea of drawing all the needed lines is exhausting. But that’s what we did on day 1.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-27.1-ef890115c8b406a0996efa002eddcff8.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>I’m very happy with how this went, even though I did get lost in the steps for a while. The instructions could be more clear. I didn’t add as many scratches but that was mostly because I felt like the ones I did do were enough to learn what was going on. This piece also came together rather quickly which was a nice discovery, making the idea of doing hand drawn wood objects in the future less daunting.</p>
-<p><a href="https://www.deviantart.com/gimaldinov/art/How-to-draw-wooden-plank-267517599" target="_blank" rel="noopener noreferrer">Wood tutorial</a> by
-Gimaldinov. I found this version of the tutorial while putting the blog post together and now I see that there were more steps! I didn’t know about the last few!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---gold">Day 2 - Gold<a href="https://kymira.ca/blog/wap-27#day-2---gold" class="hash-link" aria-label="Direct link to Day 2 - Gold" title="Direct link to Day 2 - Gold">​</a></h2>
-<p>Gold felt pretty straight forward and was the fastest of the bunch. I do feel like I’ve lost some texture and I could have pushed the highlights harder.</p>
-<p><img decoding="async" loading="lazy" alt="A step by step guide on how to paint gold next to a large golden chalice." src="https://kymira.ca/assets/images/wap-27.2-6af054c375be199f7d294a4aee3cc9bc.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>Gold tutorial by <a href="https://www.colinadams.com/" target="_blank" rel="noopener noreferrer">Colin Adams</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---metal">Day 3 - Metal<a href="https://kymira.ca/blog/wap-27#day-3---metal" class="hash-link" aria-label="Direct link to Day 3 - Metal" title="Direct link to Day 3 - Metal">​</a></h2>
-<p>I hesitated on doing metal and gold on back to back days, thinking they would feel too similar. But I tried to focus on fixing the texture problem which led to some impressive results. At least after my first attempt which turned into a smudged mess.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-27.3-3dc172fe8f1d17e681368a9a64ffc349.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>A big struggle with the instructions for these things is that it’s not clear how you’re meant to be painting. Not everyone suggests a brush type so I would do trial and error with different kinds of brushes to try to get a similar look. Then I would try to soften the edges between colours but if you smug too much it’s easy to lose texture and lighting.</p>
-<p><a href="https://www.deviantart.com/mateslaurentiu/art/Armor-tutorial-220805678" target="_blank" rel="noopener noreferrer">Metal tutorial</a> by <a href="https://www.deviantart.com/mateslaurentiu/gallery" target="_blank" rel="noopener noreferrer">MatesLaurentiu</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---scales">Day 4 - Scales<a href="https://kymira.ca/blog/wap-27#day-4---scales" class="hash-link" aria-label="Direct link to Day 4 - Scales" title="Direct link to Day 4 - Scales">​</a></h2>
-<p>I was pretty excited for scales, thinking I would learn a technique to make 100 diamonds look good all at once. Turns out, no, you must draw every diamond.</p>
-<p>At least if you want to do a shiny, impressive close up.</p>
-<p>This study took the longest of the 5. The base approach of wavy lines on a column is very good for getting the shape down, but after that it’s very much <a href="https://knowyourmeme.com/memes/how-to-draw-an-owl" target="_blank" rel="noopener noreferrer">“draw the rest of the owl”</a> feeling.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-27.4-d7e00538588f280a9945db0c81fe7a93.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>I lined every scale, painting in the base colour, did one round of highlights, a second round of highlights, 2 rounds of shadows, then added more detail base colours somewhere in between. Went back and fixed the shadows because they needed to be blended. Went back and fixed the highlights because they needed to be blended. All those steps repeated for each scale.</p>
-<p>When I write it out it sounds terrible, but it can become relaxing. Once you know what you’re trying to accomplish with the specific step you’re on, it’s easier to turn your brain off and just do it for a while. So I could see a huge scaled creature project being pretty fun. But I don’t think it’s something I’ll do often.</p>
-<p>Scales tutorial by <a href="https://www.youtube.com/c/Anastasiaberry" target="_blank" rel="noopener noreferrer">Anastasia Deg aka AnastasiaBerry</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---fur">Day 5 - Fur<a href="https://kymira.ca/blog/wap-27#day-5---fur" class="hash-link" aria-label="Direct link to Day 5 - Fur" title="Direct link to Day 5 - Fur">​</a></h2>
-<p>I didn’t love this fur tutorial at first glance but all the steps felt clear so I went with it. It wasn’t until I started to read the instructions and follow along that I noticed that the shading part of the approach focused on hue shifting which is a technique I want to get better at (hue shifting is where you change the hue instead of something else like value or saturation).  This is a pretty good <a href="https://www.blue-canary.net/miniature-painting/painting-tips-and-guides/hue-shifting/" target="_blank" rel="noopener noreferrer">guide to hue shifting</a>.</p>
-<p>I wasn’t able to get the exact colours they have in the guide but I’m pretty happy with where my hues ended up. I feel like I lost some structure in the fur pieces but I think I understood the made shape takeaways that make the fur look dynamic.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-27.5-1f014abd456dadc88bf5f5be78f239de.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-27#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-27.6-a0be5cb5cc81676c931a5cce70fe2a4d.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>This was a very fun and refreshing week. It was nice to focus on small little studies that could be completed, while feeling like I’m filling in some blanks in my brain. I’m going to keep collecting guides like this and try to do another small studies week before the end of the year.</p>
-<p>Pinterest board <a href="https://ca.pinterest.com/maeanu3639/wap-materials/" target="_blank" rel="noopener noreferrer">link</a>.</p>]]></content>
         <author>
             <name>Kylie</name>
             <uri>https://github.com/kylies</uri>
