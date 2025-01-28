@@ -13,8 +13,7 @@ const FeatureList = [
     Svg: require('@site/static/img/greysquirrel.svg').default,
     description: (
       <>
-        I recently made a return to practice art. Documenting my experience
-        to see how far I can get.
+        Regular weekly <a href='/blog'>blog posts</a> about my art practice and other creative projects.
       </>
     ),
   },
@@ -33,7 +32,7 @@ const FeatureList = [
     Svg: require('@site/static/img/altarstone-svg.svg').default,
     description: (
       <>
-        An art and music collaboration project focused on making background music for D&D campaigns.
+        An art and music collaboration project focused on making background music for D&D campaigns. Found on <a href='https://www.youtube.com/@altarstone'>YouTube</a>.
       </>
     ),
   },

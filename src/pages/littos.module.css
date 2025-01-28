@@ -1,0 +1,27 @@
+.main {
+  padding: 100px;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.contents {
+  color: #ccc;
+}
+
+.table {
+  width: 100%;
+  text-align: left;
+  border: 5px solid;
+  display: table;
+}
+
+.textbox {
+  padding: 100px;
+}
+
+.littos {
+  padding-right: 10%;  
+  padding-left: 10%;
+}

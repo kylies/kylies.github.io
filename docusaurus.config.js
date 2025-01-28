@@ -56,13 +56,14 @@ const config = {
       navbar: {
         title: 'Kymira',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Site Logo, a pixel wolf',
           src: 'img/large-logo.png',
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {href: 'https://www.youtube.com/channel/UCuDQ7ixvCci_cvZ9f9jznVA', label: 'Altar Stone', position: 'left'},
           {to: '/about', label: 'About me', position: 'left'},
+          {to: '/littos', label: 'Love in the Time of Spellphage', position: 'left'},
           {
             type: 'doc',
             docId: 'intro',
@@ -110,6 +111,10 @@ const config = {
               {
                 label: 'Altar Stone',
                 href: 'https://www.youtube.com/channel/UCuDQ7ixvCci_cvZ9f9jznVA',
+              },
+              {
+                label: 'Littos',
+                href: 'https://sophiefromhowls.itch.io/love-in-the-time-of-spellphage-01',
               },
               {
                 label: 'RSS Feed',
