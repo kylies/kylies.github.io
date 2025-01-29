@@ -4,10 +4,39 @@
         <title>Kymira Blog</title>
         <link>https://kymira.ca/blog</link>
         <description>Kymira Blog</description>
-        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Devlog - SWAK Week 4]]></title>
+            <link>https://kymira.ca/blog/swak-4</link>
+            <guid>https://kymira.ca/blog/swak-4</guid>
+            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Going into the final week, I’ve done my (very likely) final pull request for art assets. Have done a few playthroughs of the game, hunting down any bugs. Between how hard we worked early in the month and our success at avoiding too much scope creep, we’re hoping to submit the game in the next day or two with a day to spare before the deadline.]]></description>
+            <content:encoded><![CDATA[<p>Going into the final week, I’ve done my (very likely) final pull request for art assets. Have done a few playthroughs of the game, hunting down any bugs. Between how hard we worked early in the month and our success at avoiding too much scope creep, we’re hoping to submit the game in the next day or two with a day to spare before the deadline.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/week4-assets-a44526177e7b82fe90c539eedb7c2b4f.png" width="690" height="306" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="backgrounds">Backgrounds<a href="https://kymira.ca/blog/swak-4#backgrounds" class="hash-link" aria-label="Direct link to Backgrounds" title="Direct link to Backgrounds">​</a></h2>
+<p>I had pretty confidently thought I was done with backgrounds last week but while we were brainstorming final scenes it was clear having one more would help. This ended up launching a quick Clip Asset Store search, buying the CPS version update (I’ve been on v2.0 for years…) and hoping that nothing would break in the update.</p>
+<p>It thankfully all went very smoothly and I got new Clip features to use out of it! And I drew I kitchen x_x Which I won’t share yet as it’s only for those who choose a specific ending.</p>
+<p>It feels like we actually ended up with a lot of backgrounds for a game designed around lockdown. Helps that most of the characters live in the same building so I could keep the interior scenes consistent and reuse bits and pieces. As shown in this angled hallway shot that ties in with last week’s doorway shot. Didn’t think I’d be re-creating the wallpaper again and definitely had to re-learn the sequence of effects on it…</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/apt_hallway-c18f38b48950bfc7225dbdeb22732071.png" width="1920" height="1280" class="img_ev3q"></p>
+<p>But it also just became difficult to have emotional character scenes without giving the characters somewhere to go. And new backgrounds feel like game progression in this kind of game. Getting to see someone else’s apartment is both game progress and character relationship progress.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="assets">Assets<a href="https://kymira.ca/blog/swak-4#assets" class="hash-link" aria-label="Direct link to Assets" title="Direct link to Assets">​</a></h2>
+<p>Something I did in the last few days was do a shading pass on our 4 characters. I wasn’t sure I was going to have time when we started but I’m super happy it’s something I did in the end as it makes them fit into the scenes much better. The backgrounds all have shading so they look like part of the world by having their own shading.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/lauren-with-shading-12fcd9d61758433c7d6e3308a6616378.jpg" width="2035" height="798" class="img_ev3q"></p>
+<p>I also darkened Lauren’s skin tone to differentiate her more from Kim and show her wood nymph heritage.</p>
+<p>Shading all the characters took about 2 days as I had to do each base differently and then jackets on top of bases.</p>
+<p>I made an asset spread of all the Lauren pieces to show how few assets it takes to make what I feel like is a pretty expressive character.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/lauren-spread-4bf5cb11875f10c52cb67493953aa1d2.jpg" width="1500" height="1500" class="img_ev3q"></p>
+<p>When I was first brainstorming how to do the characters I had mentally mapped it as “draw a happy face” “draw a sad face” thinking that each expression would require a face. But after some VN research it was decided that the more efficient but more programmatically demanding way to do expressions was by working with multiple assets at once. So instead of a fully drawn happy face asset, a happy face was made out of: a smile + neutral eyes. While an angry face would be made out of: a frown + squinting eyes + angled brows. And then an embarrassed face could be: a frown + blush. Basically letting us remix different eye + mouth assets to create a lot more expressions than having to draw an individual face for each expression. I feel like this really worked out for us as whenever I play the game I’m tickled by how much the characters move from sentence to sentence (which is largely to do with my wife’s programming timing of them all).</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="next-steps">Next steps<a href="https://kymira.ca/blog/swak-4#next-steps" class="hash-link" aria-label="Direct link to Next steps" title="Direct link to Next steps">​</a></h2>
+<p>It’s nearly time to package and upload the game to Itch! Some final fixes are going in and stress tested over the next 24 hours. Some issues are bound to have slipped through, it’s difficult to test every permutation of choices a player can make while going through the 2 days. So if you’re reading this and playing the game let us know if you see anything weird.</p>
+<p>For me, next week is February so I’m back to smaller, weekly projects for art practice. With my first one being a style study of Kyle Ferrin, the board game artist of <a href="https://ledergames.com/products/root-a-game-of-woodland-might-and-right" target="_blank" rel="noopener noreferrer">Root fame</a>. I also want to take some time next week and review all the assets I relied on for the game and share some of my favourites in their own blog post.</p>
+<p>For LitToS, we’re probably going to take some time away from it and start looking for ways to make it a more sustainable project while lightly polishing what we have so far.</p>]]></content:encoded>
+            <category>art</category>
+            <category>games</category>
+        </item>
         <item>
             <title><![CDATA[Devlog - SWAK Week 3]]></title>
             <link>https://kymira.ca/blog/swak-3</link>
@@ -665,44 +694,6 @@ Reference: <a href="https://www.casterman.com/Bande-dessinee/Catalogue/le-gout-d
             <category>art</category>
             <category>dnd</category>
             <category>homebrew</category>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Art Practice - Week 28]]></title>
-            <link>https://kymira.ca/blog/wap-28</link>
-            <guid>https://kymira.ca/blog/wap-28</guid>
-            <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Week 28 - Raccoons]]></description>
-            <content:encoded><![CDATA[<p>This week's raccoon theme gets me close to wrapping up “city creatures”. Though I guess I’ve skipped rats and mice but that’s more because my wife is afraid of them and also I don’t want to think about mice when I don’t have too.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---drawing-from-imagination">Day 1 - Drawing from imagination<a href="https://kymira.ca/blog/wap-28#day-1---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 1 - Drawing from imagination" title="Direct link to Day 1 - Drawing from imagination">​</a></h2>
-<p>Day 1, a little messy as always. The big thing being I couldn’t remember what raccoon face patterns look like. And there body shape came out much too similar to cats.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-28.1-17ea79033a15d9cd6ba67642ff976fa0.jpg" width="3072" height="2102" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---figure-sketching">Day 2 - Figure sketching<a href="https://kymira.ca/blog/wap-28#day-2---figure-sketching" class="hash-link" aria-label="Direct link to Day 2 - Figure sketching" title="Direct link to Day 2 - Figure sketching">​</a></h2>
-<p>Day 2 gave us the raccoon who wants a hug, who took off on BluSky a bit. Setting the bar high for the rest of the week. How could a raccoon be cuter?</p>
-<p><img decoding="async" loading="lazy" alt="Quick hand sketches using references" src="https://kymira.ca/assets/images/wap-28.2-125f301429828f6bb903c362d4f736e0.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---reference-studies">Day 3 - Reference studies<a href="https://kymira.ca/blog/wap-28#day-3---reference-studies" class="hash-link" aria-label="Direct link to Day 3 - Reference studies" title="Direct link to Day 3 - Reference studies">​</a></h2>
-<p>Ended up spending 2 days on reference studies. Probably too long but I was enjoying the process. I’m a big fan of the chunky raccoon shape. Just drawing a bunch of fur and curves.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-28.3-ff39d36af80f4f20b58669bc668fda82.jpg" width="3000" height="2074" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---style-studies">Day 4 - Style studies<a href="https://kymira.ca/blog/wap-28#day-4---style-studies" class="hash-link" aria-label="Direct link to Day 4 - Style studies" title="Direct link to Day 4 - Style studies">​</a></h2>
-<p>I know I could find endless raccoon cartoon references if I kept digging but I had a very busy week so just grabbed the top Pinterest results.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-28.4.1-a74677cfbbc48a5dfe158e89ca11a4f1.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>Reference: <a href="https://spicymochi.tumblr.com/post/720210870068789248/he-is-sitting-politely" target="_blank" rel="noopener noreferrer">Art by SpicyMochi / Renee</a></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-28.4.2-fecc47208807f79836ce3409bc4a1aaa.jpg" width="2757" height="2000" class="img_ev3q"></p>
-<p>Reference: <a href="https://society6.com/eloisenarrigan" target="_blank" rel="noopener noreferrer">Raccoon print by Eloise Narrigan</a></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-28.4.3-bafc822bf73cc1c4e1325f07d4abe8b3.jpg" width="2372" height="1859" class="img_ev3q"></p>
-<p>Reference: <a href="https://gamepackstudio.com/" target="_blank" rel="noopener noreferrer">Raccoon Twitch emojis. It says these are from Game Pack Studio, but the website doesn’t share this anywhere.</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---drawing-from-imagination">Day 5 - Drawing from imagination<a href="https://kymira.ca/blog/wap-28#day-5---drawing-from-imagination" class="hash-link" aria-label="Direct link to Day 5 - Drawing from imagination" title="Direct link to Day 5 - Drawing from imagination">​</a></h2>
-<p>I was afraid to do justice to cute raccoons on day 5. Still images of raccoons don’t really show the silliness and mischievousness. I wanted to try to capture that in chip raccoon. Sleeping raccoon was from a photo I remembered seeing and then the sitting guy was just me trying to get the shape right from memory.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-28.5-4cb47a1d5fa5ae569833bfd7ffe9c180.jpg" width="3000" height="1321" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="software-contemplations">Software contemplations<a href="https://kymira.ca/blog/wap-28#software-contemplations" class="hash-link" aria-label="Direct link to Software contemplations" title="Direct link to Software contemplations">​</a></h2>
-<p>There’s been a lot of new iPad apps dropping over the last year that I’m currently tempted by. I feel like 3 years ago when I was looking for 3D modelling things there were zero options. Then a few weeks ago I learned of <a href="https://nomadsculpt.com/" target="_blank" rel="noopener noreferrer">Nomad Sculpt</a> which people compare favourably to Blender (which is desktop only). And then very recently <a href="https://www.maxon.net/en/zbrush-for-ipad" target="_blank" rel="noopener noreferrer">ZBrush</a> also released an iPad version of their software. I’m not familiar enough with the existing software to draw my own conclusions and everything is still pretty recent so I haven’t found great comparison articles or videos yet.</p>
-<p>But I’d like to mess around with 3D models next year so I’ll keep trying to find a good option. Blender is free but being desktop only is a downside for me as my laptop is starting to show its age so the iPad is the more reliable hardware choice.</p>
-<p>I’ve also been eyeing <a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer">Aseprite</a> for pixel art, but again, it doesn’t have an iPad version. People recommend <a href="https://resprite.fengeon.com/" target="_blank" rel="noopener noreferrer">Resprite</a> for iPad, but the main thing people say Aseprite does better is video game assets and video game assets are my long term goals. So it feels like the wrong choice to go for the inferior choice when I know what I’m trying to do. There’s also just a very noticeable lack of Resprite tutorials out there, but there is a wealth of Aseprite tutorials.</p>
-<p>Just feeling stuck in choices right now and wishing there were more people writing and comparing these softwares. But all I can really get info from is Reddit posts :|</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-28#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>Running a bit behind on art due to having a very busy week last week. Gonna focus on some other art projects and blog posts and resume WAP exercises next week.</p>
-<p>Pinterest board <a href="https://ca.pinterest.com/maeanu3639/wap-raccoon/" target="_blank" rel="noopener noreferrer">of raccoons.</a></p>]]></content:encoded>
-            <category>art</category>
-            <category>wap</category>
         </item>
     </channel>
 </rss>
