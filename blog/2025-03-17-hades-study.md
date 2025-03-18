@@ -63,6 +63,16 @@ The wallet came out okay but my drop of focus on the shape made for some uneven 
 
 Dusa was more of a struggle, just being more complex than the previous two practice pieces. But I really wanted to draw the snakes so I stuck with this one even with her slightly off-tilt face.
 
+### Brush
+
+It was during these practices that I was able to figure out the right brush because the line work is another part of the distinguished style. It's main feature being a lack of tapering and consistent width.
+
+Thom, in his render breakdown video name dropped the brush he used but I don't have that one. I ended up using a Clip Studio default: The Milli pen.
+
+This marker has no tapering, a locked size, and no pressure sensitivity turned on. So to work with smaller or larger lines I would manually change the size. Keeping my range from 7-4. 7 being used only for the external lines and then going down a number for each time I felt like I was going more "interior" to the piece.
+
+![](/img/style-studies/milli-pen.png)
+
 ## Final piece
 
 I had already made up my mind to use Skril as my Hades adaptation character, I have a few outfits for her, so I wouldn't have to start from zero design wise.  What I did need was a pose. 
