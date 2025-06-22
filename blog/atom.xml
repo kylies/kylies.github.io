@@ -2,11 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2025-06-14T00:00:00.000Z</updated>
+    <updated>2025-06-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Paper Prototyping Fateweaver]]></title>
+        <id>https://kymira.ca/blog/paper-prototyping</id>
+        <link href="https://kymira.ca/blog/paper-prototyping"/>
+        <updated>2025-06-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our approach to paper prototyping our next game.]]></summary>
+        <content type="html"><![CDATA[<p>From game design classes to paper prototyping our new game. We’re moving fast over here.</p>
+<p>Paper prototyping is the idea of making a physical version of your game so that you can play it as quickly as possible. This doesn’t mean making nice art assets or finding the perfect meeple. It’s very much the idea of a minimal viable product that gets you playing faster.</p>
+<p>This doesn’t work for all video games of course. There isn’t much benefit for trying to paper prototype a platformer or a huge open world game. Unless you can boil down a part of those games into a form that can be simplified enough to play by hand.</p>
+<p>By having quick access to a playable version of your game idea you can start testing out your design. Do the rules make sense? Is it too easy? Can a player complete the game? Does it need more cards or less cards? If you can paper prototype it, you can test it, toss it, iterate on it, in less time than it would take to program your original idea. It’s this time save that makes paper prototyping so useful. Instead of spending a month developing a minimal digital version you can have something going in an hour. You can even have other people playing it before even opening a game engine. As a young studio with minimal runway, this felt like the obvious path forward for our new game.</p>
+<p>So we cut some sheets of papers into smaller rectangles, created a few cards, and started playing.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="round-one">Round one<a href="https://kymira.ca/blog/paper-prototyping#round-one" class="hash-link" aria-label="Direct link to Round one" title="Direct link to Round one">​</a></h2>
+<p>The first version of our cards were cut up lined loose leaf paper. We had our concept only in our heads, we hadn’t even tried to align on rules between each other yet. We sat down, created the most basic cards for getting the idea across and tested out what we imagined the flow to be.</p>
+<p><img decoding="async" loading="lazy" alt="A photo of our first version of the cards, penciled in rules on loose leaf paper." src="https://kymira.ca/assets/images/fateweaver-v1cards-7629a940843ca27109f55ca020d23a15.jpg" width="4032" height="2268" class="img_ev3q"></p>
+<p>Because we were moving so quickly we were making up cards on the fly, making edits by pulling the paper out of the sleeves and building out the basic concepts while also making our first round of assets.</p>
+<p>This felt very promising after just two hours of trialing ideas. We didn’t have to buy anything to even do it, but we left the exercise feeling the potential of the game.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cider-card-ide">CIDEr (Card IDE)<a href="https://kymira.ca/blog/paper-prototyping#cider-card-ide" class="hash-link" aria-label="Direct link to CIDEr (Card IDE)" title="Direct link to CIDEr (Card IDE)">​</a></h2>
+<p>Our hand cut and hand written cards didn’t last long. After dedicating some time to card ideas we wanted a better way to manage and track our unique decks. Turns out there are multiple tools for this as people love card games.</p>
+<p>We ended up going with <a href="https://oatear.github.io/cider/" target="_blank" rel="noopener noreferrer">CIDEr</a>.</p>
+<p>CIDEr lets you create both the text and visuals of the cards and provides a template for exporting them to PDF for printing. It uses HTML and CSS as a layout engine with real-time previewing, so it was quick and easy to get a basic design going for the various card types. We still needed to cut out each individual card from the printer paper but we no longer had to write out each card by hand. And now our card list and styles can live over on GitHub so it’s easier for the two of us to collaborate. GitHub also makes versioning a snap. All the cards end up in a .csv file which we hope to then feed into Godot directly to generate the cards in the engine when we’re ready. Overall, despite its low version number, it's an excellent piece of software I would recommend to anyone interested in designing a card game.</p>
+<p><img decoding="async" loading="lazy" alt="A screenshot of the csv file in our GitHub repo." src="https://kymira.ca/assets/images/cider-card-list-9a29694e58a5b027e6fc1745f170486b.png" width="2022" height="938" class="img_ev3q"></p>
+<p>We’re getting close to a very streamlined production flow but cutting by hand was starting to slow us down due to the increasing number of cards we were developing. It was time for a trip to an office supply store.</p>
+<p><img decoding="async" loading="lazy" alt="Photo of our newly printed CIDEr cards sleeved and ready to play." src="https://kymira.ca/assets/images/cider-cards-fefff4070d1ca5223e805a026fb8cd98.jpg" width="4032" height="2268" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resources--tools">Resources &amp; tools<a href="https://kymira.ca/blog/paper-prototyping#resources--tools" class="hash-link" aria-label="Direct link to Resources &amp; tools" title="Direct link to Resources &amp; tools">​</a></h2>
+<p>Now it was very tempting to pick up a <a href="https://www.staples.ca/products/434777-en-x-acto-12-heavy-duty-plastic-base-paper-trimmer?listId=collection" target="_blank" rel="noopener noreferrer">paper trimmer</a> to speed up cutting all the cards. You can cut through so many sheets of paper all at once. But we’re on a tight budget with limited apartment space, we weren’t going to find a permanent spot to house a full on guillotine.</p>
+<p>We settled on <a href="https://www.staples.ca/products/2070838-en-fiskars-9-surecut-paper-trimmer" target="_blank" rel="noopener noreferrer">this paper slicer</a>. 10 sheets at a time is still a huge improvement over 1 and it only cost us 20$.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/paper-slicer-edb5714adb930ceeb371d7cdaae1a7fc.jpg" width="1200" height="1200" class="img_ev3q"></p>
+<p>The paper cutter is the only money we’ve had to put into this project so far as our Magic the Gathering card collection has been a huge boon of resources.</p>
+<p>We knew we’d need land cards because our game revolves around traversing over a “landscape”. The basic land types from Magic were basically perfect right out the gate for this so we just sleeved some land cards, broke them into 4 decks, Spring, Summer, Fall, and Winter, and called it a day on land cards.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/season-decks-305e3ca606be6dc47f3a58cc937b6fec.jpg" width="4032" height="2268" class="img_ev3q"></p>
+<p>We did re-flavour and rename the base Magic lands. Partially because it would be obvious where the types originated but also because our land cards all have unique mechanics which felt like they could use more fitting names.</p>
+<ul>
+<li>Plains became Meadows</li>
+<li>Islands became Mists</li>
+<li>Forests became Mazes</li>
+<li>Mountain remain Mountains because it really fits our naming scheme</li>
+<li>Swamps became Mires</li>
+</ul>
+<p>The development of the season decks did add a decent amount of complexity to running each play test because it slowed down both clean up and setup. Once programmed, a computer will manage the odds and deal out the landscape, but us humans need to manage it right now. So to speed up testing we did move out to shuffling all the season decks together into one deck because we can deal them out quickly thanks to the sleeve colour. A small compromise on sticking true to the future format but it feels like the right call for the moment to keep things moving.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/merge-seasons-c2ed04c847a5ec9f85d847d0b3738247.jpg" width="2268" height="1405" class="img_ev3q"></p>
+<p>For our Fate Cards and Journey Cards (the cards the user plays) we sleeved a bunch of regular magic cards and then slid the printed versions of our cards over top so that when playing you still feel like you’re holding a nice solid playing card and not just printed loose paper.</p>
+<p>As the complexity of our decks grew we broke down our different deck types by colours. 1 colour for our Fate cards, 1 colour for our Journey cards, and 1 colour for each season of land cards. This makes it easier to clean up after each play session and quickly short the cards back into their appropriate deck.</p>
+<p>Some of our other Magic supplies have also come in handy so far too. When you buy certain release sets of magic cards you get to pop out little cardboard tabs that you put on top of your Magic cards during games to indicate things like status effects. We have a huge collection of these little things so we’ve been putting them to use to track our own game mechanics like the path our character has travelled and which pathways have Degraded. And thanks to some door tokens from the haunted house set from last year we have been able to use the doors to indicate Entrance and Exit of each level.</p>
+<p><img decoding="async" loading="lazy" alt="Some of the Magic the Gathering tokens we’ve been using and some dice." src="https://kymira.ca/assets/images/tokens-e4b175af79e2afb77e63e000a166046c.jpg" width="4032" height="1651" class="img_ev3q"></p>
+<p>The whole project has basically been finding alternate uses from our existing game collection. Didn’t have to buy anything new, just re-purposed a lot of objects from our games shelf.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="play-testing">Play testing<a href="https://kymira.ca/blog/paper-prototyping#play-testing" class="hash-link" aria-label="Direct link to Play testing" title="Direct link to Play testing">​</a></h2>
+<p>Thanks to the incremental approach we took starting with the most basic rules we had: lay down a path (cards) on the landscape to traverse the landscape, we have been able to play test since day 1 of our paper prototype. We were playing every day for a while as we were building out the Fate Cards and the mechanics for each land type. Almost a week in and we managed to rope 2 friends into trying it out as well.</p>
+<p>It was really validating to have new eyes on the game and seeing the rules start to click for people who aren’t us. Ideally we’d have someone new come by every week to get their feedback on the state of the game so far but it’s hard to lure friends into being testers.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/fateweaver2-d72922fc5f6d7340e154ad250c22e5a5.jpeg" width="4032" height="3024" class="img_ev3q"></p>
+<p>It is the one main downside to paper prototyping, we can only share the game in person. We do have the rules fully typed out and it would be easy to share a PDF of the cards for other people to print out and play but it’s a huge request to make when you’re still constantly shifting cards around and actively developing. So we’ll probably just keep forcing anyone who comes into our home to play a round or two until we have a digital prototype.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/paper-prototyping#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Being able to see your game idea come together and become playable so quickly with paper prototyping has been amazing. It makes sense why so many teachers/textbooks/experienced game devs tout it as being so important. Just having physical things to touch and engage with has also made iteration faster both through</p>
+<ol>
+<li>Being able to test out new ideas on the fly</li>
+<li>Being able to think about physical limitations or expansions</li>
+</ol>
+<p>It’s one thing to keep thinking about concepts and ideas in your head, but being able to move things around on a table really lets new neurons fire and make new connections in your brain much faster. This has been made extra clear from doing our game design homework where, during the exercises, they want you to spend time designing small games. We kept them all ideas/notes based and it took way more time than I thought it would to come up with ideas that felt good. Compared to our paper prototype where it feels like we come up with good, new ideas every time we play through it.</p>
+<p>We’re likely to keep paper prototyping for a little while longer as we still have some ideas we want to put to the test that feel central to the main progression of the game. Once the main flow and mechanics make sense to us we’ll probably spend some time considering, and testing, balance.</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="video games" term="video games"/>
+        <category label="studio wtchcrft" term="studio wtchcrft"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting into Game Design]]></title>
         <id>https://kymira.ca/blog/game-design-begins</id>
@@ -860,39 +925,5 @@ All my weekly themes in a list. This is mostly to create an easy way for me to f
             <uri>https://github.com/kylies</uri>
         </author>
         <category label="games" term="games"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Art Practice - Week 39]]></title>
-        <id>https://kymira.ca/blog/wap-39</id>
-        <link href="https://kymira.ca/blog/wap-39"/>
-        <updated>2024-12-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Week 39 - Revisits 1]]></summary>
-        <content type="html"><![CDATA[<p>For these last 2 WAP weeks, I decided to change it up. For each of the days I would revisit one of the themes I had done in the previous 38 WAPs. I didn’t want this to be extra extra hard mode or anything, I just wanted to see how much of what I took out of those weeks stuck around. So I let myself re-read the original blog post and scroll through the Pintrest page of images before I settled in to do some drawing.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---squirrels">Day 1 - Squirrels<a href="https://kymira.ca/blog/wap-39#day-1---squirrels" class="hash-link" aria-label="Direct link to Day 1 - Squirrels" title="Direct link to Day 1 - Squirrels">​</a></h2>
-<p>Still love squirrels, happy to revisit them. They were my <a href="https://www.kymira.ca/blog/wap-1" target="_blank" rel="noopener noreferrer">very first WAP</a>.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-39.1-c41b74dfca4d6130ea2f4ead0627e7bd.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p>Then compare the day 5 from squirrel week to this iteration 50 weeks later.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-39.1.2-013bfef92ddecb4898d9b9af4d1749fa.jpg" width="2500" height="908" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---pangolin">Day 2 - Pangolin<a href="https://kymira.ca/blog/wap-39#day-2---pangolin" class="hash-link" aria-label="Direct link to Day 2 - Pangolin" title="Direct link to Day 2 - Pangolin">​</a></h2>
-<p>Pangolins still very cute and still very tiresome to draw all the scales. Pangolins are from <a href="https://www.kymira.ca/blog/wap-2" target="_blank" rel="noopener noreferrer">week 2</a></p>
-<p><img decoding="async" loading="lazy" alt="Quick hand sketches using references" src="https://kymira.ca/assets/images/wap-39.2-631bcc9910ae7dd570dd17d2056fdf3b.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---pigeons">Day 3 - Pigeons<a href="https://kymira.ca/blog/wap-39#day-3---pigeons" class="hash-link" aria-label="Direct link to Day 3 - Pigeons" title="Direct link to Day 3 - Pigeons">​</a></h2>
-<p>Went a little more cartoony for pigeons. Did them back in <a href="https://www.kymira.ca/blog/wap-3" target="_blank" rel="noopener noreferrer">week 3</a></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-39.3-2a5e9dc30723260aee5de5383dbaf6d7.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---rabbits">Day 4 - Rabbits<a href="https://kymira.ca/blog/wap-39#day-4---rabbits" class="hash-link" aria-label="Direct link to Day 4 - Rabbits" title="Direct link to Day 4 - Rabbits">​</a></h2>
-<p>Hard to resist just drawing big circles of fur for rabbits still. Another early one from <a href="https://www.kymira.ca/blog/wap-7" target="_blank" rel="noopener noreferrer">week 7</a></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-39.4-537ec703c707d339d19ff0ae0b545c19.jpg" width="2500" height="1500" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---hawks">Day 5 - Hawks<a href="https://kymira.ca/blog/wap-39#day-5---hawks" class="hash-link" aria-label="Direct link to Day 5 - Hawks" title="Direct link to Day 5 - Hawks">​</a></h2>
-<p>Still can’t drawk hawks in a way I love but these did come out pretty quickly and I don’t hate them. First pass at hawks was in <a href="https://www.kymira.ca/blog/wap-14" target="_blank" rel="noopener noreferrer">week 14</a>.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-39.5-7318701c2a20f8052bf14b30db6b9176.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-39#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>I’m happy with this being how I’m wrapping up the year long WAP project. It was fun to revisit the work I had done earlier in the year, and feels a little unreal to compare those weeks to the work done now. Interesting to see how my sketching style has changed and just feeling like my lines have gotten more confident.</p>
-<p>I’ll be doing the same thing for next week, week 40, the final WAP. Besides that I’m putting together posts on my favourite books and video games of 2024 like I did last year. And then I’ll put together a big post as a bit of an art retrospective hopefully before the new year.</p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="wap" term="wap"/>
     </entry>
 </feed>
