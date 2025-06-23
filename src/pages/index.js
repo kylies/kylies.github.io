@@ -35,6 +35,7 @@ export default function Home() {
       description="an illusion or fabrication of the mind; especially : an unrealizable dream<head />">
       <Head>
         <script src="/js/webring.js"></script>
+        <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
       </Head>
       <HomepageHeader />
       <main>
