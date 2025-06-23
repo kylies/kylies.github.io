@@ -52,10 +52,6 @@ const config = {
     ],
   ],
 
-  plugins: [
-     ['docusaurus-plugin-simple-analytics', {}]
-  ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -69,13 +65,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {href: 'https://www.youtube.com/channel/UCuDQ7ixvCci_cvZ9f9jznVA', label: 'Altar Stone', position: 'left'},
           {to: '/about', label: 'About me', position: 'left'},
-          {to: '/littos', label: 'Love in the Time of Spellphage', position: 'left'},
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'D&D Campaigns',
-          }
+          {to: '/littos', label: 'Love in the Time of Spellphage', position: 'left'}
         ],
       },
       footer: {
@@ -87,10 +77,6 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'D&D Campaigns',
-                to: '/docs/intro',
               },
               {
                 label: 'About',

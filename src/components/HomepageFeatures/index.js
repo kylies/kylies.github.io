@@ -18,12 +18,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'D&D Campaigns',
+    title: 'studio wtchcrft',
     Svg: require('@site/static/img/squirrel1.svg').default,
     description: (
       <>
-        Resources for my players and some homebrew content from
-        on-going games.
+        My little <a href='https://www.wtchcrft.com'>indie game studio</a>.
       </>
     ),
   },
