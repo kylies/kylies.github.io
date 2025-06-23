@@ -52,6 +52,10 @@ const config = {
     ],
   ],
 
+  plugins: [
+     ['docusaurus-plugin-simple-analytics', {}]
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
