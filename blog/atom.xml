@@ -2,11 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2025-06-28T00:00:00.000Z</updated>
+    <updated>2025-07-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Early concept art exploration for Fateweaver]]></title>
+        <id>https://kymira.ca/blog/fateweaver-concept-art</id>
+        <link href="https://kymira.ca/blog/fateweaver-concept-art"/>
+        <updated>2025-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some of the art styles we’ve experimented with for our next game so far.]]></summary>
+        <content type="html"><![CDATA[<p>From marketing our existing games to more early concept work for our new game.</p>
+<p>Since our existing games were done for game jams they didn’t really have much of a development cycle, you kind of jump straight into production for game jams. I remember very clearly sitting down on January 1st and getting started on character sprites for Spellphage with very little preparation. I had made Pinterest boards for a few of them, maybe did a few messy sketchy Lauren attempts, but that was it.</p>
+<p><img decoding="async" loading="lazy" alt="Line up of Littos characters." src="https://kymira.ca/assets/images/swak-characters-lineup-c8f84028f9fdd8081271f85d04119aed.jpg" width="2800" height="1080" class="img_ev3q"></p>
+<p>For Fate Weaver we’re giving ourselves way more than a month. We still want to keep development tight but we are still aiming to have a playable demo out before the end of the year. This feels like a luxurious amount of time at the moment but I know it’s going to feel like nothing soon.</p>
+<p>This does mean that I still need to be smart about the art style we go with. For an MVP of a demo we’ll still need 20 Fate Cards, 5 Land cards, 10 items, and hopefully 2 characters. It’s still a decently large amount of assets so I want to choose a style that’s not too difficult to pull off consistently.</p>
+<p>So I’ve been experimenting.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="first-draft">First draft<a href="https://kymira.ca/blog/fateweaver-concept-art#first-draft" class="hash-link" aria-label="Direct link to First draft" title="Direct link to First draft">​</a></h2>
+<p>I did some early Pinteresting boarding to gather some classic tarot card designs and also some more modern takes from different artists. There are some really beautiful tarot re-makes out there, almost to the point of having too much reference material. So I tried to not browse for too long as it was starting to feel like an un-ending tunnel of great art.</p>
+<p>After collecting some inspiration I started to do some sketches and then some inks to try out some looks.</p>
+<p><img decoding="async" loading="lazy" alt="Paper versions of early Fate Cards." src="https://kymira.ca/assets/images/fatespinner-v1-460b7132819edcd88b1e7a2315adac76.jpg" width="2268" height="3070" class="img_ev3q"></p>
+<p>I ended up really liking it when there was a “frame” to the image, almost creating the look of a gate or a portal. We entertained the idea for a while because it also led to the possibility of the player going “into” the cards.</p>
+<p>These sat for a while as we continued to develop the cards. During that time my wife mentioned having the game be all pixel art so I wanted to give that a try. So I started exploring that. Also entertained the idea of doing 1 bit, just white and black. Then she suggested a woodcut/woodblock visual. So I added that to the list.</p>
+<p>I still wanted to try basic digital art with similar soft tones from traditional tarot card art. So I tried out all 4 ideas… twice…</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="digital-approaches">Digital approaches<a href="https://kymira.ca/blog/fateweaver-concept-art#digital-approaches" class="hash-link" aria-label="Direct link to Digital approaches" title="Direct link to Digital approaches">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Weeping woman test cards." src="https://kymira.ca/assets/images/style-test-seer-c88549c3d4ea8e556524c91987f29ab0.JPG" width="8024" height="2048" class="img_ev3q"></p>
+<p>Classic flat colours, black &amp; white, woodcut, and pixel.</p>
+<p>I got the idea for this image for the seer card weeks ago. Before we cut the card from the deck… but I still wanted to draw it and since it was for testing styles it doesn’t feel like a waste. I just really like the idea of tears streaming down into a puddle with eyes in the puddle.</p>
+<p>I did really like the pixel version of this one, but I did work way too small as the eyes are barely legible. I wanted to keep things small because after watching multiple videos on pixel art tips it kind of feels like “what? Are you some kind of chump that needs more than 32 by 32 pixels?”. The flats and black &amp; white feel too plain to me, like they would need a lot of detailing to look more professional. Woodcut started to pull ahead.</p>
+<p>So I did it again, this time for the card The Depths. A card which can stop you from leaving a Mist space.</p>
+<p><img decoding="async" loading="lazy" alt="The Depths test cards." src="https://kymira.ca/assets/images/style-test-depths-9970ef6d74910806aed641665cfa3452.JPG" width="8024" height="2887" class="img_ev3q"></p>
+<p>Once again the pixel version is just too small, way too difficult to depict something as detailed as multiple hands. I do like the colour one here, even if the colours are a little muddy in this test version. The woodcut does stand out again though, but I’m not sure how I would try to portray an underwater gradient without colour. So that would be a challenge if I want to try to go that detailed.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="making-a-card">Making a card<a href="https://kymira.ca/blog/fateweaver-concept-art#making-a-card" class="hash-link" aria-label="Direct link to Making a card" title="Direct link to Making a card">​</a></h2>
+<p>Woodcut style started to pull ahead. It was time to see how the style would look when trying to make a more polished version.</p>
+<p>Having done all the tests on my iPad I did swap over to CSP and my tablet as it makes things feel more serious. And I wanted to try out a few brushes I thought could make the woodcut style faster and more decorative. I chose a card with an idea design, The Tempest, and experimented a bit.</p>
+<video controls="" width="350"><source src="/tempest-wip-video.mp4"></video>
+<p>When I started working on things I was worried that my lines were way too big. Seeing it online after it became clear that these brushes were much too small and instead they just look kind of blurry so I think I’ll do another pass but with the brush size cranked up.</p>
+<p>Once I finished this Tempest attempt I wanted to see if I could animate a card in Godot because it would be really fun to do some drip marketing with animated card reveals. I hadn’t touched any of the 3D stuff in Godot before but I thought it’s gotta be easy to just spin a 3D object around an axis.</p>
+<p>I created a Node3D, gave it a Sprite, then gave it a second Sprite. One sprite for the front of the card and one for the back. This is probably, absolutely, not the best way to do this. I had to resize the back of the card because it was made weeks ago at a ratio I don’t remember. Then I created an animation to spin the parent node and recorded it with OBS.</p>
+<video controls="" width="650"><source src="/tempest-spin.mov"></video>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/fateweaver-concept-art#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>All art is still very experimental right now, nothing is in its final form. We’re still searching for the style that we think will fit the vibe and the story of the game best. Since we have the time it’s been nice to be able to not just have to take the first idea you have and run with it.</p>
+<p>Ideally we can have at least decently presentable, if not final, assets for our first playable. One of our previous collaborators as mentioned his interest to make another game with us so we may even be able to tackle this with 2 artists which would be a nice multiplier for a game 🤔</p>
+<p>I expect to make more art iteration posts before launch! But for the next few weeks I want to spend time learning and testing out 2D effects in Godot to see what kind of visuals we can add to cards. So another use for my early card prototypes.</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="video games" term="video games"/>
+        <category label="studio wtchcrft" term="studio wtchcrft"/>
+        <category label="art" term="art"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A beginners journey through indie marketing]]></title>
         <id>https://kymira.ca/blog/marketing-indies</id>
@@ -922,38 +969,5 @@ All my weekly themes in a list. This is mostly to create an easy way for me to f
             <uri>https://github.com/kylies</uri>
         </author>
         <category label="books" term="books"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Art Practice - Week 40]]></title>
-        <id>https://kymira.ca/blog/wap-40</id>
-        <link href="https://kymira.ca/blog/wap-40"/>
-        <updated>2024-12-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Week 40 - Revisits]]></summary>
-        <content type="html"><![CDATA[<p>WAP 40, the final WAP of 2024!</p>
-<p>This is another week of revisiting animal subjects of the last year. I even tried to embrace slightly more cartoony looks for them. Really kind of trying to put my brain on auto-pilot and seeing what comes out. I went and included side by sides for each day as I realized that seeing the comparison was really what I was doing these 2 weeks for.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---sea-turtles">Day 1 - Sea turtles<a href="https://kymira.ca/blog/wap-40#day-1---sea-turtles" class="hash-link" aria-label="Direct link to Day 1 - Sea turtles" title="Direct link to Day 1 - Sea turtles">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.1-c00802e98a5d212f91118f7089bab7d8.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.1.2-3157872e309a13de7b3c30e091122e91.jpg" width="3000" height="1200" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---chameleons">Day 2 - Chameleons<a href="https://kymira.ca/blog/wap-40#day-2---chameleons" class="hash-link" aria-label="Direct link to Day 2 - Chameleons" title="Direct link to Day 2 - Chameleons">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.2-4a8e4fa30c54e020be7b088501267a20.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.2.2-6cf42ce07b809b7f31a31f7b61a09d87.jpg" width="3000" height="1007" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---sparrows">Day 3 - Sparrows<a href="https://kymira.ca/blog/wap-40#day-3---sparrows" class="hash-link" aria-label="Direct link to Day 3 - Sparrows" title="Direct link to Day 3 - Sparrows">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.3-79af39d5c46ad17bff9d664d8e9b8d67.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.3.2-82f84aeae9f678838f02bf2f1117b925.jpg" width="3000" height="1104" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---raccoons">Day 4 - Raccoons<a href="https://kymira.ca/blog/wap-40#day-4---raccoons" class="hash-link" aria-label="Direct link to Day 4 - Raccoons" title="Direct link to Day 4 - Raccoons">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.4-ccf692dec234bb2897f2f59f5cc5fa6e.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.4.2-0f137ecfc082de5bc798e10b563e4122.jpg" width="3000" height="1100" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---bats">Day 5 - Bats<a href="https://kymira.ca/blog/wap-40#day-5---bats" class="hash-link" aria-label="Direct link to Day 5 - Bats" title="Direct link to Day 5 - Bats">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.5-43c2276e2bad41b11d9c50581328fe17.jpg" width="3000" height="2000" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/wap-40.5.2-daa051dbeefcff34e75a0d87cc81d828.jpg" width="3000" height="1105" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/wap-40#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>And that’s the end of the year of WAPs. I’m happy I did these last 2 weeks as revisits, it’s reassuring that some of the things I learned from those weeks seem to have stuck around. It’s been an interesting year and I’m pretty proud of sticking with it. Even ended up blogging every week’s efforts which I hadn’t planned on being able to do, it didn’t feel like something I could keep up with at the start of the year. Having spent the last 2 weeks re-reading those old posts I do regret not writing more during the exercises. It would have been nice to return to a list of key features to focus on for each creature.</p>
-<p>I’m putting together a summary post about my WAP year and art efforts for the year in general, which I hope to put up before returning to work.</p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="wap" term="wap"/>
     </entry>
 </feed>
