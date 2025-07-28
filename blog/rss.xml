@@ -4,10 +4,47 @@
         <title>Kymira Blog</title>
         <link>https://kymira.ca/blog</link>
         <description>Kymira Blog</description>
-        <lastBuildDate>Mon, 21 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Fateweaver Milestone - Fate Cards v1]]></title>
+            <link>https://kymira.ca/blog/fate-cards-v1</link>
+            <guid>https://kymira.ca/blog/fate-cards-v1</guid>
+            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A review of the first version of 20 Fate Cards]]></description>
+            <content:encoded><![CDATA[<p>We've been hard at work on the Fateweaver prototype as a funding opportunity looms ahead of us in August.</p>
+<p>Sophie's been implementing the ruleset we came up with months ago while adding animation and design in Godot. I've been creating the main art assets that we'll need to make the game playable but also have some of it's final style. I'm happy I spent so much time trying out different styles because it gave me time to really get better at the one we went with, woodcuts.</p>
+<p>With a few social plans cancelled for the weekend, I was able to get my last remaining cards done this weekend and declare version one of the Fate Cards ready to go.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fate-cards">Fate Cards<a href="https://kymira.ca/blog/fate-cards-v1#fate-cards" class="hash-link" aria-label="Direct link to Fate Cards" title="Direct link to Fate Cards">​</a></h2>
+<p>I did a first reveal of 3 cards <a href="https://bsky.app/profile/wtchcrft.com/post/3ltutqgii7225" target="_blank" rel="noopener noreferrer">15 days ago</a>. Looks like I averaged about 1 card a day with that timeline. Faster than I had planned! The first few cards were slow going but as I got used to the brushes I had to work with things started to go rather smoothly. Here's a big spread of all of them.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/fc-all-tall-8c65f7fdcabe1c47c900225364a87eea.jpg" width="3750" height="5000" class="img_ev3q"></p>
+<p>There's no name or text on the cards because we printing the text all in-engine.</p>
+<p>I'm fairly pleased with how most of these turned out. A few needed touch-ups once seen in the game and I think there are a few I might continue to tinker with when I get fed up with seeing things I want to change after many game playthroughs. The owl (Night) and squirrel (thief) are on watch for being too cute. While a few others already took multiple takes.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/fc-river-85f4e0f2d8eab068c0f8acc008ba1ed9.jpg" width="1500" height="2500" class="img_ev3q"></p>
+<p>This river card took much longer than I thought. It was one of my early exploration cards and I felt pretty confident about drawing a simple river. But the thing about woodcuts is that the style isn't often used to depict landscapes. So my original ideas for the composition really struggled due to having too much empty space. I still don't love it but I do love the fish.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/fc-scales-6c296d893ef5b95218fcdea77cf2bd83.jpg" width="1500" height="2500" class="img_ev3q"></p>
+<p>I re-did the snake here multiple times because I couldn't find a way to do scales that didn't look one, too busy, and two, too simple. I knew I didn't want to draw every individual scale but I still wanted to imply enough scales so that it wasn't just a worm.</p>
+<p>Sophie was building out the functionality of all the cards while I was drawing them so they've already nearly all been implemented in-game. Which brings us pretty close to being rules complete! Next up is 10 items that the player can acquire. Which will also be my next art tasks.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="first-character">First character<a href="https://kymira.ca/blog/fate-cards-v1#first-character" class="hash-link" aria-label="Direct link to First character" title="Direct link to First character">​</a></h2>
+<p>When it was too hot to sit at my art desk I did some dabbling and research into character design. We don't have all our characters plotted out yet but there are a few early ones figured out.</p>
+<p>While the cards took a decent amount of exploration and experimentation, I'm still more afraid of doing the full body characters. I'm still happy with the characters I did for Spellphage but I want this set of characters to be sharper and more designed than those. A full on level up.</p>
+<p>I have created more completed art this year than probably any other year before, but it's been for fairly specific things. Backgrounds, character sprites, small assets, all these cards. Very few pieces have been fully rendered characters.</p>
+<p>If we get the grant we're applying for there's a good chance we'd try to commission characters from another artists. It would free me up to learn more Godot and work on the supporting assets. But I would love to be able to pull it off, I just know that I should really take my time with each character. Ideally 1-2 weeks would probably be enough time to achieve something I'm happy with but with a minimal 8 characters = 8 * 2 = 16 weeks aka 4 months...</p>
+<p>4 months isn't the worst given our timeline. We haven't started writing the story or tying the characters into the world, that will take a few months right there. So if I start characters in August my calendar would be full till December. Could still aim for a February early access release...</p>
+<p>Suffice to say this and future blog posts will probably have spoilers in it. But since the story won't be out for months I'm pretty sure most people will forget some early spoilers.</p>
+<p>A lot to think about! What I really wanted to show was how even with all the drawing I've been doing I'm still producing some pretty ugly stuff between the good stuff.</p>
+<p>We're thinking about tying certain cards to certain characters (which will be easier now that the cards are done) which led me to an idea for the Warden card. I thought we could have a mysterious warden character who, upon a first meeting or two, is covering their eye. Either out of injury or exhaustion. And then would later reveal that under there hand is the stylized eye from the warden card.</p>
+<p>I tried to pull off a 3/4rds face with arm up a few times one evening. Everything was coming out bad. I kept trying and they even all came out looking the same? Close the iPad, went to bed. The next day I chopped up a few "close enough" references and took another shot at it. And instantly got something I was actually happy with.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/warden-evolution-b33eecc7bc046cfef751cd81bce890c5.jpg" width="3270" height="2506" class="img_ev3q"></p>
+<p>Sometimes it really is a matter of getting the bad attempts out to be warmed up enough to get the drawing you want.</p>
+<p>I don't know what rendering style we want to go with yet so I'm keeping this character in basic greyscale as a general placeholder for where characters can appear in game.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/fate-cards-v1#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Big strides with Fateweaver this week (the last 3 weeks really). I have some small bits of studio business to look after in the next few days and some family commitments so I think it will be a low art week coming up. August will be about characters, getting ready for <a href="https://www.qgcon.org/" target="_blank" rel="noopener noreferrer">QGCon</a>, and submitting a grant application. With a little cabin trip in the middle as a mini forced vacation so that my wife and I step away from our own to-do lists for a few days.</p>]]></content:encoded>
+            <category>studio wtchcrft</category>
+            <category>art</category>
+        </item>
         <item>
             <title><![CDATA[Additional Summer Learning]]></title>
             <link>https://kymira.ca/blog/summer-learning-2025</link>
@@ -900,40 +937,6 @@ From reading and watching other people break down the style it became clear that
 <p>The next big thing for the project is writing Day 2. We have some ideas on these scenes but it will likely be a fair bit of brainstorming still. For myself, I’ll likely be in background mode for the next week as we don’t even know all the scenes or locations we’ll need for Day 2 yet...</p>
 <p>We’re also hoping to get feedback during week 3 and incorporate anything actionable before the end of the month.</p>
 <p>It’s likely to be another focused week and I already feel myself longing to do art that doesn’t involve a perspective ruler. But feeling very accomplished in what we've been able to make so far!</p>]]></content:encoded>
-            <category>art</category>
-            <category>games</category>
-        </item>
-        <item>
-            <title><![CDATA[Devlog - SWAK Week 1]]></title>
-            <link>https://kymira.ca/blog/swak-1</link>
-            <guid>https://kymira.ca/blog/swak-1</guid>
-            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New year new projects, starting with the Sealed With a Kiss game jam. My wife and I started work on the project bright and early on January first. With just a few days of vacation left I wanted to get as many assets done as I could before returning to work on Monday. Which has led to creating more art in a few days than any period last year.]]></description>
-            <content:encoded><![CDATA[<p>New year new projects, starting with the <a href="https://itch.io/jam/swakjam-2025" target="_blank" rel="noopener noreferrer">Sealed With a Kiss game jam</a>. My wife and I started work on the project bright and early on January first. With just a few days of vacation left I wanted to get as many assets done as I could before returning to work on Monday. Which has led to creating more art in a few days than any period last year.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/asset_tracking-842fa416ab5722a9e8be004a7fc5696c.png" width="1230" height="406" class="img_ev3q"></p>
-<p>The speed won’t last though. I got through most of the character art but now I’m mostly left with backgrounds and I probably won’t be able to get through more than one of those every few days. So far 5-8 hours seems like the average time they requires. But we’ll see how the next week goes, for now, it’s recap time.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="asset-creation">Asset creation<a href="https://kymira.ca/blog/swak-1#asset-creation" class="hash-link" aria-label="Direct link to Asset creation" title="Direct link to Asset creation">​</a></h2>
-<p>We had the basics of our game flow and story figured out before we started so I was able to get a pretty solid list of “to-do” work ready before day one. Characters were the priority as they take more than just drawing time but also programming time. So if I could get the characters done quickly it would give my wife more time to work with them in Ren’py.</p>
-<p>I was able to get basic sketches down for each of the 4 main characters on day one which felt like an accomplishment and was already faster than I had planned for.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/character_sketches-07804267e8c9a5ff1c866a1f8d9a05d2.png" width="1607" height="691" class="img_ev3q"></p>
-<p>Aside from characters and backgrounds we also had some smaller assets that were needed. A wand for our energy mechanic, a large book for light novel scenes. It’s unlikely that we’ve reached the end of assets and new ones will continue to arise over the next few weeks. The asset tracker Total has already increased since I took that screenshot...</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="characters">Characters<a href="https://kymira.ca/blog/swak-1#characters" class="hash-link" aria-label="Direct link to Characters" title="Direct link to Characters">​</a></h2>
-<p>After the first sketches I let the characters sit for a day before returning to them. Art Director Wife wanted our main character to look a little more "student struggling" so I spent time revisiting her. Other characters had smaller fixes up I worked on during second passes. 7 days in and I think we have most of the final details for our cast.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/character_flats-bac79168f3041e09ce377b4460d33f31.png" width="1610" height="696" class="img_ev3q"></p>
-<p>Their designs are a mix of D&amp;D inspo meets Montreal in the 80s. I spent a fair bit of time scrolling through 80s fashion and trying to find a unique look for each of them. But then I remembered we set the story in December so everyone needs a jacket layer for being outside :| The scope just keeps growing.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="backgrounds">Backgrounds<a href="https://kymira.ca/blog/swak-1#backgrounds" class="hash-link" aria-label="Direct link to Backgrounds" title="Direct link to Backgrounds">​</a></h2>
-<p>I haven’t done too much work on backgrounds yet but I have made the promising discovery of the default Pointillism brush in CSP. We had envisioned a slightly more abstract or impressionistic backgrounds and I wasn’t sure how to approach this. I spent a decent amount of time just testing brushes to find something pleasing to work with and look at. It’s worked for the one background that has a lot of plants and snow, now I’ll just hope it can hold up in backgrounds that have more buildings.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ao_day-819a6c377ba9cf8382836a9c138b5c96.png" width="1281" height="722" class="img_ev3q"></p>
-<p>Indoor scenes will be another whole thing. I don’t think pointillism will work as well there so I expect a decent amount of trial and error. So far I only have this computer background which still needs a fair bit of work but I wanted to get it in early since it’s a big part of the game.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/computer_background-22481a10e68c6dfe174a7a26f3eade09.png" width="1924" height="1082" class="img_ev3q"></p>
-<p>An additional added goal to backgrounds is having a day and night version of each scene. Ren’py has some shaders which can be applied to backgrounds and images on top of backgrounds which give a lot of options. But for outdoor scenes I’m going to try to do 2 versions of each:</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ao_park_both-04ca40e0f3824ec7f9fdda1e074d619f.png" width="3840" height="1080" class="img_ev3q"></p>
-<p>Also, a huge shout out to the Clip Studio Asset store. Everyone sharing assets is saving me hours of work, just some great stuff in there.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-game-so-far">The game so far<a href="https://kymira.ca/blog/swak-1#the-game-so-far" class="hash-link" aria-label="Direct link to The game so far" title="Direct link to The game so far">​</a></h2>
-<p>While I’ve been fully focused on art assets my wife has been tackling everything else about the game. Launch screen, writing, sound effects, menus, energy mechanic, multiple text areas, music, assigning assets. Basically just everything.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/launch_screen-aa934a9db9f0cc4a691a37a942142e3a.png" width="2690" height="1496" class="img_ev3q"></p>
-<p>As of today, the 8th, we’re almost done with day 1 of gameplay/story. This means written scenes and mechanics. There are still some missing key backgrounds, like our main character's room. We have some placeholder graphics in there currently for those. Once we have day 1 story all in place we’ll start sharing the game with some folks and try to get some feedback in hopes of actioning it before we get too far into day 2!</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/day-1-activities-ca8d49e4832cc3c23f2be7ddfa3dfd37.png" width="2648" height="1490" class="img_ev3q"></p>]]></content:encoded>
             <category>art</category>
             <category>games</category>
         </item>
