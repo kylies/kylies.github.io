@@ -2,11 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2025-07-28T00:00:00.000Z</updated>
+    <updated>2025-08-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Game Design Troubleshooting - Tier Lists]]></title>
+        <id>https://kymira.ca/blog/rank-your-x</id>
+        <link href="https://kymira.ca/blog/rank-your-x"/>
+        <updated>2025-08-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An exercise to help balance your game and a Fateweaver update.]]></summary>
+        <content type="html"><![CDATA[<p>We've been making steady progress on Fateweaver these last few weeks. Hit a big milestone of implementing every single rule we had in paper into the digital version; Parity Milestone!</p>
+<p>With the rules and functionality in place we're now moving on to more graphics, sound design, and bug hunting. We have only 2 weeks until one of our grant application deadlines so it's all hands (4) on deck for this last push.</p>
+<p>But before getting into Fateweaver updates I wanted to share a game design exercise that helped us identify a problem with our core set up; Tier List your X.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tier-lists">Tier Lists<a href="https://kymira.ca/blog/rank-your-x#tier-lists" class="hash-link" aria-label="Direct link to Tier Lists" title="Direct link to Tier Lists">​</a></h2>
+<p>Tier lists are a common online ranking system that people use to show their ranking of anything from most powerful characters in a game to best ways to cook a potato. The format has been meme'd to infinity and is often used to get some laughs. But it turns out that what can be it's own fun game that can also help identify balance issues in your game.</p>
+<p>In this example people have ranked the items from Mario Kart 8:</p>
+<p><img decoding="async" loading="lazy" alt="An example of a tier list: items in Mario Kart 8." src="https://kymira.ca/assets/images/mario-tier-list-5240cbbb10504eb2243cd68ade9abe3b.png" width="1712" height="810" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="our-problem">Our problem<a href="https://kymira.ca/blog/rank-your-x#our-problem" class="hash-link" aria-label="Direct link to Our problem" title="Direct link to Our problem">​</a></h2>
+<p>Something we identified in our paper version of Fateweaver was that the game was too easy. We weren't exactly sure why but we were tracking our win/loss rate in our own games and losses were rare. While it's good for your game to be winnable, we did want our game to be a challenge. We worried that maybe the board (our randomly generated landscapes) were too small or too easy to deal with. That maybe certain cards (Journey cards) were too powerful to let players have at the start of the game. Or that our Fate Cards weren't mean enough.</p>
+<p>After multiple discussions on "how to make it harder?" we decided to turn it around and ask "why isn't it hard?". The Fate Cards were the obvious first culprit as they're designed to be the difficulty you're facing in each run. Their role is to make a run more challenging in different ways.</p>
+<p>In some of our tracking we had data on how often specific Fate Cards came up and how often someone won or lost against them. This data wasn't enough to give us our answer because there were just too few losses overall. Maybe if we had a digital version of our game that had in-depth tracking to say that most players lost when The Sacrifice card was drawn we'd have some quick answers. But we didn't and building a digital version to fix a paper version isn't an efficient way to approach game design. We couldn't lean on data, so we had to go with our judgement; it was time to be judge and jury to each Fate Card.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="our-solution">Our solution<a href="https://kymira.ca/blog/rank-your-x#our-solution" class="hash-link" aria-label="Direct link to Our solution" title="Direct link to Our solution">​</a></h2>
+<p>We piled up our Fate Cards and assigned categories for each ranking. Traditional format is to start with S Rank (The very best), then do down to A, B, C, D, etc. We weren't ranking based on which cards were the best though, we wanted to rank based on which cards were the worst to play against. So our ranking was:</p>
+<ul>
+<li>Very Bad</li>
+<li>Bad</li>
+<li>Fine</li>
+<li>Good actually</li>
+</ul>
+<p>We went through all 20 and ended up with this:
+<img decoding="async" loading="lazy" alt="Photo of our Fate Card rankings" src="https://kymira.ca/assets/images/fc-tiers-b692cf0e9b3802c61f9017f2e05f4645.jpg" width="2000" height="1500" class="img_ev3q"></p>
+<p>It became instantly clear that we had a heavy bottom. The cards that were supposed to set the difficulty of the game were actually boons that helped the player win.</p>
+<p>So... we cut them all.</p>
+<p>Of that bottom row of "Good actually" we either re-designed the Fate Card to be something more aggressive or we kept it's good quality and turned it into an Item Card instead. Letting the boons become a bonus the player can choose at the start of a run in hopes of getting an item that will help to deal with the Fate Cards they've been dealt.</p>
+<p>This ranking exercise took no more than 10 minutes. And it was fun. We did it together, arguing for a different ranking if we felt strongly but most of the time we were aligned on each cards judgement.</p>
+<p>Re-working the identified problem took more than 10 minutes but even just playing with fewer Fate Cards for a while (The ones deemed Bad Actually by our rankings) it became clear that by removing the bottom row of cards that we had a hard game again. We no longer had to guess at what the problem was, we could move on to solving the problem.</p>
+<p>It's a little funny to look back as so much has changed in the 2 months since I took that photo. I'd rank the card very differently now.</p>
+<p>I feel like this exercise can work for any feature of a game that has variations. Items, abilities, skills, powerups, cards. I think it will also be interesting to re-do the exercise at certain points, especially when introducing new fate cards.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="current-difficulty">Current difficulty<a href="https://kymira.ca/blog/rank-your-x#current-difficulty" class="hash-link" aria-label="Direct link to Current difficulty" title="Direct link to Current difficulty">​</a></h2>
+<p>The now digital version of Fateweaver is... hard. It's a combination of adding rogue-like elements (you need to get through 5 rounds with one deck of 40 cards which are "lost" when they are played) and that the computer is better at keeping track of the rules and triggers than our fallible human brains.</p>
+<p>Sophie has completed a 5 Thread run of Fateweaver once. I've crashed out on thread 5 a few times now. It takes smart playing and patience, and I'm not great at patience. And I also draw The Dead Man almost every opening hand which doesn't inspire me to have a great run.</p>
+<p>There are probably a few tweaks that will change how the difficulty feels. But this is likely to remain for the next few months as we start to share a demo around. It will be fun to see if any friends have the persistence to stick with it and get through 5 Threads.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fateweaver-progress">Fateweaver progress<a href="https://kymira.ca/blog/rank-your-x#fateweaver-progress" class="hash-link" aria-label="Direct link to Fateweaver progress" title="Direct link to Fateweaver progress">​</a></h2>
+<p>My largest recent contribution to Fateweaver was blueprint styles items cards (inspired by our love for Blue Prince) and a character sprite for the anima (the player figure).</p>
+<p><img decoding="async" loading="lazy" alt="Some item cards" src="https://kymira.ca/assets/images/fw-items-24041315b8f9e093ae141ab059776992.jpg" width="1152" height="577" class="img_ev3q"></p>
+<p>The anima is meant to be rather faceless, something a player can project their own meaning onto. Ideally the anima will change over the duration of the game to reflect the progress the player has made, but those are future goals. For now the big goal was to get the figure on the board with a few animations to keep things interesting while the player moves about the board.</p>
+<p><img decoding="async" loading="lazy" alt="Hooded anima" src="https://kymira.ca/assets/images/anima-frames-099ac873e5f0ddff5667df5b89d89ac5.png" width="1224" height="606" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/rank-your-x#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Today is the last day of Debut Festival, a Steam festival for studios who have put their first game on Steam. Love in the Time of Spellphage was accepted into this festival making it our first! This has led to our highest Wishlist jump since launching the steam page which is very exciting. Next blog post I'll go into more detail about it as we should see our final numbers tomorrow.</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="studio wtchcrft" term="studio wtchcrft"/>
+        <category label="fateweaver" term="fateweaver"/>
+        <category label="game design" term="game design"/>
+        <category label="video games" term="video games"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fateweaver Milestone - Fate Cards v1]]></title>
         <id>https://kymira.ca/blog/fate-cards-v1</id>
@@ -969,49 +1023,6 @@ From reading and watching other people break down the style it became clear that
 <p>I’m trying to wrap up the last art assets in the next 7 days so that we have a comfortable few days to implement everything and make sure it works before submitting the game to the jam. I’m feeling pretty confident about getting through the last needed art pieces but there’s still a lot of writing and other implementations to get done too.</p>
 <p>Something I’m noticing for myself is that by spending so much time in the Creative Zone I find myself coming up with new ideas constantly. Not just art ideas but my other hobbies too. I want to do some video editing and make a trailer for the game. I have an idea for a level 1 intro adventure in D&amp;D. I want to work on my volunteer projects. I want to do art for the D&amp;D campaign I’m already running. And I recognize this feeling from my years doing NaNoWriMo. Part of it is longing for the thrill of a new project after being so intensely focused on a single one. Part of it is just that creative activity feeds creative energy. I’d love to say that I hope to carry this energy into February but there’s a solid chance I’ll crash and not want to touch my tablet for a while. I’ve started to get some back pain over the last few days so I’d like to give myself some rest time. So resting is my main plan for February 2nd, that and getting back into physio exercises.</p>
 <p>You can still play Day 1 on our <a href="https://sophiefromhowls.itch.io/love-in-the-time-of-spellphage-01" target="_blank" rel="noopener noreferrer">Itch.io page</a> for another week or so. We did a minor update after its first release to add a few more art assets and cat content. The current game will get replaced when we release Day 2 next week!</p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="games" term="games"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devlog - SWAK Week 2]]></title>
-        <id>https://kymira.ca/blog/swak-2</id>
-        <link href="https://kymira.ca/blog/swak-2"/>
-        <updated>2025-01-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[14 days in, so it’s time for another progress report on Love in the Time of Spellphage.]]></summary>
-        <content type="html"><![CDATA[<p>14 days in, so it’s time for another progress report on Love in the Time of Spellphage.</p>
-<p>Not a huge change in the asset tracker as I wrapped up most of the small part and have spent the last 5 days in focused background mode.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/asset-tracking-week2-8ee3e007d5ece8383347068f29718aab.png" width="544" height="254" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="asset-creation">Asset creation<a href="https://kymira.ca/blog/swak-2#asset-creation" class="hash-link" aria-label="Direct link to Asset creation" title="Direct link to Asset creation">​</a></h2>
-<p>Between backgrounds I was able to wrap up jackets (multiple forms for each character) for the 3 characters who can be seen outside on the first day of the game. Also designed this logo for an in-world restaurant:</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/takeout-b8f96154c8d420e43885b0ac9bc6d3b6.png" width="254" height="300" class="img_ev3q"></p>
-<p>Drew a hand and a portal, multiple little cats. I really like doing these small one offs as I feel like I can experiment with them versus backgrounds which are way more demanding mentally. But since most of the small assets are done it’s been a pretty big week for background work.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="backgrounds">Backgrounds<a href="https://kymira.ca/blog/swak-2#backgrounds" class="hash-link" aria-label="Direct link to Backgrounds" title="Direct link to Backgrounds">​</a></h2>
-<p>I had a pretty terrible time with this street scene I worked on for 4 days.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/street-day-89b3797c1dff066b134bb3b77cadb007.png" width="1280" height="724" class="img_ev3q"></p>
-<p>I’m going to point out all the things wrong with it but I ask that you wipe the mistakes from your brain when you play the game.</p>
-<p>I started fairly confidently, really loved the back line of buildings and managed to keep it mostly flat rectangles. Then I moved on to the right side of the street. Activated the perspective ruler and started to draw some buildings. It was decided that the eye line was too high and I told myself I would push all the lines down with the Transform tool once I had them done. But then I came back the next day and pushed them down and altered the perspective ruler and then started the left side. I didn’t realize how much I had altered the ruler by the time I was done with the lines on the left side. I kept returning to the right side, trying to push it down more, trying to fix the roof which I drew in after the shift because the top of the buildings didn’t exist in the first pass.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/street-perspective-lines-6337c03fc1bebab9261cb3c312117082.png" width="1282" height="721" class="img_ev3q"></p>
-<p>Something I had gotten good at for the first few days was Deleting My Art. A very common and helpful art tip. Didn’t like how a character was looking? Delete it. All the lines look bad? Delete them. There is learning to be taken from sticking with something incorrect and figuring out how to fix it, but I was mostly in ideation and discovery mode, so each deletion led to something better.</p>
-<p>But as I feared with starting background, I fell into sunk cost fallacy and wasn’t willing to throw away 2 hours of work. The saving grace of the piece is that I am really happy with the left side buildings and the back row. It feels Montreal-esque without being too on the nose. And while I’m still struggling with colour selection in big pieces I don’t think there are too many mistakes.</p>
-<p>I brought my fear into the next background I started and spent a lot of time in layout and perspective mode.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/lauren-room-measurements-f236e24903a38dbad90ab576bc982370.png" width="1281" height="721" class="img_ev3q"></p>
-<p>I am very happy with how main character Lauren’s room turned out. It doesn’t feel great to instantly jump into working on another character's bedroom but I’m hoping I can take what I learned from Lauren’s room and move a little faster. Lauren’s room took about 10 hours… I ended up downloading a lot of 3D objects from the Clip Studio Asset store which let me feel like I was playing with toys as I chose where to place them and size them.</p>
-<p>I have 2-3 backgrounds to go, even if they all take 3 days each, which leaves me some wiggle room to revisit art pieces from earlier in the month and adding more details.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="version-01-launch">Version 0.1 launch<a href="https://kymira.ca/blog/swak-2#version-01-launch" class="hash-link" aria-label="Direct link to Version 0.1 launch" title="Direct link to Version 0.1 launch">​</a></h2>
-<p>While conceptualizing our game we designed it around 7 days that the player would play through. When making a branching game, a solid rule is to build your Golden Path first. This can be your “happy” ending path, or the path you think most players will enjoy or gravitate towards.</p>
-<p>Since our game is a romance sim it would mean choosing one of the love interests and completing their path before anyone else's. This proved difficult in a pretty big way in that one of the central parts of a romance sim is being able to choose who you romance. We worried that having one obviously foregrounded character would give the wrong vibe.</p>
-<p>I kept pushing for finding a Golden Path during the build up week before the game as I’m familiar with watching new game makers spiral out of scope and get lost in the weeds. We talked it over multiple times, thinking about how the game breaks up in other ways. Just a day or two before the jam started we had the realization that if we wanted something that felt like a full game, we could scope by days instead of paths. We scoped down pretty drastically, to the first 2 days of the story. The major downside being that this scoping didn’t help with scoping down of asset requirements as we would still need art for each character and location.</p>
-<p>And while this did mean rushing through as much art as possible in the first few days, I think this scope is what’s to credit for us being able to publish Day 1 as version 0.1 before the end of week two.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/littos-itch-3314046c65231a7437bbcbe7c4daffa5.png" width="2840" height="1404" class="img_ev3q"></p>
-<p>You can play Day 1 on our <a href="https://sophiefromhowls.itch.io/love-in-the-time-of-spellphage-01" target="_blank" rel="noopener noreferrer">Itch.io page</a> however I do recommend downloading a version instead of playing in the browser as you’ll have a better audio and performance experience that way. We’ve gotten some positive feedback from friends already and possibly some Beta Tester who are strangers to us and have fewer reasons to be nice to us <!-- -->:o</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="next-steps">Next steps<a href="https://kymira.ca/blog/swak-2#next-steps" class="hash-link" aria-label="Direct link to Next steps" title="Direct link to Next steps">​</a></h2>
-<p>The next big thing for the project is writing Day 2. We have some ideas on these scenes but it will likely be a fair bit of brainstorming still. For myself, I’ll likely be in background mode for the next week as we don’t even know all the scenes or locations we’ll need for Day 2 yet...</p>
-<p>We’re also hoping to get feedback during week 3 and incorporate anything actionable before the end of the month.</p>
-<p>It’s likely to be another focused week and I already feel myself longing to do art that doesn’t involve a perspective ruler. But feeling very accomplished in what we've been able to make so far!</p>]]></content>
         <author>
             <name>Kylie</name>
             <uri>https://github.com/kylies</uri>
