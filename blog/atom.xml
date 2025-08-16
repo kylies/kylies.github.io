@@ -2,11 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2025-08-11T00:00:00.000Z</updated>
+    <updated>2025-08-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Small game, big fest.]]></title>
+        <id>https://kymira.ca/blog/debut-fest</id>
+        <link href="https://kymira.ca/blog/debut-fest"/>
+        <updated>2025-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Results from our first Steam festival.]]></summary>
+        <content type="html"><![CDATA[<p>This blog post is a bit of a sequel to <a href="https://www.kymira.ca/blog/marketing-indies" target="_blank" rel="noopener noreferrer">A beginners journey through indie marketing</a>. In that post I talked about what I'd learned about how to market indie games as well as the small amount of marketing we did for our first two games.</p>
+<p>Today I'll share the exciting results of our first Steam Festival; <a href="https://store.steampowered.com/news/group/44730990/view/547864982714319445" target="_blank" rel="noopener noreferrer">Debut Fest</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="pre-festival">Pre-festival<a href="https://kymira.ca/blog/debut-fest#pre-festival" class="hash-link" aria-label="Direct link to Pre-festival" title="Direct link to Pre-festival">​</a></h2>
+<p>Debut Fest was another festival found through the How to Market A Game Discord community + spreadsheet. It was a festival aimed at studios who had or would be publishing their first game on Steam from 2024 to 2025 (or later). It was shared in the Discord on July 23rd with a submission deadline of of August 1st. It's a short window for submissions, only 9 days. It wouldn't have been a challenge except that they wanted a presskit as part of the submission.</p>
+<p>I had already put together a presskit for Precinct 27 a few months ago as a web dev exercise. So I at least had a template ready to go. So gathered up some art assets, updated our logo and got the presskit of Love in the Time of Spellphage ready.</p>
+<p>We submitted a request to join a few days before the deadline and waited.
+Rejection emails aren't common but acceptance ones are. The HTMAG Discord was pretty chatty from the end of July to the start of August with people asking if anyone had heard anything back or if anyone knew any more information about the festival itself. Debut Fest had never run before, this was the first time it was organized, so no one new what to expect in terms of featuring or coverage.</p>
+<p>A few days before the submissions closed someone said that they were accepted because the event had shown up on their Steam account (Steam provides a calendar view of upcoming and ongoing festivals you're a part of). No acceptance email but if you see an event show up in your calendar it means that you're game has been included. So I logged into Steam and saw the event was also listed in ours!</p>
+<p><img decoding="async" loading="lazy" alt="Steam screenshot showing Debut Fest in our calendar." src="https://kymira.ca/assets/images/debut-fest-event-ab88b0a3d2b12c9a72e2059cf7339e10.png" width="2004" height="464" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-festival">The festival<a href="https://kymira.ca/blog/debut-fest#the-festival" class="hash-link" aria-label="Direct link to The festival" title="Direct link to The festival">​</a></h2>
+<p>No more information was learned about Debut Fest until it started. I spent the day monitoring the Discord and refreshing our Steam store page. This was our first festival and I felt like I had to be doing /something/.</p>
+<p>The event went live at 2PM EDT.</p>
+<p>And it was here that we saw how many games had been accepted. Over 1000.</p>
+<p>Steam Festivals are one of the best ways to get discovered. They take your game from the pool of 132,358 (and more) games that are already on Steam and present them with a fraction of that amount. Making it so that a regular person browsing a festival is much more likely to actually see your game.
+But 1000 is still a lot of games to be just 1 of. People in the Discord were getting worried about this number, knowing that the odds weren't in anyone's favour.
+Another complication was that Debut Fest didn't have front page coverage (It wasn't promoted on the Steam landing page that everyone sees when they launch Steam).</p>
+<p>There were two other festivals going on at the same time, <a href="https://www.yogscast.games/tinyteams" target="_blank" rel="noopener noreferrer">Tiny Teams(7th-14th)</a> and Wholesome Games Celebration (7ths-14th), and Tiny Teams had front page coverage. Debut only ran from the 7th to the 11th. So there was a lot going on on Steam that weekend.</p>
+<p><img decoding="async" loading="lazy" alt="Calendar showing the events running at the same time." src="https://kymira.ca/assets/images/august-festivals-01139a07d59423e2394a1d866dbdc667.jpg" width="1980" height="822" class="img_ev3q"></p>
+<p>Due to all this chatter I kept my expectations low on wishlist numbers. I scrolled through the games on display on the Debut Fest sales page and never even managed to find Love in the Time of Spellphage. Making it seem unlikely that others would either.</p>
+<p>It turned out that Debut Fest wasn't going to be our only exposure that weekend.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="concurrent-events">Concurrent events<a href="https://kymira.ca/blog/debut-fest#concurrent-events" class="hash-link" aria-label="Direct link to Concurrent events" title="Direct link to Concurrent events">​</a></h2>
+<p>We were interviewed for the <a href="https://babyghosts.fund/" target="_blank" rel="noopener noreferrer">Baby Ghosts</a> newsletter introducing studios of Cohort 5 the same week as Debut Fest. Kind of magical timing to have two marketing beats happen at the same time!</p>
+<p>The newsletter interview: <a href="https://babyghosts.fund/news/meeting-cohort-5-wtchcrft" target="_blank" rel="noopener noreferrer">Love in the Time of Witchcraft - Meeting Cohort 5</a>.</p>
+<p>Baby Ghosts also shared the newsletter across socials and gave us a shout out on Instagram and <a href="https://www.tiktok.com/@weird__ghosts/video/7536267481632017669" target="_blank" rel="noopener noreferrer">TikTok</a>! This is a big deal because we don't even make our own short form videos because I resist using those apps as much as I can even though I know TikTok can actually be decent for promoting video games ;_;</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="festival-results">Festival results<a href="https://kymira.ca/blog/debut-fest#festival-results" class="hash-link" aria-label="Direct link to Festival results" title="Direct link to Festival results">​</a></h2>
+<p>Steam has a very helpful dropdown to show you some stats from specific sale pages. So I can see how many impressions we got from the page and what percentage of exposure for our game that was against other sources.</p>
+<p><img decoding="async" loading="lazy" alt="Screenshot of Steam store traffic." src="https://kymira.ca/assets/images/df-impressions-d0f7b076bb5c850976979c7f4e78de39.PNG" width="1752" height="178" class="img_ev3q"></p>
+<p>Unfortunately Steam doesn't tell you if a wishlist came from a specific page. You get your wishlists and you're happy about it. But given that we average 1 wishlist a day before Debut Fest it's pretty easy to assume that this increase is due to the festival exposure. 46% of our traffic was still direct navigation, some of which could be coming from the Baby Ghosts posts.</p>
+<p><img decoding="async" loading="lazy" alt="Screenshot wishlists." src="https://kymira.ca/assets/images/littos-wl-activity-461db0075a1b3b3e2f6ea8ead56c1e08.PNG" width="1728" height="784" class="img_ev3q"></p>
+<p>Overall, 25 wishlists in 4 days is a huge get for us. This boost was bigger than our launch and getting our friends to wishlist the game. Now we know that all these new wishlists are likely strangers who have never heard of us!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/debut-fest#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Between this being our first festival and Steam releasing hourly wishlists updates, it was an exciting few days of logging in and watching number go up.</p>
+<p>We don't have any other confirmed festivals coming up, mostly waiting on news from 4 other submissions. We really want to wait for at least 100 wishlists before releasing Spellphage (which is nothing in the grand Steam of things, but feels like a nice goal for a debut, niche game).</p>
+<p>Would love to share what the average has returned to post-festival but 4x Fest started which has possibly paused wishlists again? My chart seems stuck on August 12th...</p>
+<p>Fateweaver development is still in full swing and taking up most of our time. Big deadline at the end of August and September so we have a lot keeping us busy.</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="studio wtchcrft" term="studio wtchcrft"/>
+        <category label="littos" term="littos"/>
+        <category label="video games" term="video games"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Game Design Troubleshooting - Tier Lists]]></title>
         <id>https://kymira.ca/blog/rank-your-x</id>
@@ -720,7 +769,7 @@ From reading and watching other people break down the style it became clear that
 <p>Another issue, building on those curved lines was my lack of squares. A lot of Hades art has points and hard curves, also called 'Sharp Shape Language' in Thom's breakdown. If you look at characters fingers you'll see they have square tips. This was a bit because of the lines and a bit because I forgot. Line work is what I struggle with so it takes up a lot of my attention. So while I'm focused on just trying to get lines I like I forgot there were other rules to be following.</p>
 <p>For colours I feel like I maybe didn't use enough? The official art has an almost busy feeling to it when you look closely. There is a lot going on. While I left some rather large basic red zones in my pieces. I probably could have tried a few ways of making it more lively.</p>
 <p>Oh and I didn't draw legs. I thought the image would crop higher up for the fake screenshot so I hadn't bothered to give them lines and then by the end of it I didn't want to go back and add them back in lol.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="in-game-screenshot">“In-game” screenshot<a href="https://kymira.ca/blog/hades-study#in-game-screenshot" class="hash-link" aria-label="Direct link to “In-game” screenshot" title="Direct link to “In-game” screenshot">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="in-game-screenshot">“In-game” screenshot<a href="https://kymira.ca/blog/hades-study#in-game-screenshot" class="hash-link" aria-label="Direct link to “In-game” screenshot" title="Direct link to “In-game��” screenshot">​</a></h2>
 <p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/hades-box-final-c7f003753dafe07c9e5d979eaba42bd9.jpg" width="788" height="521" class="img_ev3q"></p>
 <p>Making fake Hades screenshots is a pretty popular artist project so finding all the pieces needed was very easy. But in case anyone ever comes looking here they are in one place.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="text-box">Text box<a href="https://kymira.ca/blog/hades-study#text-box" class="hash-link" aria-label="Direct link to Text box" title="Direct link to Text box">​</a></h3>
@@ -984,45 +1033,6 @@ From reading and watching other people break down the style it became clear that
 <p>It’s nearly time to package and upload the game to Itch! Some final fixes are going in and stress tested over the next 24 hours. Some issues are bound to have slipped through, it’s difficult to test every permutation of choices a player can make while going through the 2 days. So if you’re reading this and playing the game let us know if you see anything weird.</p>
 <p>For me, next week is February so I’m back to smaller, weekly projects for art practice. With my first one being a style study of Kyle Ferrin, the board game artist of <a href="https://ledergames.com/products/root-a-game-of-woodland-might-and-right" target="_blank" rel="noopener noreferrer">Root fame</a>. I also want to take some time next week and review all the assets I relied on for the game and share some of my favourites in their own blog post.</p>
 <p>For LitToS, we’re probably going to take some time away from it and start looking for ways to make it a more sustainable project while lightly polishing what we have so far.</p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="games" term="games"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devlog - SWAK Week 3]]></title>
-        <id>https://kymira.ca/blog/swak-3</id>
-        <link href="https://kymira.ca/blog/swak-3"/>
-        <updated>2025-01-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s time for the week 3 summary. That’s 21 days of working on our game non-stop. Neither of us has taken a full day off since we started, doing probably 7-10 hours of work a day each (well, a little less for me on the days I go to my paying job). We’re still progressing at a nice pace but with more than half the month gone the to-do list feels a little scarier with each passing day.]]></summary>
-        <content type="html"><![CDATA[<p>It’s time for the week 3 summary. That’s 21 days of working on our game non-stop. Neither of us has taken a full day off since we started, doing probably 7-10 hours of work a day each (well, a little less for me on the days I go to my paying job). We’re still progressing at a nice pace but with more than half the month gone the to-do list feels a little scarier with each passing day.</p>
-<p>The assets list increases a little every week. Last week there were 77 needed assets, this week ending at 82. Some of those are ‘nice-to-haves’ which I’m going to start tracking as stretch goals so they don’t contribute to the overall number necessary for launch.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/week3-assets-d1d625c1169c65f2f8d83ab25bb71c0f.png" width="766" height="272" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="backgrounds">Backgrounds<a href="https://kymira.ca/blog/swak-3#backgrounds" class="hash-link" aria-label="Direct link to Backgrounds" title="Direct link to Backgrounds">​</a></h2>
-<p>I was able to finish 2 huge bedrooms in the last 10 days. They were so intense for me that I felt so much relief when I opened a new canvas and could just bask in the emptiness of it. Managed a smaller, more abstract background for Day 2 in just a day, which felt nice and productive. After that I started to work on “end scenes” for the game. Visual novels often end on a unique art scene so we wanted some of those. Like the “reward” for finishing the game.</p>
-<p>I was able to finish up one of the ending images pretty quickly and it’s one of the cutest things I’ve ever drawn. I want to post it online real bad but it’s basically a spoiler that I want people to first see in game. So in game it will stay for a few months.</p>
-<p>This background doesn’t have any spoilers so check out this good wall. The door even opens! I was able to get this done pretty quickly as well thanks to some wood panelling assets and a wallpaper material from the Clip Store. It’s simple but I feel like it really sells the scene in engine.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/apt-hallway-60dd18c47ae85da352c215b090616311.png" width="1920" height="1080" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="assets">Assets<a href="https://kymira.ca/blog/swak-3#assets" class="hash-link" aria-label="Direct link to Assets" title="Direct link to Assets">​</a></h2>
-<p>Since I spent so much time populating a nerd room I ended up drawing a lot of Stuff to fill the room. Tried to give it a fair bit of character. This is my collection of Little Guys for Cass’s room.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/little-guys-swak-e1e808f2a5bf1399fcd960304a3e5180.jpg" width="573" height="410" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="making-a-montreal-like">Making a Montreal-like<a href="https://kymira.ca/blog/swak-3#making-a-montreal-like" class="hash-link" aria-label="Direct link to Making a Montreal-like" title="Direct link to Making a Montreal-like">​</a></h2>
-<p>The city in our game isn’t Montreal, but it’s got parts of Montreal with twists. It made sense to us to set the game in a city like Montreal since it’s where we live and we knew we could look around and find references easily. There are some clear Montreal landmarks that I used as reference for a few backgrounds so far.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/parc_vs_park-207490cd3ff50ae2b011d03bf4e350b9.jpg" width="3100" height="1080" class="img_ev3q"></p>
-<p>This photo is my main inspiration for the park background. The statue changed into the amethyst obelisk and the cross on the mountain replaced by our magical school.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/outside-apartments-5a7e39ec887d61db18a27467d767b3a9.png" width="2648" height="1494" class="img_ev3q"></p>
-<p>The apartment front is based off of an apartment building where a friend lives.</p>
-<p>The school in the game is called Crowstone and I used <a href="https://en.wikipedia.org/wiki/Ravenscrag,_Montreal" target="_blank" rel="noopener noreferrer">Montreal’s Ravenscrag manor</a> as inspiration. This manor turned psychiatric hospital (with an honestly very dark history that the Wiki page weirdly doesn’t mention) is a building near Mont Royal park but in the game I put it right on top of the hill to loom over the city. Making it visible in a few different backgrounds.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ravenscrag-45977179a8df9a6a46f4e9f4fd2c843a.png" width="1454" height="832" class="img_ev3q"></p>
-<p>The street scene is also very Montreal, I would have loved to include the classic spiral staircases but I would have hated doing those in perspective. Also debated having a French stop sign but we decided against it since we don’t have any French in the game. And it is meant to be more of a fantasy world than the real world.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/street-day-89b3797c1dff066b134bb3b77cadb007.png" width="1280" height="724" class="img_ev3q"></p>
-<p>There are a few other iconic Montreal features like churches everywhere, constant construction, random art installation, and great parks that I’d like to include in future backgrounds. Given the strong D&amp;D influence in our game world, churches would probably become temples to different gods, construction might be magic that works on its own. But each background takes me at least 2-4 days so we’ve really tried to limit our location in this first part of the game so these things won’t come up in the next version. But I’ll definitely be using more image inspiration like with the statue and hill photo reference because I’ve really enjoyed incorporating my everyday world into a fantasy story world.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="next-steps">Next steps<a href="https://kymira.ca/blog/swak-3#next-steps" class="hash-link" aria-label="Direct link to Next steps" title="Direct link to Next steps">​</a></h2>
-<p>I’m trying to wrap up the last art assets in the next 7 days so that we have a comfortable few days to implement everything and make sure it works before submitting the game to the jam. I’m feeling pretty confident about getting through the last needed art pieces but there’s still a lot of writing and other implementations to get done too.</p>
-<p>Something I’m noticing for myself is that by spending so much time in the Creative Zone I find myself coming up with new ideas constantly. Not just art ideas but my other hobbies too. I want to do some video editing and make a trailer for the game. I have an idea for a level 1 intro adventure in D&amp;D. I want to work on my volunteer projects. I want to do art for the D&amp;D campaign I’m already running. And I recognize this feeling from my years doing NaNoWriMo. Part of it is longing for the thrill of a new project after being so intensely focused on a single one. Part of it is just that creative activity feeds creative energy. I’d love to say that I hope to carry this energy into February but there’s a solid chance I’ll crash and not want to touch my tablet for a while. I’ve started to get some back pain over the last few days so I’d like to give myself some rest time. So resting is my main plan for February 2nd, that and getting back into physio exercises.</p>
-<p>You can still play Day 1 on our <a href="https://sophiefromhowls.itch.io/love-in-the-time-of-spellphage-01" target="_blank" rel="noopener noreferrer">Itch.io page</a> for another week or so. We did a minor update after its first release to add a few more art assets and cat content. The current game will get replaced when we release Day 2 next week!</p>]]></content>
         <author>
             <name>Kylie</name>
             <uri>https://github.com/kylies</uri>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkymira=self.webpackChunkkymira||[]).push([[9669],{98341:t=>{t.exports=JSON.parse('{"tag":{"label":"littos","permalink":"/blog/tags/littos","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/littos","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
