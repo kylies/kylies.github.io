@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2025-08-16T00:00:00.000Z</updated>
+    <updated>2025-09-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Living our (studio) values - part 2]]></title>
+        <id>https://kymira.ca/blog/sustainability</id>
+        <link href="https://kymira.ca/blog/sustainability"/>
+        <updated>2025-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What sustainability means and looks like to studio wtchcrft.]]></summary>
+        <content type="html"><![CDATA[<p>A few weeks ago I posted about the <a href="https://www.kymira.ca/blog/studio-values" target="_blank" rel="noopener noreferrer">values we want to live and work by</a> for our studio. That first post focused a lot on Awareness: knowing who we are in the world and the effects of our actions and choices.</p>
+<p>We've already made some more strides in our goal of using less big American tech by switching from GitHub to <a href="https://forgejo.org/" target="_blank" rel="noopener noreferrer">Forgejo</a>!</p>
+<p>But today I wanted to talk about our core value: sustainability.</p>
+<p><img decoding="async" loading="lazy" alt="An image of an oak tree with a root system below. There are circles all over the image which contain value keywords." src="https://kymira.ca/assets/images/values-tree-1daa589acf6c297139e4f3bd910cdb3a.png" width="952" height="998" class="img_ev3q"></p>
+<p>Sustainability was one of the values that came easiest to us. Both because we knew that if we pursue a studio we'd want it to eventually be able to sustain itself on its profits. And also that we've both burnt out on corporate jobs before and don't want to go down that path again. So the short form of sustainability for us is to do work that sustains a studio and also our wellbeing.</p>
+<p>For myself, I wouldn't have been able to keep a traditional 9-5 in-office job this year if I didn't have the freedom to work from home. I spent 3 months being barely able to leave the house due to a long term impacts of a viral infection (so one doctor says). I'm now dealing with escalating chronic pain that makes it so I can only sometimes leave the house once again. I can't sit at a desk too long, I can't walk far. Sometimes I need to take a bath in the middle of the day as it's my only form of pain relief. Having the freedom to control my time and where I work from is the only way I can sustain work. But with the way tech jobs are going, there's always a chance that someone can decide that work from home is over and demand I return to the office. My sustainability would be gone.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="know-your-limits">Know your limits<a href="https://kymira.ca/blog/sustainability#know-your-limits" class="hash-link" aria-label="Direct link to Know your limits" title="Direct link to Know your limits">​</a></h2>
+<p>How many hours can we work a week? Compared to how many hours are needed to keep the project moving? I can only answer those questions by knowing my own limits. Or even better knowing that sweet spot of what feels good to work instead of always coming up against my limits.</p>
+<p>What is the most comfortable way to work? For me it's at home, even better if I can work from the couch. So on my good days I'll do art at my art desk and on pain days I'll work on more admin or research tasks from the couch. If I had to work at art desk every day for 8 hours I probably couldn't do it.</p>
+<p>Not a lot of jobs give people that freedom.</p>
+<p>These decisions and working conditions are easiest to put in action if you know your limits, but it's even more important to communicate your limits. As a couple working together we know our limits very well, but it still feels bad to say "I won't be able to complete this asset today because I can't sit here anymore.". But there's safety in a strong relationship, in shaping your own day, thanks to existing trust.</p>
+<p>Planning a long term project with multiple people means putting a lot of trust into "Yes I can do that" and it's easier to say "Yes I can do that" when you're able to work in the ways that work best for you.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="scope-to-skill">Scope to skill<a href="https://kymira.ca/blog/sustainability#scope-to-skill" class="hash-link" aria-label="Direct link to Scope to skill" title="Direct link to Scope to skill">​</a></h2>
+<p>While physical capabilities are a big part of sustainability for health and wellbeing, scoping is a way to keep production healthy.</p>
+<p>A classic trope of new game developers is to bite off more than they can chew. To underestimate how long things will take. Before you know it 3 years have passed and you haven't shared your game with anyone. I feel like this is due to a variety of factors from things like learning as you go, scope creep coming in, getting lost in the details, and really not understanding how difficult making games is.</p>
+<p>We're still a young studio, we're learning as we go. We're in the perfect position to take on more than we can handle. But we're building games around our known abilities.</p>
+<p>We're staying in 2D because we don't have any experience making 3D assets. We don't have anything going on in real time interactions. We don't have any huge, majestic backgrounds or visual set pieces. So while we're stretching ourselves in the act of making a game, we aren't pushing our other skills much beyond our usual abilities because we don't want to push all fronts at once. We want to work on something we know we can achieve and at a speed that we know we can achieve it in.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-sustainability-looks-like">What sustainability looks like<a href="https://kymira.ca/blog/sustainability#what-sustainability-looks-like" class="hash-link" aria-label="Direct link to What sustainability looks like" title="Direct link to What sustainability looks like">​</a></h2>
+<p>After the last few years of large layoffs and ballooning Triple A budgets, more and more people are asking "is the game industry sustainable?". Both from a money and a people perspective. Smaller studios are talking more about the hard choices they're making so that they can keep making games while trying to avoid the pitfalls that the industry is dealing with.</p>
+<p>I really like to listen to Xalavier Nelson Jr. talk about this for his company, Strange Scaffold. How they make games quickly, not by crunching but by giving themselves hard targets. Turn a game idea around quickly to get it out fast and then you can move on to the next thing. The studio has published 15 games in the last 5 years and they've done it because they always scoped their project based on what they had access to at the moment. They're now moving into working around "artificial constraints". He gives the example of Clickholding where the approach was "how small of a budget can I pull this game off with?". They set the guide-rails and they stick to them.</p>
+<p>Xalavier's interview with Thomas Brush touches on a lot of good topics and I just really like the mindset he brings to making games.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7hqXaFx5yo?si=SZK1Ekpi-DARRpvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>Failbetter Games is another example of a studio who I feel like has managed to weather a chaotic industry by scoping for sustainability. They've kept their team size small, focusing on treating the people they have well and trying to provide stable employment instead of gambling on big ideas and growing beyond what they could sustain.</p>
+<p><img decoding="async" loading="lazy" alt="A slide from the talk Intensely Practical Tips for Growing an Indie Studio" src="https://kymira.ca/assets/images/growth-slide-815b362bb2fb7b8a447fb5e38693eadc.PNG" width="2804" height="1558" class="img_ev3q"></p>
+<p>Alexis Kennedy, the founder of Failbetter, gave a GDC talk on what he's learned from Failbetter and also leaving Failbetter to start another studio. With a focus on what growth looks like if you're growing to be stable and sustainable.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MDYh2mnDCIM?si=NxN9tLPQxOBBPaj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>The wild thing about this talk is that it happened 7 years ago and it still feels like most studios aren't approaching work in this way.</p>
+<p>Another bit of a trend in the indie scene that points towards more sustainable approaches is this idea of 'middle games'. I'm not sure if Chris Z coined this term but I feel like it's gained a lot of visibility after his blog post about it <a href="https://howtomarketagame.com/2025/07/08/merchant-64/" target="_blank" rel="noopener noreferrer">Merchant 64: The importance of rapid release and sharing your work</a>.</p>
+<blockquote>
+<p>"Middle games are the opposite of your dream game, they are games that you make quickly but not poorly. The point of a middle game is not to become a millionaire&nbsp;but to get something public. They are more polished and complex than a game jam game, but much less than a 1-2 year big project.&nbsp;"</p>
+</blockquote>
+<p>I'm really attracted to the ideas of not spending too long on games and also staying as small as you can to accomplish what you're aiming for. Don't hire for the sake of hiring, to make your studio look more successful by just getting bigger. We're still learning a lot in our day to day. If we were to work on one game for 3 years the things we did in year 1 would be so outdated we'd probably have to re-do it to match the quality that we'd be able to pull off after 3 years. It's not a good use of time. Let's take what we learn from making a game from start to finish and then take that knowledge and improve the next one. In a way, being sustainable also means being efficient.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/sustainability#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>A lot of the ideas around sustainability sound very practical. And I believe they are. But that doesn't make them universal or even common. This industry chases big bets, big gambles, big risks. We don't want to do that. Xalavier had a great quote from the talk I linked higher up:</p>
+<blockquote>
+<p>"I'm recommending high practicality to approach a world of nonsense."</p>
+</blockquote>
+<p>The video game industry is a world of nonsense. But you can protect yourself by being practical with your choices, knowing when to say no, knowing when to move on from a project, and knowing your limits.</p>
+<p>It's great to have a studio value of "no crunch" but this is an industry that lives on crunch. Best intentions and all that. Instead I'm trying to approach game development with the idea that crunch is always going to be coming for you. A new deadline or opportunity will pop up. So you can scope with that in mind, deprioritize what you'd be willing to cut if you had to make the choice between crunching or missing a release date. Know your limits and know what it is you want so you can understanding if there is ever a time when you would be willing to crunch. And then avoid all others.</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="studio wtchcrft" term="studio wtchcrft"/>
+        <category label="video games" term="video games"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Small game, big fest.]]></title>
         <id>https://kymira.ca/blog/debut-fest</id>
@@ -769,7 +821,7 @@ From reading and watching other people break down the style it became clear that
 <p>Another issue, building on those curved lines was my lack of squares. A lot of Hades art has points and hard curves, also called 'Sharp Shape Language' in Thom's breakdown. If you look at characters fingers you'll see they have square tips. This was a bit because of the lines and a bit because I forgot. Line work is what I struggle with so it takes up a lot of my attention. So while I'm focused on just trying to get lines I like I forgot there were other rules to be following.</p>
 <p>For colours I feel like I maybe didn't use enough? The official art has an almost busy feeling to it when you look closely. There is a lot going on. While I left some rather large basic red zones in my pieces. I probably could have tried a few ways of making it more lively.</p>
 <p>Oh and I didn't draw legs. I thought the image would crop higher up for the fake screenshot so I hadn't bothered to give them lines and then by the end of it I didn't want to go back and add them back in lol.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="in-game-screenshot">“In-game” screenshot<a href="https://kymira.ca/blog/hades-study#in-game-screenshot" class="hash-link" aria-label="Direct link to “In-game” screenshot" title="Direct link to “In-game��” screenshot">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="in-game-screenshot">“In-game” screenshot<a href="https://kymira.ca/blog/hades-study#in-game-screenshot" class="hash-link" aria-label="Direct link to “In-game” screenshot" title="Direct link to “In-game” screenshot">​</a></h2>
 <p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/hades-box-final-c7f003753dafe07c9e5d979eaba42bd9.jpg" width="788" height="521" class="img_ev3q"></p>
 <p>Making fake Hades screenshots is a pretty popular artist project so finding all the pieces needed was very easy. But in case anyone ever comes looking here they are in one place.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="text-box">Text box<a href="https://kymira.ca/blog/hades-study#text-box" class="hash-link" aria-label="Direct link to Text box" title="Direct link to Text box">​</a></h3>
@@ -1006,38 +1058,5 @@ From reading and watching other people break down the style it became clear that
         </author>
         <category label="art" term="art"/>
         <category label="style study" term="style study"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devlog - SWAK Week 4]]></title>
-        <id>https://kymira.ca/blog/swak-4</id>
-        <link href="https://kymira.ca/blog/swak-4"/>
-        <updated>2025-01-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Going into the final week, I’ve done my (very likely) final pull request for art assets. Have done a few playthroughs of the game, hunting down any bugs. Between how hard we worked early in the month and our success at avoiding too much scope creep, we’re hoping to submit the game in the next day or two with a day to spare before the deadline.]]></summary>
-        <content type="html"><![CDATA[<p>Going into the final week, I’ve done my (very likely) final pull request for art assets. Have done a few playthroughs of the game, hunting down any bugs. Between how hard we worked early in the month and our success at avoiding too much scope creep, we’re hoping to submit the game in the next day or two with a day to spare before the deadline.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/week4-assets-a44526177e7b82fe90c539eedb7c2b4f.png" width="690" height="306" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="backgrounds">Backgrounds<a href="https://kymira.ca/blog/swak-4#backgrounds" class="hash-link" aria-label="Direct link to Backgrounds" title="Direct link to Backgrounds">​</a></h2>
-<p>I had pretty confidently thought I was done with backgrounds last week but while we were brainstorming final scenes it was clear having one more would help. This ended up launching a quick Clip Asset Store search, buying the CPS version update (I’ve been on v2.0 for years…) and hoping that nothing would break in the update.</p>
-<p>It thankfully all went very smoothly and I got new Clip features to use out of it! And I drew I kitchen x_x Which I won’t share yet as it’s only for those who choose a specific ending.</p>
-<p>It feels like we actually ended up with a lot of backgrounds for a game designed around lockdown. Helps that most of the characters live in the same building so I could keep the interior scenes consistent and reuse bits and pieces. As shown in this angled hallway shot that ties in with last week’s doorway shot. Didn’t think I’d be re-creating the wallpaper again and definitely had to re-learn the sequence of effects on it…</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/apt_hallway-c18f38b48950bfc7225dbdeb22732071.png" width="1920" height="1280" class="img_ev3q"></p>
-<p>But it also just became difficult to have emotional character scenes without giving the characters somewhere to go. And new backgrounds feel like game progression in this kind of game. Getting to see someone else’s apartment is both game progress and character relationship progress.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="assets">Assets<a href="https://kymira.ca/blog/swak-4#assets" class="hash-link" aria-label="Direct link to Assets" title="Direct link to Assets">​</a></h2>
-<p>Something I did in the last few days was do a shading pass on our 4 characters. I wasn’t sure I was going to have time when we started but I’m super happy it’s something I did in the end as it makes them fit into the scenes much better. The backgrounds all have shading so they look like part of the world by having their own shading.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/lauren-with-shading-12fcd9d61758433c7d6e3308a6616378.jpg" width="2035" height="798" class="img_ev3q"></p>
-<p>I also darkened Lauren’s skin tone to differentiate her more from Kim and show her wood nymph heritage.</p>
-<p>Shading all the characters took about 2 days as I had to do each base differently and then jackets on top of bases.</p>
-<p>I made an asset spread of all the Lauren pieces to show how few assets it takes to make what I feel like is a pretty expressive character.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/lauren-spread-4bf5cb11875f10c52cb67493953aa1d2.jpg" width="1500" height="1500" class="img_ev3q"></p>
-<p>When I was first brainstorming how to do the characters I had mentally mapped it as “draw a happy face” “draw a sad face” thinking that each expression would require a face. But after some VN research it was decided that the more efficient but more programmatically demanding way to do expressions was by working with multiple assets at once. So instead of a fully drawn happy face asset, a happy face was made out of: a smile + neutral eyes. While an angry face would be made out of: a frown + squinting eyes + angled brows. And then an embarrassed face could be: a frown + blush. Basically letting us remix different eye + mouth assets to create a lot more expressions than having to draw an individual face for each expression. I feel like this really worked out for us as whenever I play the game I’m tickled by how much the characters move from sentence to sentence (which is largely to do with my wife’s programming timing of them all).</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="next-steps">Next steps<a href="https://kymira.ca/blog/swak-4#next-steps" class="hash-link" aria-label="Direct link to Next steps" title="Direct link to Next steps">​</a></h2>
-<p>It’s nearly time to package and upload the game to Itch! Some final fixes are going in and stress tested over the next 24 hours. Some issues are bound to have slipped through, it’s difficult to test every permutation of choices a player can make while going through the 2 days. So if you’re reading this and playing the game let us know if you see anything weird.</p>
-<p>For me, next week is February so I’m back to smaller, weekly projects for art practice. With my first one being a style study of Kyle Ferrin, the board game artist of <a href="https://ledergames.com/products/root-a-game-of-woodland-might-and-right" target="_blank" rel="noopener noreferrer">Root fame</a>. I also want to take some time next week and review all the assets I relied on for the game and share some of my favourites in their own blog post.</p>
-<p>For LitToS, we’re probably going to take some time away from it and start looking for ways to make it a more sustainable project while lightly polishing what we have so far.</p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-        <category label="games" term="games"/>
     </entry>
 </feed>
