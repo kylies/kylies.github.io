@@ -4,10 +4,44 @@
         <title>Kymira Blog</title>
         <link>https://kymira.ca/blog</link>
         <description>Kymira Blog</description>
-        <lastBuildDate>Mon, 08 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[End of summer studio activities]]></title>
+            <link>https://kymira.ca/blog/summer-2025</link>
+            <guid>https://kymira.ca/blog/summer-2025</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A short summary of what we’ve been up to the last few months.]]></description>
+            <content:encoded><![CDATA[<p>It’s been a while since I wrote a blog post so I thought I’d do a quick little summary one to re-cap some of the bigger things we’ve been up to as a studio. Summer is often a busy time so we’ll likely shift our gears as we get into fall and fight the urge to hibernate for the next few months.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="grants">Grants<a href="https://kymira.ca/blog/summer-2025#grants" class="hash-link" aria-label="Direct link to Grants" title="Direct link to Grants">​</a></h2>
+<p>We did 2 big grant applications over the summer. The first was for <a href="https://wingselevate.carrd.co/" target="_blank" rel="noopener noreferrer">WINGS Elevate</a>, a grant focused on women led development teams. The second was for <a href="https://grants.draknek.org/" target="_blank" rel="noopener noreferrer">Draknek New Voices Puzzle Grant</a> which focused on traditionally underrepresented groups. These due dates were exactly a month apart which worked out nicely for us to be able to use our demo for both applications.</p>
+<p>We have already heard back from WINGS to hear that we didn’t get that one. And seeing the announced titles I can understand why. The winners have very advanced, very polished looking games. It had been promoted as a grant for prototypes but, just as with trying to get a publisher, it seems like the more finished your game is the better chance you have.</p>
+<p>Responses for Draknek won’t go out until December so we still have a lot of waiting left for that one. They also received over 300 applicants which is a scary amount of studios to compete with.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="qgcon">QGCon<a href="https://kymira.ca/blog/summer-2025#qgcon" class="hash-link" aria-label="Direct link to QGCon" title="Direct link to QGCon">​</a></h2>
+<p>At the end of September we attended the <a href="https://www.qgcon.org/" target="_blank" rel="noopener noreferrer">Queerness in Games Conference (QGCon)</a>.</p>
+<p><img decoding="async" loading="lazy" alt="Photo of our booth setup" src="https://kymira.ca/assets/images/qgcon-2025-table-27e2d52ed144789bf9876a2995cd131c.jpg" width="2268" height="1900" class="img_ev3q"></p>
+<p>We were selected to take part in the Arcade to show Love in the Time of Spellphage. This was our first time showing a game as the studio anywhere and our first real interactions with the public as a studio. We were quiet nervous about the event, unsure what to expect or even what to prepare for. The whole thing ended up being on the quieter side which meant fewer people to try our game but it gave us lots of time to socialize and get to know the other presenters in the Arcade room which was really cool.</p>
+<p><img decoding="async" loading="lazy" alt="Official QGCon photo. Mackenzie sits and plays Fateweaver while Kylie in a witch hat sits behind the table." src="https://kymira.ca/assets/images/qgcon-playtest-b512adc9d405f8d1a50bdff4cd869846.jpg" width="1024" height="599" class="img_ev3q"></p>
+<p>While the event didn’t feel like a great marketing beat for Spellphage or anything like that, getting to meet other queer game devs making weird and unique games made the event feel worthwhile. We also got to meetup with some friends from the Baby Ghost program and catch a few of the talks. We also got to give out Dustin stickers which was fun because a lot of players were won over to being Dustin fans.</p>
+<p><img decoding="async" loading="lazy" alt="No Goblemo Dustin sticker." src="https://kymira.ca/assets/images/dustin-stickers-3e46eec2a9a1079e8a1817b96776cfaf.jpg" width="2582" height="1112" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="life-activities">Life activities<a href="https://kymira.ca/blog/summer-2025#life-activities" class="hash-link" aria-label="Direct link to Life activities" title="Direct link to Life activities">​</a></h2>
+<p>We had multiple family visits over the summer that we balanced with our grant and event deadlines. My hip pain came and went, getting 2 cortisone shots that seemed to make no difference. So I got a cane to try to take some stress off my body but the only real way to avoid making things worse seems to be to walk as little as possible. Sitting at the conference for two days in a row definitely wasn’t appreciated by my body.</p>
+<p>The weekend after QGCon was my wife’s birthday and since we had a pretty stressful summer with no real vacation time we made an indulgence out of it. Booking a <a href="https://www.chaletlacouleedouce.com/" target="_blank" rel="noopener noreferrer">cabin with a full Nordic Spa experience</a> just outside of Montreal. With fall just getting started we got extremely lucky with some lovely weather and the trees putting on their fall colours.</p>
+<p><img decoding="async" loading="lazy" alt="Me canoeing on the river." src="https://kymira.ca/assets/images/2025-canoe-478d480fa07c81e610d3c441dc15b89e.jpg" width="3024" height="4032" class="img_ev3q"></p>
+<p>The cabin marked the end of our busy summer so now I hope to settle into some home routines for a while, catch up on some cleaning, get back into the Godot course, start the Chris Z marketing course, and put some real focus into some Fateweaver art.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What’s next<a href="https://kymira.ca/blog/summer-2025#whats-next" class="hash-link" aria-label="Direct link to What’s next" title="Direct link to What’s next">​</a></h2>
+<p>Project wise we have a few different things in motion.</p>
+<p>We feel like we’ve pushed for as much feedback as we can get from our limited circle at the moment for Fateweaver. We have a Fate expansion in the works which is likely to be the last content expansion before we release a demo on Steam. We have an idea for how we want the final game to be formatted now which means re-building a fair bit of what we currently have. Not in gameplay but in structure.</p>
+<p>Something we picked up on in playtesting was that it’s hard to keep everyone happy. Which obviously isn’t something you can do 100% but given this is our first major commercial game we want to aim for the largest audience we can. So while we had a few players pick up on things very quickly and even master the game, we also saw how others struggled with the tutorial. We did want to make a difficult game, which we knew wouldn’t be for everyone, but we do want to at least be able to get most, if not everyone, through the tutorial to get a grasp for the game. So we’re now working on the ramping and speed of how the game begins to hopefully make it a more generalized welcoming experience.</p>
+<p>Love in the time of Spellphage has been selected to be included in an upcoming Steam festival which is pretty exciting as it’s still just our 2nd one ever. Spellphage also passed 100 wishlists on Steam a few weeks ago which means we’ll be sticking to our planned Steam release of early next year! 100 wishlists is baby numbers when it comes to Steam but for it to be our first game that we aren’t pushing hard on marketing and that it’s a short narrative game (not popular on Steam), it’s still an exciting number to reach. To give it another shot at some visibility we’ll submit Spellphage to Steam Next Fest in February 2026 and likely release it not long after that.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/summer-2025#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>For specific studio wthcrft news you can now subscribe to a newsletter <a href="https://wtchcrft.com/" target="_blank" rel="noopener noreferrer">on our website</a>. I’ll likely be taking parts of these blog posts for newsletter updates as it’s fully studio branded instead of my personal blog. Do still hope to keep blogging though. But I’m also looking to migrate my Docsaurus Markdown blog to a more dynamic setup, just haven’t had the time to really investigate alternatives. Maybe something that supports comments.</p>
+<p>My goal for the next few weeks is to wrap up a lot of Fateweaver art but also to hopefully wrap up Hades 2 so that it stops being my main distraction...</p>]]></content:encoded>
+            <category>studio wtchcrft</category>
+            <category>video games</category>
+        </item>
         <item>
             <title><![CDATA[Living our (studio) values - part 2]]></title>
             <link>https://kymira.ca/blog/sustainability</link>
@@ -901,85 +935,6 @@ From reading and watching other people break down the style it became clear that
 <p>Pinterest board <a href="https://ca.pinterest.com/maeanu3639/wap-beetles/" target="_blank" rel="noopener noreferrer">of beetles</a>.</p>]]></content:encoded>
             <category>art</category>
             <category>wap</category>
-        </item>
-        <item>
-            <title><![CDATA[Style Study - Kyle Ferrin]]></title>
-            <link>https://kymira.ca/blog/kyle-ferrin-study</link>
-            <guid>https://kymira.ca/blog/kyle-ferrin-study</guid>
-            <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A week spent studying the art style of the board game Root, as done by Kyle Ferrin.]]></description>
-            <content:encoded><![CDATA[<p>As part of my WAP year I did one style study, <a href="https://www.kymira.ca/blog/wap-34" target="_blank" rel="noopener noreferrer">Ken Sugimori’s Pokemon trainers</a>. This year I’m going to attempt to do a style study every month to push me out of my comfort zone and also to learn to break down what I’m looking at when it comes to art pieces.</p>
-<p>Kyle Ferrin was an easy first choice as he has both a very distinct style that’s almost instantly recognizable to me and it’s extremely cute. For this study I’m focusing mostly on his visual style of the boardgame Root and not his whole portfolio but he is pretty consistent in some regards.</p>
-<p>Before jumping in I wanted to identify the main things I wanted to learn or understand in this particular study:</p>
-<ul>
-<li>Ink work: Kyle uses blank ink for a lot of shadows, much more than I would usually</li>
-<li>Shapes: We’re gonna be looking at a lot of little critters, how does he keep them recognizable?</li>
-<li>Colours: The work in Root feels extremely vibrant while still natural.</li>
-<li>Backgrounds: Kyle doesn’t do a lot of backgrounds but does have a few techniques he repeats.</li>
-</ul>
-<p>Studies are going to break down differently from my WAP weeks, and may even differ from artist to artist. I made a 5 day plan for this one and mostly managed to stick to it.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1---research-and-techniques">Day 1 - Research and techniques<a href="https://kymira.ca/blog/kyle-ferrin-study#day-1---research-and-techniques" class="hash-link" aria-label="Direct link to Day 1 - Research and techniques" title="Direct link to Day 1 - Research and techniques">​</a></h2>
-<p>Root and Kyle are, thankfully, both very popular. An added bonus is that Kyle has some recorded streams of his full art process. This makes understanding his workflow pretty easy as you can watch him do it in real time. I was even able to find 2 interviews he did where he talks about art which led to a few gems that helped me approach this study week.</p>
-<p>Interview 1: <a href="https://www.moregamesplease.com/art-in-boardgames/2018/3/15/kyle-ferrin-art-in-board-games-31" target="_blank" rel="noopener noreferrer">Kyle Ferrin: Art in Board Games #31</a></p>
-<p>Interview 2: <a href="https://www.reddit.com/r/boardgames/comments/bu8a6l/interview_with_kyle_ferrin_artist_on_root/?rdt=54583" target="_blank" rel="noopener noreferrer">Interview with Kyle Ferrin, Artist on Root!</a> (Original website seems broken)</p>
-<p>It was in the images chosen for the More Games Please interview that I noticed the bush and tree techniques. So on day one I tried to recreate those techniques digitally. I then took my old goblin drawing and did an inking pass on it to practice where Kyle would put harder shadows, using this collection of skeleton warriors as examples to reference.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/kf_techniques1-bf0cb463cd44b34e8585b15afc24150b.jpg" width="3840" height="2160" class="img_ev3q"></p>
-<p>I then spent some time with the Root cover image and a collection of Kyle goblins. I love how expressive his characters are and I wanted to look more closely at Root character proportions.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/kf-faces-15d86904f3527b60123afb87f1795b3a.jpg" width="3840" height="1735" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-2---first-attempt-at-the-style">Day 2 - First attempt at the style<a href="https://kymira.ca/blog/kyle-ferrin-study#day-2---first-attempt-at-the-style" class="hash-link" aria-label="Direct link to Day 2 - First attempt at the style" title="Direct link to Day 2 - First attempt at the style">​</a></h2>
-<p>Feeling pretty excited by what I learned in day 1 I jumped into creating a Root fanart piece. I wanted to draw critters that aren’t as common in Root so I chose pigeon and squirrel. Kyle has done a few squirrels but I have to say they aren’t my favourite designs of his.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/kf-full-scene1-0e4ce6745fd4c63a0e0e4750d4df6d07.jpg" width="2015" height="1443" class="img_ev3q"></p>
-<p>I’m happy with a lot of this piece but there are a few areas that stand out for improvement. Mostly the building. There aren’t many full buildings in the Root art so I didn’t have much to use as a reference. Because of that I kind of just floundered and used it to fill space. I also could have played with more line/ink colour variations instead of just black and white.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3---workflow-replication">Day 3 - Workflow replication<a href="https://kymira.ca/blog/kyle-ferrin-study#day-3---workflow-replication" class="hash-link" aria-label="Direct link to Day 3 - Workflow replication" title="Direct link to Day 3 - Workflow replication">​</a></h2>
-<p>To see Kyle’s workflow in action I watched his live stream from three months ago: <a href="https://youtu.be/kxlhol6JOhQ?si=ua68nO0f4xz1k0sk" target="_blank" rel="noopener noreferrer">Leder Games | Art Stream with Kyle Ferrin!</a></p>
-<p>Which seems to breakdown to:</p>
-<ol>
-<li>Sketch</li>
-<li>Ink</li>
-<li>Scan</li>
-<li>Digital colours</li>
-</ol>
-<p>So I would do the same. Instead of adding difficulty of coming up with a piece from scratch I decided to recreate a piece of Root art. I wanted something with a little bit of background as well as a character so I went with this raccoon behind a log piece.</p>
-<p><img decoding="async" loading="lazy" alt="Raccoon in behind a log by Kyle Ferrin" src="https://kymira.ca/assets/images/kyle-forest-raccoon-bca23aeb7b245ced8eb1d16f2acfbbcc.jpg" width="736" height="1028" class="img_ev3q">
-(This is an original Root piece.)</p>
-<p>I did a sketch and then tested my pens because it’s been a long time since I inked anything by hand. Most of what I own are Microns which didn’t feel right for this, they are too small and precise. So I chose my pens that had more of a brush tip for larger areas.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/raccoon-inks-69861b128bfe57e65b28176c08ebf8ae.jpg" width="3072" height="4080" class="img_ev3q"></p>
-<p>I don’t have a scanner so I had to rely on trying to get a good phone photo. It came out pretty decent after some level corrections in CSP but also felt like there were a lot of strange artifacts like red pixels and blurring in the photo.</p>
-<p>I then colour picked from the original and tried out some digital watercolour brushes to get that textured look that Kyle gets. In the video Kyle shares the limited Root colour palette that he uses for all the board game pieces. And in one of the interviews he said:</p>
-<p>“Most of the color pallet for the board art in Root is sampled from autumn foliage photography.”</p>
-<p>So I also felt comfortable deviating a little from the source image as long as I kept the autumn colours in mind.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/kf-copy-study-cf397222294342549691a70a1dfc2401.jpg" width="2004" height="3051" class="img_ev3q"></p>
-<p>My own raccoon came out a little too small but I’m happy with the piece overall. I liked working with the water colour brushes as they keep the large colour areas interesting without even doing a shading pass. I did try taking some notes on areas of improvement.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/kf-copy-study-notes-aca8bf19ed6d283e1dfa33cd26c4ca00.jpg" width="2004" height="3051" class="img_ev3q"></p>
-<p>You can see them side by side here:</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/kf-sidebyside-ae02cba9c1cdd34e990969cbd17a6147.jpg" width="3348" height="2193" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-4---watercolours">Day 4 - Watercolours<a href="https://kymira.ca/blog/kyle-ferrin-study#day-4---watercolours" class="hash-link" aria-label="Direct link to Day 4 - Watercolours" title="Direct link to Day 4 - Watercolours">​</a></h2>
-<p>For day 4 I took it easy a bit by doing a physical watercolour pass on the inks I did previously. Mostly because I enjoy working with watercolours even if I’m not very skilled at them. Unfortunately my pens weren’t waterproof…</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/raccoon-watercolour-f20d4e15d17665922fdb796bd105cab8.jpg" width="2254" height="3458" class="img_ev3q"></p>
-<p>Parts of it went okay while others got out of control rather quickly. But it was fun to do it physically after already doing the piece digitally.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-5---new-unique-piece-in-the-style">Day 5 - New unique piece in the style<a href="https://kymira.ca/blog/kyle-ferrin-study#day-5---new-unique-piece-in-the-style" class="hash-link" aria-label="Direct link to Day 5 - New unique piece in the style" title="Direct link to Day 5 - New unique piece in the style">​</a></h2>
-<p>For the last day I wanted to draw something new again. I did some thumbnailing and chose the parts of the style I definitely wanted to incorporate.</p>
-<p>While most of the art for Root is small cards and mostly individual character pieces, I’ve been in full “scene” mode from working on the visual novel. So a background and multiple characters. Basically gave myself hard mode for the final. But I really enjoyed the ways of doing forest plants, I wanted to keep doing those.</p>
-<p>I also didn’t let myself colour pick from an image and instead eye balled the colours to see how far off I would be. I don’t think any of the Root pieces do much foreground background stuff but I did darker a whole section to create some depth to the image. Trying to push the style a bit and also just bring in my own techniques for creating a scene.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/kf-final-1e7ec3d2631398e70a5fcbb3b9b0f901.jpg" width="1691" height="1080" class="img_ev3q"></p>
-<p>I’m pretty happy with the piece! Something I learned while working on it, while watching another Root art stream, was that Kyle works at very small sizes. He showed off the pens he used and it made me realize I’ve just been super over sizing everything. When I went to use my own pens my thoughts were “these are too small” when it turns out they were way too big. I didn’t imagine that he was working at such a small scale, but it makes filling in blacks so much easier when you are fighting to fill a whole page. Due to working at a larger size I also end up with a lot of empty space. Most of the Root pieces don't have much sky and I probably shouldn't have filled in more of the background with larger grasses and more trees.</p>
-<p>Something learned from the interviews is that the colour palette and line work style for Root is chosen with a reason; communicating game state. The art pieces are meant to be easy to parse and understand at a glance thanks to high contrast, be that between lines, colours, or shapes. Something that I went against by darkening the foreground. I have the freedom of not drawing this fanart for a game but it's extremely interesting to learn why certain creative desicions are made for particular settings.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resources">Resources<a href="https://kymira.ca/blog/kyle-ferrin-study#resources" class="hash-link" aria-label="Direct link to Resources" title="Direct link to Resources">​</a></h2>
-<p>I’m not the only person doing Kyle Ferrin or Root studies. I found one video on YouTube of another artist doing their best to replicate the style:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pfXEM3C8RZE?si=Qq0wve34b3kHabhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<p>The artist goes for a full digital approach which is what I did in my first attempt as well. I think it’s okay for a single character but the larger Root scenes with backgrounds and heavier inking feel like they really need a physical ink brush to capture the style properly.</p>
-<p>I also found another person’s Root fanart over on Reddit that I really liked: <a href="https://www.reddit.com/r/rootgame/comments/11kssrz/i_tried_to_recreate_the_root_artstyle_free_to_use/" target="_blank" rel="noopener noreferrer">I tried to recreate the Root artstyle!</a>. Their work also feels fully digital but I wasn’t able to find any active website or socials for them.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/kyle-ferrin-study#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>I feel like this was a very promising first style study. I’m happy with the pieces I produced for it and there are tricks here that I can see myself relying on to create more stylized backgrounds. It was a fun kind of investigation to really watch someone work and try to analyses their pieces. I’d also like to be able to draw my own lovable little guys but I think I still have more practice in that area to do. Downside to this study, I now want to buy all the Root games...</p>
-<p>Find Kyle’s work at:</p>
-<ul>
-<li><a href="https://www.instagram.com/d20plusmodifier/" target="_blank" rel="noopener noreferrer">His Instagram</a></li>
-<li><a href="https://kyleferrin.threadless.com/" target="_blank" rel="noopener noreferrer">His store</a></li>
-<li>Check out other games Kyle has worked on at <a href="https://ledergames.com/" target="_blank" rel="noopener noreferrer">Leder Games</a>.</li>
-</ul>
-<p>I’ve been very sick all this week so I might take it easy next week with a more classic WAP or even a week of focusing on some Littos bits and pieces.</p>]]></content:encoded>
-            <category>art</category>
-            <category>style study</category>
         </item>
     </channel>
 </rss>
