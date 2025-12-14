@@ -2,11 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kymira.ca/blog</id>
     <title>Kymira Blog</title>
-    <updated>2025-11-25T00:00:00.000Z</updated>
+    <updated>2025-12-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kymira.ca/blog"/>
     <subtitle>Kymira Blog</subtitle>
     <icon>https://kymira.ca/img/favicon2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Making Steam capsule art]]></title>
+        <id>https://kymira.ca/blog/fatemender-capsule</id>
+        <link href="https://kymira.ca/blog/fatemender-capsule"/>
+        <updated>2025-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The evolution of the Fatemender capsule image for Steam.]]></summary>
+        <content type="html"><![CDATA[<p>The Steam capsule art for Fatemender has taken multiple months, feedback from many people, and the efforts of both me and my wife. It’s probably good that I was too busy to blog about it earlier in the year as it’s changed a lot since the first version. So this blog post is about trying to summarize that journey.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="version-1">Version 1<a href="https://kymira.ca/blog/fatemender-capsule#version-1" class="hash-link" aria-label="Direct link to Version 1" title="Direct link to Version 1">​</a></h2>
+<p>There’s a lot you want to achieve with your Steam capsule header. You want to get people’s attention, you want to be interesting enough to get people to click, and you want to communicate the important parts of your game that convey genre.</p>
+<p>In my first attempt I was aiming for ‘tile’, ‘environments’, and ‘nebulous space’. I was imagining our landscape tiles floating in space as our main character anima looks out. I put a full weekend into it, struggling with colours, style, and perspective. But felt it was a “good enough” first take.</p>
+<p><img decoding="async" loading="lazy" alt="In progress v1" src="https://kymira.ca/assets/images/fw-keyart-sketch-aa1446bd0c35fb4f957bd7071e0844ba.png" width="1279" height="719" class="img_ev3q"></p>
+<p>Getting some basic composition down.</p>
+<p><img decoding="async" loading="lazy" alt="v1" src="https://kymira.ca/assets/images/fw-keyart-v1-da7e6908b999fd5413384f232289a548.jpg" width="3840" height="2160" class="img_ev3q"></p>
+<p>We shared it for feedback with our game group and got some feedback and suggestions on how to better convey the grid like nature of the game. It was enough of a suggestion to need a full re-do so it was on to version number two.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="version-2">Version 2<a href="https://kymira.ca/blog/fatemender-capsule#version-2" class="hash-link" aria-label="Direct link to Version 2" title="Direct link to Version 2">​</a></h2>
+<p>I had the general composition down fairly early, working with a base grid and building on top of it. I considered having 5 tiles in view like below but ended up trying to break the balance. Instead of having 5 spread out evenly moved 4 to one side, have an “active” zone and a “quiet zone” in the piece. Creating contrast with space.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/keyart-grid-c856242312f8c869e21203cd980d1983.png" width="1924" height="1082" class="img_ev3q"></p>
+<p>I had the goal of having more shown in each tile so there was a decent amount of sketch time going on but I was also just strongly pulling from my first version. I had bought <a href="https://assets.clip-studio.com/en-us/detail?id=1954562" target="_blank" rel="noopener noreferrer">this brush for drawing hedge-mazes</a> because the idea of having to texture every wall was very intimidating. This brush did end up defining the style as it was a edge-less brush (no cartoon like border on it), meaning nothing else in the piece should
+have hard lines on the edges either.</p>
+<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/keyart-v2-progress-2b45d33a6cb3c3458119d17f2db57eea.png" width="1170" height="496" class="img_ev3q"></p>
+<p>Every few days I would choose a tile and work on it. It took many days. I don’t think there’s a piece I’ve done this year that took so much time. The file has so many layers and is at such a large resolution that it’s the first file that my computer actually struggles to open. But! It’s leagues better over v1, a clear example of getting something better the more time you’re willing to put into it. After a few weeks, we had v2.</p>
+<p><img decoding="async" loading="lazy" alt="v2" src="https://kymira.ca/assets/images/fm-library-header-02581c666398bca823fd0ac4e322a792.png" width="920" height="430" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prepping-for-steam">Prepping for Steam<a href="https://kymira.ca/blog/fatemender-capsule#prepping-for-steam" class="hash-link" aria-label="Direct link to Prepping for Steam" title="Direct link to Prepping for Steam">​</a></h2>
+<p>We were getting close to publicly announcing the game so it was time to prep the Steam assets. Steam wants 6 different versions of your capsule that are all different sizes with different requirements. This process super sucks.
+The main image was a close ratio for the main header image so that wasn’t so bad. But then you get into the super small ones (ended up just making a new thing) and the super tall ones (hope your image crops nicely). Our very landscape shaped image didn’t play well with the dimensions for a taller image. So I went in and added a character on the other side of the board to fill space.</p>
+<p><img decoding="async" loading="lazy" alt="Steam Library image." src="https://kymira.ca/assets/images/vc-blinkus-v2-de3547afa8f8967ce459d01032e9bdc6.jpg" width="748" height="896" class="img_ev3q"></p>
+<p>So after a few more hours of cropping, sizing, uploading, re-uploading, we had a Steam page and a few days later we pushed it live.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="version-3">Version 3<a href="https://kymira.ca/blog/fatemender-capsule#version-3" class="hash-link" aria-label="Direct link to Version 3" title="Direct link to Version 3">​</a></h2>
+<p>As soon as we pushed the page live we started asking around for feedback. Our first time sharing so much of the game publicly with people we hadn’t interacted with before.</p>
+<p>Feedback was... a lot. In that there was a lot of it and it’s not easy to always interpret feedback.
+I was in some pretty intense weeks at my day job during this phase and didn’t have much energy left for art on weekdays. Sophie was the one getting the feedback so she took over doing edits at this point.</p>
+<p>After back and fourths with a few people she ended up with a much more simplified version, centered around our character who had only been added to fill space, lol.</p>
+<p><img decoding="async" loading="lazy" alt="v3." src="https://kymira.ca/assets/images/fm-capsule-v3-2a93b22cdbe754aa5d76374514890bc6.png" width="920" height="430" class="img_ev3q"></p>
+<p>It makes sense though! There are now cards to communicate the deck-building part, still two different land types, and a focus on Blinkus, a character, which people often care about at a quick glance. It does mean that it includes only a fraction of what I spent weeks working on. But! It hasn't been for naught, as we use the full art piece in the game announcement trailer and my wife animated each grid square so that it looks sick and float-y as the last scene of the trailer:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qybVMTUlLwY?si=7XvQbWY_GvIKiGrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>We have already received feedback that this might be too much character focus for a game that’s more mechanics and puzzles. So we’re still kind of torn!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/fatemender-capsule#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>This blog post has a big take away; don’t rush your capsule art.</p>
+<p>And also; prepare to do this more than once.</p>
+<p>I did the Love in the Time of Spellphage capsule art in a weekend, maybe underestimated how long this one would take. We are trying to approach Fatemender in a more professional way so it makes sense that we’d need to iterate on this important part of the game. But wow the time needed to iterate on each version really piles up.</p>
+<p>At of the time of posting this blog I’m not sure which capsule art will be live on Steam. It takes about 24 hours for an update to propagate and we’re still kind of on the fence about which one works best. We even have an idea for a fairly radical change up for a version 4...</p>]]></content>
+        <author>
+            <name>Kylie</name>
+            <uri>https://github.com/kylies</uri>
+        </author>
+        <category label="video games" term="video games"/>
+        <category label="studio wtchcrft" term="studio wtchcrft"/>
+        <category label="fatemender" term="fatemender"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conferences in 2025]]></title>
         <id>https://kymira.ca/blog/conferences-2025</id>
@@ -978,54 +1027,6 @@ From reading and watching other people break down the style it became clear that
 <p>Something I struggled with this week was finding references of yoga poses not in full profile. It’s just how most photography is done as it’s the best way to view the pose if you want to replicate it yourself. But it made for rather static looking bodies when they’re all at the exact same angle. Next anatomy theme needs to be something that’s, weirdly, photographed less.</p>
 <p>This anatomy week brings my first practice cycle of the year to a close. Did one; Style study, WAP, Reference study, and one anatomy week. So today the cycle starts again as I return to style studies, with this week's style being The Art of Hades (the video game). A fairly iconic style now, the game has a huge fandom of people replicating the style so I know I’ll find Youtube videos. But there isn’t as much from the studio and art director, which makes sense as you don’t really want another game copying your visual style.</p>
 <p>Pinterest board <a href="https://ca.pinterest.com/maeanu3639/wap-yoga/" target="_blank" rel="noopener noreferrer">of yoga poses.</a></p>]]></content>
-        <author>
-            <name>Kylie</name>
-            <uri>https://github.com/kylies</uri>
-        </author>
-        <category label="art" term="art"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reference Study - Fey Boat]]></title>
-        <id>https://kymira.ca/blog/fey-boat</id>
-        <link href="https://kymira.ca/blog/fey-boat"/>
-        <updated>2025-03-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Taking 3 reference images and making them into 1.]]></summary>
-        <content type="html"><![CDATA[<p>As I was preparing my art practice goals for the new year I knew I wanted to practice finishing pieces more often. My WAP weeks were about expanding my mental library of images and drawing things I don’t often draw. But those barely ever left the sketch phase as they were focused on getting the shapes down. The style studies are a lot of fun and I’ll keep doing them but they mean working in a very focused way to achieve a rather limited goal, matching someone else’s style. And while these will help me learn things that will eventually become my style, the execution won’t always feel natural.</p>
-<p>And so I came up with this new exercise after watching a few “learning from references” art tutorial videos on YouTube. Basically the idea is that instead of just using one image as inspiration you use multiple so you’re leaning less on one particular artist or style.</p>
-<p>Last week in my <a href="https://www.kymira.ca/blog/wap-41" target="_blank" rel="noopener noreferrer">beetles WAP</a> I wrote about how this would go. Rolling dice to select 3 images and then go from there. So we’ll start with my 3 images:</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="reference-images">Reference Images<a href="https://kymira.ca/blog/fey-boat#reference-images" class="hash-link" aria-label="Direct link to Reference Images" title="Direct link to Reference Images">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/rs1_refs-a7050718f8ae8426611287bf5be5da35.jpg" width="2340" height="815" class="img_ev3q"></p>
-<p>I was pretty excited about getting the boat first. Thought I could do some sort of Dredge inspired piece with it. The piece is by concept artist <a href="https://www.artstation.com/artwork/r33nO" target="_blank" rel="noopener noreferrer">Arthus Pilorget</a>.</p>
-<p>But then I got the colour palette… which isn’t very Dredge like at all. The Genshin Impact Kazuha palette was put together by <a href="https://ko-fi.com/s/090280618a" target="_blank" rel="noopener noreferrer">Caramello__o over on Ko-fi</a>.</p>
-<p>Dice roll 3 added these nature spirit guys by <a href="https://x.com/dagasi_yk" target="_blank" rel="noopener noreferrer">dagasi_yk on Twitter</a> as the main characters.</p>
-<p>Wanting to expand my ideas beyond just the three images so I made a mini board of things I felt were in a similar vibe. <a href="https://ca.pinterest.com/maeanu3639/2025-num-1/" target="_blank" rel="noopener noreferrer">Full board</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="thumbnailing">Thumbnailing<a href="https://kymira.ca/blog/fey-boat#thumbnailing" class="hash-link" aria-label="Direct link to Thumbnailing" title="Direct link to Thumbnailing">​</a></h2>
-<p>First step was to do some basic brainstorming. Starting with what first came to mind and then pushing the POV around to see if the scene got more interesting from other angles.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/rs1_thumbnails-c1f37a72fe1109b58f5efaeac14ef79c.jpg" width="3840" height="2160" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="basic-colours-and-shapes">Basic colours and shapes<a href="https://kymira.ca/blog/fey-boat#basic-colours-and-shapes" class="hash-link" aria-label="Direct link to Basic colours and shapes" title="Direct link to Basic colours and shapes">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/rs1_sketch-2f8c816c115192426339f6625989de9c.jpg" width="3456" height="1944" class="img_ev3q"></p>
-<p>I had a decent amount of time on Sunday so after choosing which thumbnail to go with I enlarged it and started to play around with the main colours. I was fairly fixated on have a big orange sky, which may have not been the best choice in the end but I found it rather pleasant to work with as it gave a quickly, otherworldly-ness, to the piece.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-1-progress">Day 1 progress<a href="https://kymira.ca/blog/fey-boat#day-1-progress" class="hash-link" aria-label="Direct link to Day 1 progress" title="Direct link to Day 1 progress">​</a></h2>
-<p>It’s not often that I give myself a whole week to work on a single piece. During my Root style study week I made 3 complete pieces in 7 days. Having 7 days for one felt extravagant.</p>
-<p>Or at least it did until I started painting. I couldn’t choose how I wanted to do the piece. Did I want hard black lines? Did I want lineless? A softer painting style? Or flat and blocky?</p>
-<p>While I had 3 images as references to build the piece, I didn’t use any of them to really dictate the style. So I pulled up some digital painting videos and waited for inspiration to reach me. Eventually, I got my first piece down; the roof.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/rs1_sunday1-a23b6ec386f46fe9c83cdbbaaa86d646.png" width="1392" height="1127" class="img_ev3q"></p>
-<p>I was pretty happy with how these shingles looked but my attempt to make it more readable by changing the colours instantly broke my colour palette and also made the scene look like it was made out of candy. But I already felt myself floundering so I pushed on. Grabbing the part of the image that interested me most, the little guys.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/rs1_sunday2-5a888fc03e9bda734d353164d08cee92.png" width="331" height="698" class="img_ev3q"></p>
-<p>These guys I was happy with. With these guys I could end my day not hating the piece.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="work-continues">Work continues<a href="https://kymira.ca/blog/fey-boat#work-continues" class="hash-link" aria-label="Direct link to Work continues" title="Direct link to Work continues">​</a></h2>
-<p>With the weekend done I made it a goal to try to put 1 hour into the piece everyday after work. Some days saw more progress than others. By Tuesday I had most of a boat.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/rs1_tuesday-939423d8f0bde3af6c0f692ae6af56ac.png" width="1068" height="832" class="img_ev3q"></p>
-<p>After that I kind of stopped saving progress shots….</p>
-<p>I finished most of the boat before going to the background. I returned to my struggles of choosing a stylistic choice once more and you can see me growing impatient by turning to leaf brushes for the tree and grass brushes to fill in the small islands. I’m not against using these kinds of brushes but since I only use them for these 2 features and they’re off to the side on their own island it does make them stand out more by not being consistent with the rest of the piece. If I had thought ahead and maybe balanced the islands in the background differently I could probably have made it look more normalized. But I’m kind of a “just push through” kind of artist. A habit I’m going to try to fix.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="final-piece">Final piece<a href="https://kymira.ca/blog/fey-boat#final-piece" class="hash-link" aria-label="Direct link to Final piece" title="Direct link to Final piece">​</a></h2>
-<p>I was able to wrap up the whole thing on Saturday, rushing to get it done before running D&amp;D and having taken the morning off to make a map and draw some goblins for the game.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/rs1_final-c8c72af12704e8575235d5d1dc91bcac.jpg" width="3456" height="1944" class="img_ev3q"></p>
-<p>Overall I think about somewhere between 10-15 hours went into this piece. Being able to take my time led to some parts I’m really happy with, like some of the wood texturing on the boat, how textured the clouds look, the little plant guys. There are definitely some areas I rushed either because I didn’t know how to accomplish what I wanted or because I was losing interest. I think next time I do this challenge I’m going to try to give myself a Friday deadline so I can spend a whole Saturday just working on light and shadows and colour corrections because that’s something I really enjoy but rarely give myself enough time to do properly.</p>
-<p>I’m not sure how well I was able to stick to the palette. I probably wouldn’t have chosen these colours on my own so it was nice to have the restriction, but it also made me constantly worry about deviating too far when wanting to do some hue shifted shadows. I also didn't keep some of the main points I highlighted in my thumbnails. I didn't keep the side wheel which I really wanted, or have there be plants on the boat. It just felt like I had enough going on when I made the choices but I kind of regret it now.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/fey-boat#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>While I could talk about all the cut corners and the things I’m not particularly pleased with, this was a very big project for me and it makes me happy when I look at it. I do wish I had played with more foreground/background stuff but this was my first project in this practice format so plenty of time to take more chances in the future. Maybe I’ll even enforce the palette further by not allowing any shifts and having to use only the chosen colours as highlights and shadows. Lots of options for the next one!</p>
-<p>Next week I’m going back to anatomy studies as it’s another facet I want to keep improving at and the secret to that one is basically just keep doing it.</p>]]></content>
         <author>
             <name>Kylie</name>
             <uri>https://github.com/kylies</uri>
