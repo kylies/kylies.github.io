@@ -4,10 +4,26 @@
         <title>Kymira Blog</title>
         <link>https://kymira.ca/blog</link>
         <description>Kymira Blog</description>
-        <lastBuildDate>Sun, 21 Dec 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Blog migration]]></title>
+            <link>https://kymira.ca/blog/bear-migration</link>
+            <guid>https://kymira.ca/blog/bear-migration</guid>
+            <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog migration warning post.]]></description>
+            <content:encoded><![CDATA[<p>This is a warning post!</p>
+<p>The warning is that I might mess up.</p>
+<p><strong>If you don't get a new blog post from me tomorrow something didn't work.</strong></p>
+<p>I'm about to swap my website over to a hosted solution so that I can try to make my blogging life easier. I'd mentioned in a few posts that I was looking at other options and I finally found one that ticked enough boxes to give it a shot.</p>
+<p>I manually migrated every single blog post over to <a href="https://bearblog.dev/" target="_blank" rel="noopener noreferrer">BearBlog</a>. It's got simplicity, it's got old internet vibes, it's got the possiblity for comments.</p>
+<p>It's main downside is that it's media management isn't great. I have my art sorted into a bunch of different folders and named specifically to be easily findable but all BearBlog images are kind of just thrown into a page. But, there's a good chance I'll never have to touch them again after I post so I'm hoping it doesn't cause too much friction.</p>
+<p>Back to the warning. This is my last post through my Docusaurus+GitHub Actions setup. As soon as I post this I'm doing to swap my domain over to the BearBlog site and also do an RSS Feed redirect. This should mean that if you are using an RSS reader that you'll keep getting new posts without having to do anything on your end. But!</p>
+<p><strong>If you don't get a new blog post from me tomorrow it didn't work.</strong></p>
+<p>You'll have to go to <a href="https://www.kymira.ca/" target="_blank" rel="noopener noreferrer">kymira.ca</a> to re-subscribe to the RSS feed on the new version of the site. (But don't do that until after January 17th)</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Books - 2025 review]]></title>
             <link>https://kymira.ca/blog/books-2025</link>
@@ -950,36 +966,6 @@ I did manage to complete every lesson in the <a href="https://gdquest.itch.io/le
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/oil-squirrel#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
 <p>My spare time is being pulled in a lot of different directions right now, and my health isn’t feeling good enough to pursue them all. Going to do either a WAP or anatomy week next as a hopefully easier art time while I keep pursuing game studio stuff.</p>]]></content:encoded>
             <category>art</category>
-        </item>
-        <item>
-            <title><![CDATA[Pink Pawmi Club]]></title>
-            <link>https://kymira.ca/blog/ppc</link>
-            <guid>https://kymira.ca/blog/ppc</guid>
-            <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Putting shiny Pawmis in Chappell Roan’s Pink Pony Club.]]></description>
-            <content:encoded><![CDATA[<p>This week started off as a reference study. I had my 3 references selected, got through some thumbnails, did some different colour compositions and even started painting.</p>
-<p>But then there was a joke; What if Pink Pony Club, but it’s Pawmi instead of Pony. As context, a Pawmi is a recent gen Pokemon. This is a Pawmi:</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/pawmi-a696dd7839baddf57c4d94a5e8f8f79b.jpg" width="900" height="793" class="img_ev3q"></p>
-<p>The next day I went to see what colour shiny Pawmis are, and well, they’re pink. The joke basically writes itself. So I paused my reference study and drew Pawmis for a few days.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="chappell-roans-pink-pony-club">Chappell Roan’s Pink Pony Club<a href="https://kymira.ca/blog/ppc#chappell-roans-pink-pony-club" class="hash-link" aria-label="Direct link to Chappell Roan’s Pink Pony Club" title="Direct link to Chappell Roan’s Pink Pony Club">​</a></h2>
-<p>The first step to working on this visual gag was to actually watch the music video for Chappell Roan’s Pink Pony Club. I’ve known the song for a few years now but I’m not in the habit of watching music videos. Overall I found it to be pretty underwhelming, I was hoping for more over the top visuals to work with.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GR3Liudev18?si=mcykRJn6tsfNjrHV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="early-sketches">Early sketches<a href="https://kymira.ca/blog/ppc#early-sketches" class="hash-link" aria-label="Direct link to Early sketches" title="Direct link to Early sketches">​</a></h2>
-<p>After choosing the stage from the video as the main scene I started to do some sketches in Procreate. At first I had envisioned one of each Pawmi evolution on stage so I did two passes at that to find a composition. I ended up with two Pawmos that I really liked (Pawmis middle evolution) so I ended up keeping four of the sketches on stage.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ppc-sketches-f9a8d9214ccf0ea6c414fa947f110510.jpg" width="2732" height="2048" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rendering">Rendering<a href="https://kymira.ca/blog/ppc#rendering" class="hash-link" aria-label="Direct link to Rendering" title="Direct link to Rendering">​</a></h2>
-<p>I didn’t want to do the lines on the iPad so I sent the file over to my laptop and continued the piece in CSP. I wasn’t certain how I wanted to render the piece but I knew I wanted to keep it simple and at least close to the Pokemon style. I ended up really liking my first pass which was using the ink style from my Hades study week, using a pen with a set size. So 7px for the exterior lines and get smaller as you go inwards. I’ve just come to like its consistency and not worrying about how hard I’m pressing while trying to focus on getting the right lines down.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/pawmot-42b4da7581242cd75bcbdaf6bfd41aef.jpg" width="789" height="1207" class="img_ev3q"></p>
-<p>Took a break after that guy and continued the next day. Which happened to be my birthday where I was gifted two Pokemon for keeping company at my art desk. Gender is a drawing support who I now put between me and the desk to stop me from hunching forward too much while drawing at the tablet. And Pawmot is there because I love him.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/deskphoto-649f4a78320caa32fd69182c297849f4.jpg" width="1814" height="2442" class="img_ev3q"></p>
-<p>The full render took about 3 days of working on it here and there and it came together pretty easily. My wife suggested that there should be some cowboy accessories so I did give them some rhinestone garments. I didn’t want to spend ages on the background because this piece was mostly done to just show a joke but I feel like it sells pretty well for a simple background.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ppc-final-5f8fedd995d3d322fc71db798bce258c.jpg" width="2732" height="2048" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://kymira.ca/blog/ppc#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
-<p>I had a lot of fun with this piece. It’s easy to keep working on something when just looking at it makes you happy. I got to search and look at a lot of pawmi images. What more could a girl want?</p>
-<p>Since I like looking at my guys so much I did then return and make a vertical format so that I could possibly use them as a phone background to see them every day. I’ll now try to return to my reference study, maybe give it a few extra days while I try to learn some digital oil painting techniques.</p>
-<p><img decoding="async" loading="lazy" src="https://kymira.ca/assets/images/ppc-phone-background-98e0f2c7e7ea4b763f36d1c07b2a4762.png" width="1080" height="2400" class="img_ev3q"></p>]]></content:encoded>
-            <category>art</category>
-            <category>pokemon</category>
         </item>
     </channel>
 </rss>
